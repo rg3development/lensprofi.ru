@@ -1,0 +1,29 @@
+.block339 {height:1px;}
+.block220 {margin-right:10px;}
+.remover {right:-183px;}
+.positions td img {top:-4px;}
+.list273 li p {position:static;}
+.tabs24 li.pt1, .tabs24 li.pt2, .tabs24 li.pt3 {background:#b5b5b5;}
+.tabs24 li.pt1.active, .tabs24 li.pt2.active, .tabs24 li.pt3.active {background:#d72a18;}
+.tabs25 li.pt1, .tabs25 li.pt2, .tabs25 li.pt3 {background:#b5b5b5; width:auto; padding-right:10px; padding-left:10px;}
+.tabs25 li.pt1.active, .tabs25 li.pt2.active, .tabs25 li.pt3.active {background:#d72a18;}
+
+.letter {left:-26px;}
+
+#bskPopup {background:#fff; border:1px solid #ccc;}
+.block788a, .block788b, .block788c {background:#fff;}
+.block368 .remover {right:30px;}
+.menu ul li select {width:166px;}
+.holder960 { 
+ position: absolute; 
+ top: expression(130+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+'px'); 
+ right: expression(0+((e=document.documentElement.scrollLeft)?e:document.body.scrollLeft)+'px');} 
+
+.png {
+behavior: expression((this.runtimeStyle.behavior="none")&&(this.pngSet?this.pngSet=true:(this.nodeName == "IMG" && this.src.toLowerCase().indexOf('.png')>-1?(this.runtimeStyle.backgroundImage = "none",
+			this.runtimeStyle.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + this.src + "', sizingMethod='image')",
+			this.src = "img/pix.gif"):(this.origBg = this.origBg? this.origBg :this.currentStyle.backgroundImage.toString().replace('url("','').replace('")',''),
+			this.runtimeStyle.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + this.origBg + "', sizingMethod='crop')",
+			this.runtimeStyle.backgroundImage = "none")),this.pngSet=true)
+		);
+	}

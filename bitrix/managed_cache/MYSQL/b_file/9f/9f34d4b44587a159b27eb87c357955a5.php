@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001393154273';
+$dateexpire = '001393157873';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:3:{i:1120;a:13:{s:2:"ID";s:4:"1120";s:11:"TIMESTAMP_X";s:19:"02.05.2012 23:51:26";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:3:"367";s:5:"WIDTH";s:3:"450";s:9:"FILE_SIZE";s:5:"39866";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/c22";s:9:"FILE_NAME";s:36:"c22d2408975cccc33e1537925688d07d.jpg";s:13:"ORIGINAL_NAME";s:70:"AVIZOR ENZYME, 10 шт. (таблетки)_Avizor_Таблетки.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}i:1123;a:13:{s:2:"ID";s:4:"1123";s:11:"TIMESTAMP_X";s:19:"02.05.2012 23:54:02";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:2:"99";s:5:"WIDTH";s:3:"121";s:9:"FILE_SIZE";s:4:"3824";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/e37";s:9:"FILE_NAME";s:36:"e37e9dc31772760541cf6a14911d9822.jpg";s:13:"ORIGINAL_NAME";s:52:"BIOTRUE, 120 мл_Bausch & Lomb_Растворы.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}i:1124;a:13:{s:2:"ID";s:4:"1124";s:11:"TIMESTAMP_X";s:19:"02.05.2012 23:54:02";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:3:"368";s:5:"WIDTH";s:3:"450";s:9:"FILE_SIZE";s:5:"29921";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/1ed";s:9:"FILE_NAME";s:36:"1ed18c332c0f423ae2972c803c6aefc5.jpg";s:13:"ORIGINAL_NAME";s:52:"BIOTRUE, 120 мл_Bausch & Lomb_Растворы.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}}}';
+return true;
+?>

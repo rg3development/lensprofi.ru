@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001393154273';
+$dateexpire = '001393157873';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:3:{i:920;a:13:{s:2:"ID";s:3:"920";s:11:"TIMESTAMP_X";s:19:"28.04.2012 20:35:53";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:3:"368";s:5:"WIDTH";s:3:"450";s:9:"FILE_SIZE";s:5:"32959";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/ac7";s:9:"FILE_NAME";s:36:"ac72d3b7f97ddbbf02579c1f6e64b4b0.jpg";s:13:"ORIGINAL_NAME";s:63:"PURE VISION (6 линз)_Bausch & Lomb_Оптические.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}i:921;a:13:{s:2:"ID";s:3:"921";s:11:"TIMESTAMP_X";s:19:"28.04.2012 20:37:51";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:2:"98";s:5:"WIDTH";s:3:"121";s:9:"FILE_SIZE";s:4:"6162";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/758";s:9:"FILE_NAME";s:36:"75862deaba34814470f44b32f19e4d2e.jpg";s:13:"ORIGINAL_NAME";s:64:"MAXIMA 55 UV (6 линз)_Maxima Optics_Оптические.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}i:922;a:13:{s:2:"ID";s:3:"922";s:11:"TIMESTAMP_X";s:19:"28.04.2012 20:37:51";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:3:"367";s:5:"WIDTH";s:3:"450";s:9:"FILE_SIZE";s:5:"47466";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/69a";s:9:"FILE_NAME";s:36:"69a0077746a093bd7478608fa4d62763.jpg";s:13:"ORIGINAL_NAME";s:64:"MAXIMA 55 UV (6 линз)_Maxima Optics_Оптические.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}}}';
+return true;
+?>

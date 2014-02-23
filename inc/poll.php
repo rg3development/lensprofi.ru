@@ -1,0 +1,1 @@
+<a href="/discount/" ><img src="/upload/medialibrary/911/911954b6de2c256fc9d4617af9be5663.jpg" title="Оптические промо.jpg" border="0" alt="Оптические промо.jpg" width="340" height="212" align="right"  /></a>

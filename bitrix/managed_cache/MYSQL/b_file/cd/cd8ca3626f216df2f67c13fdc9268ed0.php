@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001393154273';
+$dateexpire = '001393157873';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:3:{i:1173;a:13:{s:2:"ID";s:4:"1173";s:11:"TIMESTAMP_X";s:19:"03.05.2012 00:37:05";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:2:"98";s:5:"WIDTH";s:3:"121";s:9:"FILE_SIZE";s:4:"4855";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/177";s:9:"FILE_NAME";s:36:"17778deb2b54e08c8bf62cbe7694dcc0.jpg";s:13:"ORIGINAL_NAME";s:57:"MAXIMA ELITE, 100 мл_Maxima Optics_Растворы.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}i:1174;a:13:{s:2:"ID";s:4:"1174";s:11:"TIMESTAMP_X";s:19:"03.05.2012 00:37:05";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:3:"368";s:5:"WIDTH";s:3:"450";s:9:"FILE_SIZE";s:5:"32081";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/f5d";s:9:"FILE_NAME";s:36:"f5d19aefd49c865134cdb011b127e4d6.jpg";s:13:"ORIGINAL_NAME";s:57:"MAXIMA ELITE, 100 мл_Maxima Optics_Растворы.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}i:1179;a:13:{s:2:"ID";s:4:"1179";s:11:"TIMESTAMP_X";s:19:"03.05.2012 00:50:27";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:2:"99";s:5:"WIDTH";s:3:"121";s:9:"FILE_SIZE";s:4:"5661";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/006";s:9:"FILE_NAME";s:36:"006d774e80fb5867f4a11586108bd8ec.jpg";s:13:"ORIGINAL_NAME";s:97:"MAXIMA с контейнером, 100 мл (в коробке)_Maxima Optics_Растворы.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}}}';
+return true;
+?>

@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001393154273';
+$dateexpire = '001393157873';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:3:{i:1675;a:13:{s:2:"ID";s:4:"1675";s:11:"TIMESTAMP_X";s:19:"16.09.2012 23:29:16";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:2:"99";s:5:"WIDTH";s:3:"121";s:9:"FILE_SIZE";s:4:"5806";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/19e";s:9:"FILE_NAME";s:36:"19e11377b021e2b6420fefce4fea2409.jpg";s:13:"ORIGINAL_NAME";s:69:"ОПТИ-ФРИ ЭКСПРЕСС, 120 мл_Alcon_Растворы.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}i:1676;a:13:{s:2:"ID";s:4:"1676";s:11:"TIMESTAMP_X";s:19:"16.09.2012 23:29:16";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:3:"368";s:5:"WIDTH";s:3:"450";s:9:"FILE_SIZE";s:5:"45158";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/e4c";s:9:"FILE_NAME";s:36:"e4c5a09cfc7cfb55a2273474d6b64ec6.jpg";s:13:"ORIGINAL_NAME";s:69:"ОПТИ-ФРИ ЭКСПРЕСС, 120 мл_Alcon_Растворы.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}i:1679;a:13:{s:2:"ID";s:4:"1679";s:11:"TIMESTAMP_X";s:19:"16.09.2012 23:30:50";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:2:"99";s:5:"WIDTH";s:3:"121";s:9:"FILE_SIZE";s:4:"5806";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/bd9";s:9:"FILE_NAME";s:36:"bd961a6e1c875c43cd257dd0286db2fb.jpg";s:13:"ORIGINAL_NAME";s:69:"ОПТИ-ФРИ ЭКСПРЕСС, 355 мл_Alcon_Растворы.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}}}';
+return true;
+?>

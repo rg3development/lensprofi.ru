@@ -1,0 +1,254 @@
+2012-02-21 17:02:27 -  - exec CUpdateClientPartner::GetUpdatesList
+2012-02-21 17:02:27 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-02-21 17:02:27 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.3.5-1ubuntu7.7&dbv=5.1.54&instm=main%2C11.0.3%2CY%3Biblock%2C11.0.2%2CN%3Bsecurity%2C11.0.2%2CN%3Bsubscribe%2C11.0.1%2CN%3Bfileman%2C11.0.1%2CN%3Bperfmon%2C11.0.1%2CN%3Bbitrix.sitestore%2C11.0.0%2CN%3Bsocialservices%2C11.0.0%2CN%3Bseo%2C11.0.0%2CN%3Bcompression%2C11.0.0%2CN%3Bbitrix.sitecorporate%2C11.0.0%2CN%3Bcatalog%2C11.0.1%2CN%3Bclouds%2C11.0.1%2CN%3Bforum%2C11.0.2%2CN%3Bsearch%2C11.0.2%2CN%3Bcurrency%2C11.0.0%2CN%3Bsale%2C11.0.3%2CN&reqm=bitrix.sitestore%2Cbitrix.sitecorporate%2Casd.share
+2012-02-21 17:02:27 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-02-21 17:02:28 -  - TIME GetUpdatesList(request) 0.81 sec
+2012-02-21 17:02:28 -  - exec CUpdateClientPartner::ParseServerData
+2012-02-21 17:06:22 -  - exec CUpdateClientPartner::GetUpdatesList
+2012-02-21 17:06:22 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-02-21 17:06:22 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.3.5-1ubuntu7.7&dbv=5.1.54&instm=main%2C11.0.3%2CY%3Biblock%2C11.0.2%2CN%3Bsecurity%2C11.0.2%2CN%3Bsubscribe%2C11.0.1%2CN%3Bfileman%2C11.0.1%2CN%3Bperfmon%2C11.0.1%2CN%3Bbitrix.sitestore%2C11.0.0%2CN%3Bsocialservices%2C11.0.0%2CN%3Bseo%2C11.0.0%2CN%3Bcompression%2C11.0.0%2CN%3Bbitrix.sitecorporate%2C11.0.0%2CN%3Bcatalog%2C11.0.1%2CN%3Bclouds%2C11.0.1%2CN%3Bforum%2C11.0.2%2CN%3Bsearch%2C11.0.2%2CN%3Bcurrency%2C11.0.0%2CN%3Bsale%2C11.0.3%2CN&reqm=bitrix.sitestore%2Cbitrix.sitecorporate
+2012-02-21 17:06:22 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-02-21 17:06:23 -  - TIME GetUpdatesList(request) 0.637 sec
+2012-02-21 17:06:23 -  - exec CUpdateClientPartner::ParseServerData
+2012-02-21 17:06:25 -  - exec CUpdateClientPartner::GetUpdatesList
+2012-02-21 17:06:25 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-02-21 17:06:25 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.3.5-1ubuntu7.7&dbv=5.1.54&instm=main%2C11.0.3%2CY%3Biblock%2C11.0.2%2CN%3Bsecurity%2C11.0.2%2CN%3Bsubscribe%2C11.0.1%2CN%3Bfileman%2C11.0.1%2CN%3Bperfmon%2C11.0.1%2CN%3Bbitrix.sitestore%2C11.0.0%2CN%3Bsocialservices%2C11.0.0%2CN%3Bseo%2C11.0.0%2CN%3Bcompression%2C11.0.0%2CN%3Bbitrix.sitecorporate%2C11.0.0%2CN%3Bcatalog%2C11.0.1%2CN%3Bclouds%2C11.0.1%2CN%3Bforum%2C11.0.2%2CN%3Bsearch%2C11.0.2%2CN%3Bcurrency%2C11.0.0%2CN%3Bsale%2C11.0.3%2CN&reqm=bitrix.sitestore%2Cbitrix.sitecorporate
+2012-02-21 17:06:25 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-02-21 17:06:25 -  - TIME GetUpdatesList(request) 0.326 sec
+2012-02-21 17:06:25 -  - exec CUpdateClientPartner::ParseServerData
+2012-02-21 17:06:33 -  - exec CUpdateClientPartner::GetUpdatesList
+2012-02-21 17:06:33 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-02-21 17:06:33 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&TYPENC=D&CLIENT_PHPVER=5.3.5-1ubuntu7.7&dbv=5.1.54&instm=main%2C11.0.3%2CY%3Biblock%2C11.0.2%2CN%3Bsecurity%2C11.0.2%2CN%3Bsubscribe%2C11.0.1%2CN%3Bfileman%2C11.0.1%2CN%3Bperfmon%2C11.0.1%2CN%3Bbitrix.sitestore%2C11.0.0%2CN%3Bsocialservices%2C11.0.0%2CN%3Bseo%2C11.0.0%2CN%3Bcompression%2C11.0.0%2CN%3Bbitrix.sitecorporate%2C11.0.0%2CN%3Bcatalog%2C11.0.1%2CN%3Bclouds%2C11.0.1%2CN%3Bforum%2C11.0.2%2CN%3Bsearch%2C11.0.2%2CN%3Bcurrency%2C11.0.0%2CN%3Bsale%2C11.0.3%2CN&reqm=bitrix.sitestore%2Cbitrix.sitecorporate
+2012-02-21 17:06:33 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-02-21 17:06:33 -  - TIME GetUpdatesList(request) 0.254 sec
+2012-02-21 17:06:33 -  - exec CUpdateClientPartner::ParseServerData
+2012-04-17 15:19:33 -  - exec CUpdateClientPartner::GetUpdatesList
+2012-04-17 15:19:33 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-04-17 15:19:33 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=5&TYPENC=E&CLIENT_PHPVER=5.2.9-2&dbv=5.1.46&instm=main%2C11.0.11%2CN%3Bbitrix.sitecorporate%2C11.0.0%2CN%3Bbitrix.sitestore%2C11.0.0%2CN%3Bcatalog%2C11.0.5%2CN%3Bclouds%2C11.0.3%2CN%3Bcompression%2C11.0.0%2CN%3Bcurrency%2C11.0.0%2CN%3Bfileman%2C11.0.4%2CN%3Bforum%2C11.0.7%2CN%3Biblock%2C11.0.10%2CN%3Bperfmon%2C11.0.3%2CN%3Bsale%2C11.0.6%2CN%3Bsearch%2C11.0.6%2CN%3Bsecurity%2C11.0.6%2CN%3Bseo%2C11.0.0%2CN%3Bsocialservices%2C11.0.1%2CN%3Bsubscribe%2C11.0.3%2CN&reqm=bitrix.sitecorporate%2Cbitrix.sitestore
+2012-04-17 15:19:33 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-04-17 15:19:35 -  - TIME GetUpdatesList(request) 1.296 sec
+2012-04-17 15:19:35 -  - exec CUpdateClientPartner::ParseServerData
+2012-04-17 15:25:50 -  - exec CUpdateClientPartner::GetUpdatesList
+2012-04-17 15:25:50 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-04-17 15:25:50 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=5&TYPENC=E&CLIENT_PHPVER=5.2.9-2&dbv=5.1.46&instm=main%2C11.0.11%2CN%3Bbitrix.sitecorporate%2C11.0.0%2CN%3Bbitrix.sitestore%2C11.0.0%2CN%3Bcatalog%2C11.0.5%2CN%3Bclouds%2C11.0.3%2CN%3Bcompression%2C11.0.0%2CN%3Bcurrency%2C11.0.0%2CN%3Bfileman%2C11.0.4%2CN%3Bforum%2C11.0.7%2CN%3Biblock%2C11.0.10%2CN%3Bperfmon%2C11.0.3%2CN%3Bsale%2C11.0.6%2CN%3Bsearch%2C11.0.6%2CN%3Bsecurity%2C11.0.6%2CN%3Bseo%2C11.0.0%2CN%3Bsocialservices%2C11.0.1%2CN%3Bsubscribe%2C11.0.3%2CN&reqm=bitrix.sitecorporate%2Cbitrix.sitestore%2Crarus.sms4b
+2012-04-17 15:25:50 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-04-17 15:25:51 -  - TIME GetUpdatesList(request) 1.277 sec
+2012-04-17 15:25:51 -  - exec CUpdateClientPartner::ParseServerData
+2012-04-17 15:26:01 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-04-17 15:26:01 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-04-17 15:26:01 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=5&TYPENC=E&CLIENT_PHPVER=5.2.9-2&dbv=5.1.46&instm=main%2C11.0.11%2CN%3Bbitrix.sitecorporate%2C11.0.0%2CN%3Bbitrix.sitestore%2C11.0.0%2CN%3Bcatalog%2C11.0.5%2CN%3Bclouds%2C11.0.3%2CN%3Bcompression%2C11.0.0%2CN%3Bcurrency%2C11.0.0%2CN%3Bfileman%2C11.0.4%2CN%3Bforum%2C11.0.7%2CN%3Biblock%2C11.0.10%2CN%3Bperfmon%2C11.0.3%2CN%3Bsale%2C11.0.6%2CN%3Bsearch%2C11.0.6%2CN%3Bsecurity%2C11.0.6%2CN%3Bseo%2C11.0.0%2CN%3Bsocialservices%2C11.0.1%2CN%3Bsubscribe%2C11.0.3%2CN&reqm=bitrix.sitecorporate%2Cbitrix.sitestore%2Crarus.sms4b
+2012-04-17 15:26:01 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-04-17 15:26:05 -  - TIME LoadModulesUpdates(request) 4.456 sec
+2012-04-17 15:26:05 -  - exec CUpdateClientPartner::ParseServerData
+2012-04-17 15:26:05 - LMU01 - LoadModulesUpdates-Step
+2012-04-17 15:26:06 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-04-17 15:26:06 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-04-17 15:26:06 -  - exec CUpdateClientPartner::ParseServerData
+2012-04-17 15:26:07 - DOWNLOAD - Time - 1.2337710857391 sec
+2012-04-17 15:26:07 -  - exec CUpdateClientPartner::UnGzipArchive
+2012-04-17 15:26:08 -  - TIME UnGzipArchive 1.236 sec
+2012-04-17 15:26:11 -  - TIME UpdateStepModules 2.172 sec
+2012-04-17 15:26:11 - UPD_SUCCESS - Updated: rarus.sms4b
+2012-04-17 15:26:11 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-04-17 15:26:11 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-04-17 15:26:12 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=5&TYPENC=E&CLIENT_PHPVER=5.2.9-2&dbv=5.1.46&instm=main%2C11.0.11%2CN%3Bbitrix.sitecorporate%2C11.0.0%2CN%3Bbitrix.sitestore%2C11.0.0%2CN%3Bcatalog%2C11.0.5%2CN%3Bclouds%2C11.0.3%2CN%3Bcompression%2C11.0.0%2CN%3Bcurrency%2C11.0.0%2CN%3Bfileman%2C11.0.4%2CN%3Bforum%2C11.0.7%2CN%3Biblock%2C11.0.10%2CN%3Bperfmon%2C11.0.3%2CN%3Brarus.sms4b%2C1.0.0%2CN%3Bsale%2C11.0.6%2CN%3Bsearch%2C11.0.6%2CN%3Bsecurity%2C11.0.6%2CN%3Bseo%2C11.0.0%2CN%3Bsocialservices%2C11.0.1%2CN%3Bsubscribe%2C11.0.3%2CN&reqm=bitrix.sitecorporate%2Cbitrix.sitestore%2Crarus.sms4b%2Crarus.sms4b
+2012-04-17 15:26:12 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-04-17 15:26:12 -  - TIME LoadModulesUpdates(request) 0.758 sec
+2012-04-17 15:26:12 -  - exec CUpdateClientPartner::ParseServerData
+2012-04-17 15:26:12 - LMU01 - LoadModulesUpdates-Step
+2012-04-17 15:26:13 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-04-17 15:26:13 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-04-17 15:26:13 -  - exec CUpdateClientPartner::ParseServerData
+2012-04-17 15:26:14 - DOWNLOAD - Time - 0.80278897285461 sec
+2012-04-17 15:26:14 -  - exec CUpdateClientPartner::UnGzipArchive
+2012-04-17 15:26:14 -  - TIME UnGzipArchive 0.018 sec
+2012-04-17 15:26:14 -  - TIME UpdateStepModules 0.015 sec
+2012-04-17 15:26:14 - UPD_SUCCESS - Updated: rarus.sms4b (1.0.1)<br>-исправлен баг, связаный с адресом и портом прокси сервера.
+2012-04-17 15:26:14 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-04-17 15:26:14 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-04-17 15:26:14 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=5&TYPENC=E&CLIENT_PHPVER=5.2.9-2&dbv=5.1.46&instm=main%2C11.0.11%2CN%3Bbitrix.sitecorporate%2C11.0.0%2CN%3Bbitrix.sitestore%2C11.0.0%2CN%3Bcatalog%2C11.0.5%2CN%3Bclouds%2C11.0.3%2CN%3Bcompression%2C11.0.0%2CN%3Bcurrency%2C11.0.0%2CN%3Bfileman%2C11.0.4%2CN%3Bforum%2C11.0.7%2CN%3Biblock%2C11.0.10%2CN%3Bperfmon%2C11.0.3%2CN%3Brarus.sms4b%2C1.0.1%2CN%3Bsale%2C11.0.6%2CN%3Bsearch%2C11.0.6%2CN%3Bsecurity%2C11.0.6%2CN%3Bseo%2C11.0.0%2CN%3Bsocialservices%2C11.0.1%2CN%3Bsubscribe%2C11.0.3%2CN&reqm=bitrix.sitecorporate%2Cbitrix.sitestore%2Crarus.sms4b%2Crarus.sms4b
+2012-04-17 15:26:14 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-04-17 15:26:17 -  - TIME LoadModulesUpdates(request) 3.015 sec
+2012-04-17 15:26:17 -  - exec CUpdateClientPartner::ParseServerData
+2012-04-17 15:26:17 - LMU01 - LoadModulesUpdates-Step
+2012-04-17 15:26:18 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-04-17 15:26:18 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-04-17 15:26:18 -  - exec CUpdateClientPartner::ParseServerData
+2012-04-17 15:26:20 - DOWNLOAD - Time - 2.3904910087585 sec
+2012-04-17 15:26:20 -  - exec CUpdateClientPartner::UnGzipArchive
+2012-04-17 15:26:21 -  - TIME UnGzipArchive 0.693 sec
+2012-04-17 15:26:21 - CSURUS1 - Run updater '/bitrix/updates/update_m1334661980/rarus.sms4b/updater1.0.2.php'
+2012-04-17 15:26:23 -  - TIME UpdateStepModules 1.586 sec
+2012-04-17 15:26:23 - UPD_SUCCESS - Updated: rarus.sms4b (1.0.2)<br>- добавлена обработка событий календаря событий (корпортал); - добавлена обработка обращения в тех. поддержку (корпортал, БУС); - добавлена новая компонента отправки SMS из публичной части. Компонента имеет удобный поиск, а также удобна для массовой рассылки. (тоже пока только для КП); - пакетная отправка; - немного поправлена транслитерация; - замена номеров 8 на 7 и добавление 7; - проверка двойников; - срок жизни; - начало отправки; - ночная пауза. Новая компонента для КП работает и на БУС, просто недоступен некоторый функционал. 
+2012-04-17 15:26:24 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-04-17 15:26:24 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-04-17 15:26:24 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=5&TYPENC=E&CLIENT_PHPVER=5.2.9-2&dbv=5.1.46&instm=main%2C11.0.11%2CN%3Bbitrix.sitecorporate%2C11.0.0%2CN%3Bbitrix.sitestore%2C11.0.0%2CN%3Bcatalog%2C11.0.5%2CN%3Bclouds%2C11.0.3%2CN%3Bcompression%2C11.0.0%2CN%3Bcurrency%2C11.0.0%2CN%3Bfileman%2C11.0.4%2CN%3Bforum%2C11.0.7%2CN%3Biblock%2C11.0.10%2CN%3Bperfmon%2C11.0.3%2CN%3Brarus.sms4b%2C1.0.2%2CN%3Bsale%2C11.0.6%2CN%3Bsearch%2C11.0.6%2CN%3Bsecurity%2C11.0.6%2CN%3Bseo%2C11.0.0%2CN%3Bsocialservices%2C11.0.1%2CN%3Bsubscribe%2C11.0.3%2CN&reqm=bitrix.sitecorporate%2Cbitrix.sitestore%2Crarus.sms4b%2Crarus.sms4b
+2012-04-17 15:26:24 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-04-17 15:26:28 -  - TIME LoadModulesUpdates(request) 3.98 sec
+2012-04-17 15:26:28 -  - exec CUpdateClientPartner::ParseServerData
+2012-04-17 15:26:28 - LMU01 - LoadModulesUpdates-Step
+2012-04-17 15:26:28 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-04-17 15:26:28 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-04-17 15:26:28 -  - exec CUpdateClientPartner::ParseServerData
+2012-04-17 15:26:29 - DOWNLOAD - Time - 1.1097919940948 sec
+2012-04-17 15:26:29 -  - exec CUpdateClientPartner::UnGzipArchive
+2012-04-17 15:26:30 -  - TIME UnGzipArchive 0.538 sec
+2012-04-17 15:26:30 - CSURUS1 - Run updater '/bitrix/updates/update_m1334661989/rarus.sms4b/updater1.0.3.php'
+2012-04-17 15:26:32 -  - TIME UpdateStepModules 1.48 sec
+2012-04-17 15:26:32 - UPD_SUCCESS - Updated: rarus.sms4b (1.0.3)<br>-добавлена поддержка UTF-8 кодировки
+2012-04-17 15:26:32 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-04-17 15:26:32 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-04-17 15:26:32 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=5&TYPENC=E&CLIENT_PHPVER=5.2.9-2&dbv=5.1.46&instm=main%2C11.0.11%2CN%3Bbitrix.sitecorporate%2C11.0.0%2CN%3Bbitrix.sitestore%2C11.0.0%2CN%3Bcatalog%2C11.0.5%2CN%3Bclouds%2C11.0.3%2CN%3Bcompression%2C11.0.0%2CN%3Bcurrency%2C11.0.0%2CN%3Bfileman%2C11.0.4%2CN%3Bforum%2C11.0.7%2CN%3Biblock%2C11.0.10%2CN%3Bperfmon%2C11.0.3%2CN%3Brarus.sms4b%2C1.0.3%2CN%3Bsale%2C11.0.6%2CN%3Bsearch%2C11.0.6%2CN%3Bsecurity%2C11.0.6%2CN%3Bseo%2C11.0.0%2CN%3Bsocialservices%2C11.0.1%2CN%3Bsubscribe%2C11.0.3%2CN&reqm=bitrix.sitecorporate%2Cbitrix.sitestore%2Crarus.sms4b%2Crarus.sms4b
+2012-04-17 15:26:32 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-04-17 15:26:33 -  - TIME LoadModulesUpdates(request) 0.582 sec
+2012-04-17 15:26:33 -  - exec CUpdateClientPartner::ParseServerData
+2012-04-17 15:26:33 - LMU01 - LoadModulesUpdates-Step
+2012-04-17 15:26:33 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-04-17 15:26:33 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-04-17 15:26:33 -  - exec CUpdateClientPartner::ParseServerData
+2012-04-17 15:26:34 - DOWNLOAD - Time - 0.84703803062439 sec
+2012-04-17 15:26:34 -  - exec CUpdateClientPartner::UnGzipArchive
+2012-04-17 15:26:34 -  - TIME UnGzipArchive 0.051 sec
+2012-04-17 15:26:34 -  - TIME UpdateStepModules 0.016 sec
+2012-04-17 15:26:34 - UPD_SUCCESS - Updated: rarus.sms4b (1.0.4)<br>- исправлен баг с неправильной работой почтовых сообщений при смене статуса заказа - исправлена настройка транслитерации
+2012-04-17 15:26:35 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-04-17 15:26:35 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-04-17 15:26:35 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=5&TYPENC=E&CLIENT_PHPVER=5.2.9-2&dbv=5.1.46&instm=main%2C11.0.11%2CN%3Bbitrix.sitecorporate%2C11.0.0%2CN%3Bbitrix.sitestore%2C11.0.0%2CN%3Bcatalog%2C11.0.5%2CN%3Bclouds%2C11.0.3%2CN%3Bcompression%2C11.0.0%2CN%3Bcurrency%2C11.0.0%2CN%3Bfileman%2C11.0.4%2CN%3Bforum%2C11.0.7%2CN%3Biblock%2C11.0.10%2CN%3Bperfmon%2C11.0.3%2CN%3Brarus.sms4b%2C1.0.4%2CN%3Bsale%2C11.0.6%2CN%3Bsearch%2C11.0.6%2CN%3Bsecurity%2C11.0.6%2CN%3Bseo%2C11.0.0%2CN%3Bsocialservices%2C11.0.1%2CN%3Bsubscribe%2C11.0.3%2CN&reqm=bitrix.sitecorporate%2Cbitrix.sitestore%2Crarus.sms4b%2Crarus.sms4b
+2012-04-17 15:26:35 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-04-17 15:26:36 -  - TIME LoadModulesUpdates(request) 1.169 sec
+2012-04-17 15:26:36 -  - exec CUpdateClientPartner::ParseServerData
+2012-04-17 15:26:36 - LMU01 - LoadModulesUpdates-Step
+2012-04-17 15:26:36 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-04-17 15:26:36 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-04-17 15:26:37 -  - exec CUpdateClientPartner::ParseServerData
+2012-04-17 15:26:37 - DOWNLOAD - Time - 0.74048209190369 sec
+2012-04-17 15:26:37 -  - exec CUpdateClientPartner::UnGzipArchive
+2012-04-17 15:26:37 -  - TIME UnGzipArchive 0.081 sec
+2012-04-17 15:26:37 - CSURUS1 - Run updater '/bitrix/updates/update_m1334661997/rarus.sms4b/updater1.0.5.php'
+2012-04-17 15:26:37 -  - TIME UpdateStepModules 0.103 sec
+2012-04-17 15:26:37 - UPD_SUCCESS - Updated: rarus.sms4b (1.0.5)<br>- исправлен баг с неправильной перекодировкой публичной части модуля - компонента отправки в административной части модуля теперь по функционалу такая же как и на сайте sms4b.ru - добавлены запрет ночной отправки, отложенная отправка, актуальность отправки, равномерная рассылка
+2012-04-17 15:26:38 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-04-17 15:26:38 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-04-17 15:26:38 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=5&TYPENC=E&CLIENT_PHPVER=5.2.9-2&dbv=5.1.46&instm=main%2C11.0.11%2CN%3Bbitrix.sitecorporate%2C11.0.0%2CN%3Bbitrix.sitestore%2C11.0.0%2CN%3Bcatalog%2C11.0.5%2CN%3Bclouds%2C11.0.3%2CN%3Bcompression%2C11.0.0%2CN%3Bcurrency%2C11.0.0%2CN%3Bfileman%2C11.0.4%2CN%3Bforum%2C11.0.7%2CN%3Biblock%2C11.0.10%2CN%3Bperfmon%2C11.0.3%2CN%3Brarus.sms4b%2C1.0.5%2CN%3Bsale%2C11.0.6%2CN%3Bsearch%2C11.0.6%2CN%3Bsecurity%2C11.0.6%2CN%3Bseo%2C11.0.0%2CN%3Bsocialservices%2C11.0.1%2CN%3Bsubscribe%2C11.0.3%2CN&reqm=bitrix.sitecorporate%2Cbitrix.sitestore%2Crarus.sms4b%2Crarus.sms4b
+2012-04-17 15:26:38 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-04-17 15:26:39 -  - TIME LoadModulesUpdates(request) 0.562 sec
+2012-04-17 15:26:39 -  - exec CUpdateClientPartner::ParseServerData
+2012-04-17 15:26:39 - LMU01 - LoadModulesUpdates-Step
+2012-04-17 15:26:39 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-04-17 15:26:39 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-04-17 15:26:39 -  - exec CUpdateClientPartner::ParseServerData
+2012-04-17 15:26:40 - DOWNLOAD - Time - 0.92880702018738 sec
+2012-04-17 15:26:40 -  - exec CUpdateClientPartner::UnGzipArchive
+2012-04-17 15:26:40 -  - TIME UnGzipArchive 0.021 sec
+2012-04-17 15:26:40 -  - TIME UpdateStepModules 0.018 sec
+2012-04-17 15:26:40 - UPD_SUCCESS - Updated: rarus.sms4b (1.0.6)<br>- макрос #MESSAGE_BODY# добавлен в событие для ТП
+2012-04-17 15:26:41 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-04-17 15:26:41 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-04-17 15:26:41 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=5&TYPENC=E&CLIENT_PHPVER=5.2.9-2&dbv=5.1.46&instm=main%2C11.0.11%2CN%3Bbitrix.sitecorporate%2C11.0.0%2CN%3Bbitrix.sitestore%2C11.0.0%2CN%3Bcatalog%2C11.0.5%2CN%3Bclouds%2C11.0.3%2CN%3Bcompression%2C11.0.0%2CN%3Bcurrency%2C11.0.0%2CN%3Bfileman%2C11.0.4%2CN%3Bforum%2C11.0.7%2CN%3Biblock%2C11.0.10%2CN%3Bperfmon%2C11.0.3%2CN%3Brarus.sms4b%2C1.0.6%2CN%3Bsale%2C11.0.6%2CN%3Bsearch%2C11.0.6%2CN%3Bsecurity%2C11.0.6%2CN%3Bseo%2C11.0.0%2CN%3Bsocialservices%2C11.0.1%2CN%3Bsubscribe%2C11.0.3%2CN&reqm=bitrix.sitecorporate%2Cbitrix.sitestore%2Crarus.sms4b%2Crarus.sms4b
+2012-04-17 15:26:41 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-04-17 15:26:42 -  - TIME LoadModulesUpdates(request) 0.765 sec
+2012-04-17 15:26:42 -  - exec CUpdateClientPartner::ParseServerData
+2012-04-17 15:26:42 - LMU01 - LoadModulesUpdates-Step
+2012-04-17 15:26:42 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-04-17 15:26:42 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-04-17 15:26:42 -  - exec CUpdateClientPartner::ParseServerData
+2012-04-17 15:26:43 - DOWNLOAD - Time - 0.97670102119446 sec
+2012-04-17 15:26:43 -  - exec CUpdateClientPartner::UnGzipArchive
+2012-04-17 15:26:43 -  - TIME UnGzipArchive 0.07 sec
+2012-04-17 15:26:43 -  - TIME UpdateStepModules 0.047 sec
+2012-04-17 15:26:43 - UPD_SUCCESS - Updated: rarus.sms4b (1.0.7)<br>- добавлены проверки версий php, msql и проверка поддержки CURL. - исправлена блокировка рассылок - при отправке смс из административной панели корректно указывается дата
+2012-04-17 15:26:44 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-04-17 15:26:44 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-04-17 15:26:44 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=5&TYPENC=E&CLIENT_PHPVER=5.2.9-2&dbv=5.1.46&instm=main%2C11.0.11%2CN%3Bbitrix.sitecorporate%2C11.0.0%2CN%3Bbitrix.sitestore%2C11.0.0%2CN%3Bcatalog%2C11.0.5%2CN%3Bclouds%2C11.0.3%2CN%3Bcompression%2C11.0.0%2CN%3Bcurrency%2C11.0.0%2CN%3Bfileman%2C11.0.4%2CN%3Bforum%2C11.0.7%2CN%3Biblock%2C11.0.10%2CN%3Bperfmon%2C11.0.3%2CN%3Brarus.sms4b%2C1.0.7%2CN%3Bsale%2C11.0.6%2CN%3Bsearch%2C11.0.6%2CN%3Bsecurity%2C11.0.6%2CN%3Bseo%2C11.0.0%2CN%3Bsocialservices%2C11.0.1%2CN%3Bsubscribe%2C11.0.3%2CN&reqm=bitrix.sitecorporate%2Cbitrix.sitestore%2Crarus.sms4b%2Crarus.sms4b
+2012-04-17 15:26:44 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-04-17 15:26:45 -  - TIME LoadModulesUpdates(request) 1.289 sec
+2012-04-17 15:26:45 -  - exec CUpdateClientPartner::ParseServerData
+2012-04-17 15:26:45 - LMU01 - LoadModulesUpdates-Step
+2012-04-17 15:26:46 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-04-17 15:26:46 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-04-17 15:26:46 -  - exec CUpdateClientPartner::ParseServerData
+2012-04-17 15:26:47 - DOWNLOAD - Time - 0.83114790916443 sec
+2012-04-17 15:26:47 -  - exec CUpdateClientPartner::UnGzipArchive
+2012-04-17 15:26:47 -  - TIME UnGzipArchive 0.057 sec
+2012-04-17 15:26:47 -  - TIME UpdateStepModules 0.062 sec
+2012-04-17 15:26:47 - UPD_SUCCESS - Updated: rarus.sms4b (1.0.8)<br>- исправлена ошибка в административном скрипте при отображении входящих СМС сообщений - добавлена возможность отправки выпусков СМС-рассылки от разных СМС-имен - изменены часовые пояса
+2012-04-17 15:26:47 -  - exec CUpdateClientPartner::LoadModulesUpdates
+2012-04-17 15:26:47 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-04-17 15:26:47 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=5&TYPENC=E&CLIENT_PHPVER=5.2.9-2&dbv=5.1.46&instm=main%2C11.0.11%2CN%3Bbitrix.sitecorporate%2C11.0.0%2CN%3Bbitrix.sitestore%2C11.0.0%2CN%3Bcatalog%2C11.0.5%2CN%3Bclouds%2C11.0.3%2CN%3Bcompression%2C11.0.0%2CN%3Bcurrency%2C11.0.0%2CN%3Bfileman%2C11.0.4%2CN%3Bforum%2C11.0.7%2CN%3Biblock%2C11.0.10%2CN%3Bperfmon%2C11.0.3%2CN%3Brarus.sms4b%2C1.0.8%2CN%3Bsale%2C11.0.6%2CN%3Bsearch%2C11.0.6%2CN%3Bsecurity%2C11.0.6%2CN%3Bseo%2C11.0.0%2CN%3Bsocialservices%2C11.0.1%2CN%3Bsubscribe%2C11.0.3%2CN&reqm=bitrix.sitecorporate%2Cbitrix.sitestore%2Crarus.sms4b%2Crarus.sms4b
+2012-04-17 15:26:47 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-04-17 15:26:48 -  - TIME LoadModulesUpdates(request) 0.612 sec
+2012-04-17 15:26:48 -  - exec CUpdateClientPartner::ParseServerData
+2012-04-17 15:26:48 - STEP - Finish - NOUPDATES
+2012-04-17 15:26:48 - STEP - Finish - NOUPDATES
+2012-04-17 15:27:37 -  - exec CUpdateClientPartner::GetUpdatesList
+2012-04-17 15:27:37 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-04-17 15:27:37 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=5&TYPENC=E&CLIENT_PHPVER=5.2.9-2&dbv=5.1.46&instm=main%2C11.0.11%2CN%3Bbitrix.sitecorporate%2C11.0.0%2CN%3Bbitrix.sitestore%2C11.0.0%2CN%3Bcatalog%2C11.0.5%2CN%3Bclouds%2C11.0.3%2CN%3Bcompression%2C11.0.0%2CN%3Bcurrency%2C11.0.0%2CN%3Bfileman%2C11.0.4%2CN%3Bforum%2C11.0.7%2CN%3Biblock%2C11.0.10%2CN%3Bperfmon%2C11.0.3%2CN%3Brarus.sms4b%2C1.0.8%2CN%3Bsale%2C11.0.6%2CN%3Bsearch%2C11.0.6%2CN%3Bsecurity%2C11.0.6%2CN%3Bseo%2C11.0.0%2CN%3Bsocialservices%2C11.0.1%2CN%3Bsubscribe%2C11.0.3%2CN&reqm=bitrix.sitecorporate%2Cbitrix.sitestore%2Crarus.sms4b
+2012-04-17 15:27:37 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-04-17 15:27:38 -  - TIME GetUpdatesList(request) 0.603 sec
+2012-04-17 15:27:38 -  - exec CUpdateClientPartner::ParseServerData
+2012-04-17 15:27:41 -  - exec CUpdateClientPartner::GetUpdatesList
+2012-04-17 15:27:41 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-04-17 15:27:41 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=5&TYPENC=E&CLIENT_PHPVER=5.2.9-2&dbv=5.1.46&instm=main%2C11.0.11%2CN%3Bbitrix.sitecorporate%2C11.0.0%2CN%3Bbitrix.sitestore%2C11.0.0%2CN%3Bcatalog%2C11.0.5%2CN%3Bclouds%2C11.0.3%2CN%3Bcompression%2C11.0.0%2CN%3Bcurrency%2C11.0.0%2CN%3Bfileman%2C11.0.4%2CN%3Bforum%2C11.0.7%2CN%3Biblock%2C11.0.10%2CN%3Bperfmon%2C11.0.3%2CN%3Brarus.sms4b%2C1.0.8%2CN%3Bsale%2C11.0.6%2CN%3Bsearch%2C11.0.6%2CN%3Bsecurity%2C11.0.6%2CN%3Bseo%2C11.0.0%2CN%3Bsocialservices%2C11.0.1%2CN%3Bsubscribe%2C11.0.3%2CN&reqm=bitrix.sitecorporate%2Cbitrix.sitestore%2Crarus.sms4b
+2012-04-17 15:27:41 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-04-17 15:27:42 -  - TIME GetUpdatesList(request) 0.663 sec
+2012-04-17 15:27:42 -  - exec CUpdateClientPartner::ParseServerData
+2012-04-17 15:27:55 -  - exec CUpdateClientPartner::GetUpdatesList
+2012-04-17 15:27:55 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-04-17 15:27:55 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=5&TYPENC=E&CLIENT_PHPVER=5.2.9-2&dbv=5.1.46&instm=main%2C11.0.11%2CN%3Bbitrix.sitecorporate%2C11.0.0%2CN%3Bbitrix.sitestore%2C11.0.0%2CN%3Bcatalog%2C11.0.5%2CN%3Bclouds%2C11.0.3%2CN%3Bcompression%2C11.0.0%2CN%3Bcurrency%2C11.0.0%2CN%3Bfileman%2C11.0.4%2CN%3Bforum%2C11.0.7%2CN%3Biblock%2C11.0.10%2CN%3Bperfmon%2C11.0.3%2CN%3Brarus.sms4b%2C1.0.8%2CN%3Bsale%2C11.0.6%2CN%3Bsearch%2C11.0.6%2CN%3Bsecurity%2C11.0.6%2CN%3Bseo%2C11.0.0%2CN%3Bsocialservices%2C11.0.1%2CN%3Bsubscribe%2C11.0.3%2CN&reqm=bitrix.sitecorporate%2Cbitrix.sitestore%2Crarus.sms4b
+2012-04-17 15:27:55 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-04-17 15:27:55 -  - TIME GetUpdatesList(request) 0.73 sec
+2012-04-17 15:27:55 -  - exec CUpdateClientPartner::ParseServerData
+2012-04-17 20:13:47 -  - exec CUpdateClientPartner::GetUpdatesList
+2012-04-17 20:13:47 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-04-17 20:13:47 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=6&TYPENC=E&CLIENT_PHPVER=5.2.9-2&dbv=5.1.46&instm=main%2C11.0.11%2CN%3Bbitrix.sitecorporate%2C11.0.0%2CN%3Bbitrix.sitestore%2C11.0.0%2CN%3Bcatalog%2C11.0.5%2CN%3Bclouds%2C11.0.3%2CN%3Bcompression%2C11.0.0%2CN%3Bcurrency%2C11.0.0%2CN%3Bfileman%2C11.0.4%2CN%3Bforum%2C11.0.7%2CN%3Biblock%2C11.0.10%2CN%3Bperfmon%2C11.0.3%2CN%3Brarus.sms4b%2C1.0.8%2CN%3Bsale%2C11.0.6%2CN%3Bsearch%2C11.0.6%2CN%3Bsecurity%2C11.0.6%2CN%3Bseo%2C11.0.0%2CN%3Bsocialservices%2C11.0.1%2CN%3Bsubscribe%2C11.0.3%2CN&reqm=bitrix.sitecorporate%2Cbitrix.sitestore%2Crarus.sms4b
+2012-04-17 20:13:47 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-04-17 20:13:48 -  - TIME GetUpdatesList(request) 1.079 sec
+2012-04-17 20:13:48 -  - exec CUpdateClientPartner::ParseServerData
+2012-04-17 20:14:09 -  - exec CUpdateClientPartner::GetUpdatesList
+2012-04-17 20:14:09 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-04-17 20:14:09 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=6&TYPENC=E&CLIENT_PHPVER=5.2.9-2&dbv=5.1.46&instm=main%2C11.0.11%2CN%3Bbitrix.sitecorporate%2C11.0.0%2CN%3Bbitrix.sitestore%2C11.0.0%2CN%3Bcatalog%2C11.0.5%2CN%3Bclouds%2C11.0.3%2CN%3Bcompression%2C11.0.0%2CN%3Bcurrency%2C11.0.0%2CN%3Bfileman%2C11.0.4%2CN%3Bforum%2C11.0.7%2CN%3Biblock%2C11.0.10%2CN%3Bperfmon%2C11.0.3%2CN%3Brarus.sms4b%2C1.0.8%2CN%3Bsale%2C11.0.6%2CN%3Bsearch%2C11.0.6%2CN%3Bsecurity%2C11.0.6%2CN%3Bseo%2C11.0.0%2CN%3Bsocialservices%2C11.0.1%2CN%3Bsubscribe%2C11.0.3%2CN&reqm=bitrix.sitecorporate%2Cbitrix.sitestore%2Crarus.sms4b
+2012-04-17 20:14:09 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-04-17 20:14:10 -  - TIME GetUpdatesList(request) 0.585 sec
+2012-04-17 20:14:10 -  - exec CUpdateClientPartner::ParseServerData
+2012-06-13 12:28:57 -  - exec CUpdateClientPartner::GetUpdatesList
+2012-06-13 12:28:57 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-06-13 12:28:57 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=lensprofi.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=39&TYPENC=E&CLIENT_PHPVER=5.2.10&dbv=5.1.41&instm=main%2C11.0.11%2CN%3Biblock%2C11.0.10%2CN%3Bsecurity%2C11.0.6%2CN%3Bsubscribe%2C11.0.3%2CN%3Bfileman%2C11.0.4%2CN%3Bperfmon%2C11.0.3%2CN%3Bbitrix.sitestore%2C11.0.0%2CN%3Bsocialservices%2C11.0.1%2CN%3Bseo%2C11.0.0%2CN%3Bcompression%2C11.0.0%2CN%3Bbitrix.sitecorporate%2C11.0.0%2CN%3Bcatalog%2C11.0.5%2CN%3Bclouds%2C11.0.3%2CN%3Bforum%2C11.0.7%2CN%3Bsearch%2C11.0.6%2CN%3Bcurrency%2C11.0.0%2CN%3Bsale%2C11.0.6%2CN%3Brarus.sms4b%2C1.0.8%2CN&reqm=bitrix.sitestore%2Cbitrix.sitecorporate%2Crarus.sms4b
+2012-06-13 12:28:57 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-06-13 12:28:58 -  - TIME GetUpdatesList(request) 0.602 sec
+2012-06-13 12:28:58 -  - exec CUpdateClientPartner::ParseServerData
+2012-06-13 12:29:08 -  - exec CUpdateClientPartner::GetUpdatesList
+2012-06-13 12:29:08 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-06-13 12:29:08 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=lensprofi.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=39&TYPENC=E&CLIENT_PHPVER=5.2.10&dbv=5.1.41&instm=main%2C11.0.11%2CN%3Biblock%2C11.0.10%2CN%3Bsecurity%2C11.0.6%2CN%3Bsubscribe%2C11.0.3%2CN%3Bfileman%2C11.0.4%2CN%3Bperfmon%2C11.0.3%2CN%3Bbitrix.sitestore%2C11.0.0%2CN%3Bsocialservices%2C11.0.1%2CN%3Bseo%2C11.0.0%2CN%3Bcompression%2C11.0.0%2CN%3Bbitrix.sitecorporate%2C11.0.0%2CN%3Bcatalog%2C11.0.5%2CN%3Bclouds%2C11.0.3%2CN%3Bforum%2C11.0.7%2CN%3Bsearch%2C11.0.6%2CN%3Bcurrency%2C11.0.0%2CN%3Bsale%2C11.0.6%2CN%3Brarus.sms4b%2C1.0.8%2CN&reqm=bitrix.sitestore%2Cbitrix.sitecorporate%2Crarus.sms4b
+2012-06-13 12:29:08 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-06-13 12:29:08 -  - TIME GetUpdatesList(request) 0.58 sec
+2012-06-13 12:29:08 -  - exec CUpdateClientPartner::ParseServerData
+2012-06-13 12:29:32 -  - exec CUpdateClientPartner::GetUpdatesList
+2012-06-13 12:29:32 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-06-13 12:29:32 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=lensprofi.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=39&TYPENC=E&CLIENT_PHPVER=5.2.10&dbv=5.1.41&instm=main%2C11.0.11%2CN%3Biblock%2C11.0.10%2CN%3Bsecurity%2C11.0.6%2CN%3Bsubscribe%2C11.0.3%2CN%3Bfileman%2C11.0.4%2CN%3Bperfmon%2C11.0.3%2CN%3Bbitrix.sitestore%2C11.0.0%2CN%3Bsocialservices%2C11.0.1%2CN%3Bseo%2C11.0.0%2CN%3Bcompression%2C11.0.0%2CN%3Bbitrix.sitecorporate%2C11.0.0%2CN%3Bcatalog%2C11.0.5%2CN%3Bclouds%2C11.0.3%2CN%3Bforum%2C11.0.7%2CN%3Bsearch%2C11.0.6%2CN%3Bcurrency%2C11.0.0%2CN%3Bsale%2C11.0.6%2CN%3Brarus.sms4b%2C1.0.8%2CN&reqm=bitrix.sitestore%2Cbitrix.sitecorporate%2Crarus.sms4b
+2012-06-13 12:29:32 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-06-13 12:29:33 -  - TIME GetUpdatesList(request) 0.851 sec
+2012-06-13 12:29:33 -  - exec CUpdateClientPartner::ParseServerData
+2012-06-13 12:36:28 -  - exec CUpdateClientPartner::GetUpdatesList
+2012-06-13 12:36:28 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-06-13 12:36:28 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=lensprofi.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=39&TYPENC=E&CLIENT_PHPVER=5.2.10&dbv=5.1.41&instm=main%2C11.0.11%2CN%3Biblock%2C11.0.10%2CN%3Bsecurity%2C11.0.6%2CN%3Bsubscribe%2C11.0.3%2CN%3Bfileman%2C11.0.4%2CN%3Bperfmon%2C11.0.3%2CN%3Bbitrix.sitestore%2C11.0.0%2CN%3Bsocialservices%2C11.0.1%2CN%3Bseo%2C11.0.0%2CN%3Bcompression%2C11.0.0%2CN%3Bbitrix.sitecorporate%2C11.0.0%2CN%3Bcatalog%2C11.0.5%2CN%3Bclouds%2C11.0.3%2CN%3Bforum%2C11.0.7%2CN%3Bsearch%2C11.0.6%2CN%3Bcurrency%2C11.0.0%2CN%3Bsale%2C11.0.6%2CN%3Brarus.sms4b%2C1.0.8%2CN&reqm=bitrix.sitestore%2Cbitrix.sitecorporate%2Crarus.sms4b
+2012-06-13 12:36:28 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-06-13 12:36:29 -  - TIME GetUpdatesList(request) 0.702 sec
+2012-06-13 12:36:29 -  - exec CUpdateClientPartner::ParseServerData
+2012-06-13 12:36:37 -  - exec CUpdateClientPartner::GetUpdatesList
+2012-06-13 12:36:37 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-06-13 12:36:37 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=lensprofi.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=39&TYPENC=E&CLIENT_PHPVER=5.2.10&dbv=5.1.41&instm=main%2C11.0.11%2CN%3Biblock%2C11.0.10%2CN%3Bsecurity%2C11.0.6%2CN%3Bsubscribe%2C11.0.3%2CN%3Bfileman%2C11.0.4%2CN%3Bperfmon%2C11.0.3%2CN%3Bbitrix.sitestore%2C11.0.0%2CN%3Bsocialservices%2C11.0.1%2CN%3Bseo%2C11.0.0%2CN%3Bcompression%2C11.0.0%2CN%3Bbitrix.sitecorporate%2C11.0.0%2CN%3Bcatalog%2C11.0.5%2CN%3Bclouds%2C11.0.3%2CN%3Bforum%2C11.0.7%2CN%3Bsearch%2C11.0.6%2CN%3Bcurrency%2C11.0.0%2CN%3Bsale%2C11.0.6%2CN%3Brarus.sms4b%2C1.0.8%2CN&reqm=bitrix.sitestore%2Cbitrix.sitecorporate%2Crarus.sms4b
+2012-06-13 12:36:37 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-06-13 12:36:37 -  - TIME GetUpdatesList(request) 0.715 sec
+2012-06-13 12:36:37 -  - exec CUpdateClientPartner::ParseServerData
+2012-06-13 12:53:22 -  - exec CUpdateClientPartner::GetUpdatesList
+2012-06-13 12:53:22 -  - exec CUpdateClientPartner::__CollectRequestData
+2012-06-13 12:53:22 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=lensprofi.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=39&TYPENC=E&CLIENT_PHPVER=5.2.10&dbv=5.1.41&instm=main%2C11.0.11%2CN%3Biblock%2C11.0.10%2CN%3Bsecurity%2C11.0.6%2CN%3Bsubscribe%2C11.0.3%2CN%3Bfileman%2C11.0.4%2CN%3Bperfmon%2C11.0.3%2CN%3Bbitrix.sitestore%2C11.0.0%2CN%3Bsocialservices%2C11.0.1%2CN%3Bseo%2C11.0.0%2CN%3Bcompression%2C11.0.0%2CN%3Bbitrix.sitecorporate%2C11.0.0%2CN%3Bcatalog%2C11.0.5%2CN%3Bclouds%2C11.0.3%2CN%3Bforum%2C11.0.7%2CN%3Bsearch%2C11.0.6%2CN%3Bcurrency%2C11.0.0%2CN%3Bsale%2C11.0.6%2CN%3Brarus.sms4b%2C1.0.8%2CN&reqm=bitrix.sitestore%2Cbitrix.sitecorporate%2Crarus.sms4b
+2012-06-13 12:53:22 -  - exec CUpdateClientPartner::GetHTTPPage
+2012-06-13 12:53:35 -  - TIME GetUpdatesList(request) 12.234 sec
+2012-06-13 12:53:35 -  - exec CUpdateClientPartner::ParseServerData
+2014-02-03 00:23:26 -  - exec CUpdateClientPartner::GetUpdatesList
+2014-02-03 00:23:26 -  - exec CUpdateClientPartner::__CollectRequestData
+2014-02-03 00:23:26 -  - utf=Y&lang=ru&stable=Y&CANGZIP=Y&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=lensprofi.ru&LICENSE_KEY=X&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=799&TYPENC=E&CLIENT_PHPVER=5.3.3&dbv=5.0.95&instm=main%2C11.0.11%2CN%3Bcompression%2C11.0.0%2CN%3Bcatalog%2C11.0.5%2CN%3Bbitrix.sitecorporate%2C11.0.0%2CN%3Bcurrency%2C11.0.0%2CN%3Bsecurity%2C11.0.6%2CN%3Bbitrix.sitestore%2C11.0.0%2CN%3Bfileman%2C11.0.4%2CN%3Biblock%2C11.0.10%2CN%3Bforum%2C11.0.7%2CN%3Bperfmon%2C11.0.3%2CN%3Bseo%2C11.0.0%2CN%3Brarus.sms4b%2C1.0.8%2CN%3Bsale%2C11.0.6%2CN%3Bclouds%2C11.0.3%2CN%3Bsubscribe%2C11.0.3%2CN%3Bsearch%2C11.0.6%2CN%3Bsocialservices%2C11.0.1%2CN&reqm=bitrix.sitecorporate%2Cbitrix.sitestore%2Crarus.sms4b
+2014-02-03 00:23:26 -  - exec CUpdateClientPartner::GetHTTPPage
+2014-02-03 00:23:26 -  - TIME GetUpdatesList(request) 0.379 sec
+2014-02-03 00:23:26 -  - exec CUpdateClientPartner::ParseServerData

@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001393154273';
+$dateexpire = '001393157873';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:3:{i:1471;a:13:{s:2:"ID";s:4:"1471";s:11:"TIMESTAMP_X";s:19:"29.05.2012 20:50:09";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:2:"99";s:5:"WIDTH";s:3:"121";s:9:"FILE_SIZE";s:4:"5416";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/ca6";s:9:"FILE_NAME";s:36:"ca67fdc678a576bb9800fd733ae4415f.jpg";s:13:"ORIGINAL_NAME";s:35:"Набор для МКЛ А-907.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}i:1472;a:13:{s:2:"ID";s:4:"1472";s:11:"TIMESTAMP_X";s:19:"29.05.2012 20:50:09";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:3:"368";s:5:"WIDTH";s:3:"450";s:9:"FILE_SIZE";s:5:"32414";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/bec";s:9:"FILE_NAME";s:36:"bec3b7e0f452bca29bedf8ec151908ed.jpg";s:13:"ORIGINAL_NAME";s:35:"Набор для МКЛ А-907.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}i:1475;a:13:{s:2:"ID";s:4:"1475";s:11:"TIMESTAMP_X";s:19:"29.05.2012 21:00:36";s:9:"MODULE_ID";s:7:"fileman";s:6:"HEIGHT";s:3:"245";s:5:"WIDTH";s:3:"300";s:9:"FILE_SIZE";s:5:"31598";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:16:"medialibrary/616";s:9:"FILE_NAME";s:36:"6162fbb3fa60b23912b20de9f7d85016.jpg";s:13:"ORIGINAL_NAME";s:38:"Набор для МКЛ CLC-058_1.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}}}';
+return true;
+?>

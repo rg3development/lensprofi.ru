@@ -1,0 +1,6 @@
+
+ErrorDocument 404 /examples/download/download_private/download_private.php
+
+<IfModule mod_rewrite.c>
+	RewriteEngine Off
+</IfModule>

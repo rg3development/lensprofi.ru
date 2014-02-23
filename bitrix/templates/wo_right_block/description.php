@@ -1,0 +1,1 @@
+<?$arTemplate = Array("NAME"=>"Без правого блока", "DESCRIPTION"=>"Без правого блока");?>

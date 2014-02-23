@@ -1,0 +1,161 @@
+2013-Mar-05 01:36:51 Наличие необходимых модулей php (check_php_modules): Ok
+Успешно
+2013-Mar-05 01:36:51 Обязательные параметры PHP (check_php_settings): Ok
+Успешно
+2013-Mar-05 01:36:51 Значения переменных сервера (check_server_vars): Ok
+Успешно
+2013-Mar-05 01:36:51 Параметры настройки UTF (mbstring и константа BX_UTF) (check_mbstring): Ok
+Успешно. Сайт работает в UTF кодировке
+2013-Mar-05 01:36:51 Установка параметра pcre.backtrack_limit (check_backtrack_limit): Ok
+Успешно
+2013-Mar-05 01:36:51 Настройки сайтов (check_sites): Ok
+Успешно
+2013-Mar-05 01:36:52 Работа с сокетами (check_socket): Ok
+Connection to 89.253.231.36:80
+Успешно
+2013-Mar-05 01:36:52 Лишний вывод в файлах конфигурации (check_dbconn): Ok
+Connection to 89.253.231.36:80
+Успешно
+2013-Mar-05 01:36:52 Загрузка файла (check_upload): Ok
+Connection to 89.253.231.36:80
+Успешно
+2013-Mar-05 01:36:53 Загрузка файла больше 4Мб (check_upload_big): Ok
+Connection to 89.253.231.36:80
+Успешно
+2013-Mar-05 01:36:53 Загрузка файла через php://input (check_upload_raw): Ok
+Connection to 89.253.231.36:80
+Успешно
+2013-Mar-05 01:36:53 Передача POST запроса с большим числом параметров (check_post): Ok
+Connection to 89.253.231.36:80
+Успешно
+2013-Mar-05 01:36:53 Отправка почты (check_mail): Ok
+Успешно
+2013-Mar-05 01:36:53 Отправка почтового сообщения больше 64Кб (check_mail_big): Ok
+Успешно
+2013-Mar-05 01:36:53 Проверка на наличие неотправленных сообщений (check_mail_b_event): Ok
+Успешно
+2013-Mar-05 01:36:53 Внутреннее перенаправление (функция LocalRedirect) (check_localredirect): Ok
+50% done
+Connection to 89.253.231.36:80
+Успешно
+2013-Mar-05 01:36:53 Внутреннее перенаправление (функция LocalRedirect) (check_localredirect): Ok
+Connection to 89.253.231.36:80
+Успешно
+2013-Mar-05 01:36:53 Фактическое ограничение памяти (check_memory_limit): Ok
+14% done
+Connection to 89.253.231.36:80
+Успешно
+2013-Mar-05 01:36:53 Фактическое ограничение памяти (check_memory_limit): Ok
+28% done
+Connection to 89.253.231.36:80
+Успешно
+2013-Mar-05 01:36:53 Фактическое ограничение памяти (check_memory_limit): Ok
+42% done
+Connection to 89.253.231.36:80
+Успешно
+2013-Mar-05 01:36:53 Фактическое ограничение памяти (check_memory_limit): Ok
+57% done
+Connection to 89.253.231.36:80
+Успешно
+2013-Mar-05 01:36:53 Фактическое ограничение памяти (check_memory_limit): Ok
+71% done
+Connection to 89.253.231.36:80
+Успешно
+2013-Mar-05 01:36:54 Фактическое ограничение памяти (check_memory_limit): Ok
+85% done
+Connection to 89.253.231.36:80
+== Request ==
+GET /bitrix/admin/site_checker.php?memory_test=Y&unique_id=10b6ab461d20fe7af9f4025f7131a6d6&max=511 HTTP/1.1
+Host: 89.253.231.36
+
+
+== Response ==
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 04 Mar 2013 21:36:54 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PleskLin
+MS-Author-Via: DAV
+
+== Body ==
+
+Fatal error: Allowed memory size of 536870912 bytes exhausted (tried to allocate 1048577 bytes) in /var/www/vhosts/lensprofi.ru/httpdocs/bitrix/modules/main/admin/site_checker.php on line 89
+
+==========
+Успешно
+2013-Mar-05 01:36:54 Фактическое ограничение памяти (check_memory_limit): Ok
+Connection to 89.253.231.36:80
+Не менее 384 М
+2013-Mar-05 01:36:54 Сохранение сессии (check_session): Ok
+50% done
+Успешно
+2013-Mar-05 01:36:54 Сохранение сессии (check_session): Ok
+Успешно
+2013-Mar-05 01:36:54 Сохранение сессии без UserAgent (check_session_ua): Ok
+50% done
+Connection to 89.253.231.36:80
+Успешно
+2013-Mar-05 01:36:54 Сохранение сессии без UserAgent (check_session_ua): Ok
+Connection to 89.253.231.36:80
+Успешно
+2013-Mar-05 01:36:54 Работа с файлами кеша (check_cache): Ok
+Успешно
+2013-Mar-05 01:36:54 Доступ к серверу обновлений (check_update): Ok
+Успешно
+2013-Mar-05 01:36:54 HTTP авторизация (check_http_auth): Fail
+Connection to 89.253.231.36:80
+== Request ==
+GET /bitrix/admin/site_checker.php?auth_test=Y&unique_id=10b6ab461d20fe7af9f4025f7131a6d6 HTTP/1.1
+Host: 89.253.231.36
+Authorization: Basic dGVzdF91c2VyOnRlc3RfcGFzc3dvcmQ=
+
+
+== Response ==
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 04 Mar 2013 21:36:54 GMT
+Content-Type: text/html
+Content-Length: 0
+Connection: keep-alive
+X-Powered-By: PleskLin
+MS-Author-Via: DAV
+
+== Body ==
+
+==========
+Ошибка
+2013-Mar-05 01:36:55 Создание и запуск файла (check_exec): Ok
+Connection to 89.253.231.36:80
+Успешно
+2013-Mar-05 01:36:55 Модуль suhosin отключен (check_suhosin): Ok
+Успешно
+2013-Mar-05 01:36:55 Модуль Apache mod_security отключен (check_security): Ok
+Успешно
+2013-Mar-05 01:36:55 Константа BX_CRONTAB (не должна быть определена) (check_bx_crontab): Ok
+Успешно
+2013-Mar-05 01:36:55 Разделитель дробной части (check_divider): Ok
+Успешно
+2013-Mar-05 01:36:55 Значение параметра precision (не менее 10) (check_precision): Ok
+Успешно
+2013-Mar-05 01:36:55 Передача объектов по ссылке (check_clone): Ok
+Успешно
+2013-Mar-05 01:36:55 Функция getimagesize для swf (check_getimagesize): Ok
+Успешно
+2013-Mar-05 01:36:55 Версия MySQL сервера (check_mysql_bug_version): Ok
+Успешно
+2013-Mar-05 01:36:56 Время на БД и веб сервере (check_mysql_time): Ok
+Успешно
+2013-Mar-05 01:36:56 Режим работы MySQL (check_mysql_mode): Ok
+Успешно
+2013-Mar-05 01:36:56 Значение auto_increment в MySQL (check_mysql_increment): Ok
+Успешно
+2013-Mar-05 01:36:56 Кодировка соединения (check_mysql_connection_charset): Ok
+CHARSET=utf8, COLLATION=utf8_unicode_ci
+Успешно
+2013-Mar-05 01:36:56 Кодировка базы данных (check_mysql_db_charset): Ok
+CHARSET=utf8, COLLATION=utf8_unicode_ci
+Успешно
+2013-Mar-05 01:36:56 Кодировки таблиц в БД (check_mysql_table_charset): Ok
+Успешно

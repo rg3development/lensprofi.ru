@@ -1,0 +1,3 @@
+
+php_value mbstring.func_overload 2
+php_value mbstring.internal_encoding windows-1251

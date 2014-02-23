@@ -1,0 +1,1 @@
+<script src="/js/jquery.prettyPhoto.js" type="text/javascript"></script><link rel="stylesheet" href="/css/prettyPhoto.css" type="text/css" media="screen" />

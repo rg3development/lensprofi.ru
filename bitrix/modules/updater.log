@@ -1,0 +1,863 @@
+2012-02-21 17:06:35 -  - exec CUpdateClient::GetUpdatesList
+2012-02-21 17:06:35 -  - exec CUpdateClient::CollectRequestData
+2012-02-21 17:06:35 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=10.0.11&VERSION=11.0.3&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.3.5-1ubuntu7.7&stable=Y&bitm_main=11.0.3&bitm_iblock=11.0.2&bitm_security=11.0.2&bitm_subscribe=11.0.1&bitm_fileman=11.0.1&bitm_perfmon=11.0.1&bitm_socialservices=11.0.0&bitm_seo=11.0.0&bitm_compression=11.0.0&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_forum=11.0.2&bitm_search=11.0.2&bitm_currency=11.0.0&bitm_sale=11.0.3&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-02-21 17:06:35 -  - exec CUpdateClient::GetHTTPPage
+2012-02-21 17:06:36 -  - TIME GetUpdatesList(request) 0.215 sec
+2012-02-21 17:06:36 -  - exec CUpdateClient::ParseServerData
+2012-03-21 15:49:42 -  - exec CUpdateClient::GetUpdatesList
+2012-03-21 15:49:42 -  - exec CUpdateClient::CollectRequestData
+2012-03-21 15:49:42 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=10.0.11&VERSION=11.0.3&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.3&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.1&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.1&bitm_sale=11.0.3&bitm_search=11.0.2&bitm_security=11.0.2&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.1&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-21 15:49:42 -  - exec CUpdateClient::GetHTTPPage
+2012-03-21 15:49:43 -  - TIME GetUpdatesList(request) 0.638 sec
+2012-03-21 15:49:43 -  - exec CUpdateClient::ParseServerData
+2012-03-22 11:51:51 -  - exec CUpdateClient::GetUpdatesList
+2012-03-22 11:51:51 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 11:51:51 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=10.0.11&VERSION=11.0.3&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.3&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.1&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.1&bitm_sale=11.0.3&bitm_search=11.0.2&bitm_security=11.0.2&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.1&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 11:51:51 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 11:51:51 -  - TIME GetUpdatesList(request) 0.621 sec
+2012-03-22 11:51:51 -  - exec CUpdateClient::ParseServerData
+2012-03-22 11:53:27 -  - exec CUpdateClient::GetUpdatesList
+2012-03-22 11:53:27 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 11:53:27 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=10.0.11&VERSION=11.0.3&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.3&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.1&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.1&bitm_sale=11.0.3&bitm_search=11.0.2&bitm_security=11.0.2&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.1&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 11:53:27 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 11:53:28 -  - TIME GetUpdatesList(request) 0.188 sec
+2012-03-22 11:53:28 -  - exec CUpdateClient::ParseServerData
+2012-03-22 11:53:39 -  - exec CUpdateClient::GetUpdatesList
+2012-03-22 11:53:39 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 11:53:39 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=10.0.11&VERSION=11.0.3&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.3&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.1&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.1&bitm_sale=11.0.3&bitm_search=11.0.2&bitm_security=11.0.2&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.1&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 11:53:39 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 11:53:39 -  - TIME GetUpdatesList(request) 0.296 sec
+2012-03-22 11:53:39 -  - exec CUpdateClient::ParseServerData
+2012-03-22 11:53:43 -  - exec CUpdateClient::UpdateUpdate
+2012-03-22 11:53:43 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 11:53:43 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=10.0.11&VERSION=11.0.3&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.3&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.1&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.1&bitm_sale=11.0.3&bitm_search=11.0.2&bitm_security=11.0.2&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.1&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=&query_type=updateupdate
+2012-03-22 11:53:43 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 11:53:49 -  - TIME UpdateUpdate(request) 6.486 sec
+2012-03-22 11:53:49 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 11:53:49 -  - TIME UnGzipArchive 0.186 sec
+2012-03-22 11:53:49 -  - exec CUpdateClient::ParseServerData
+2012-03-22 11:53:50 - CURV - Update updated successfully!
+2012-03-22 11:53:50 - UPD_SUCCESS - Update system updated
+2012-03-22 11:53:50 -  - exec CUpdateClient::GetUpdatesList
+2012-03-22 11:53:50 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 11:53:50 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.3&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.3&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.1&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.1&bitm_sale=11.0.3&bitm_search=11.0.2&bitm_security=11.0.2&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.1&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 11:53:50 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 11:53:51 -  - TIME GetUpdatesList(request) 0.978 sec
+2012-03-22 11:53:51 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:15:34 -  - exec CUpdateClient::GetUpdatesList
+2012-03-22 12:15:34 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:15:34 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.3&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.3&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.1&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.1&bitm_sale=11.0.3&bitm_search=11.0.2&bitm_security=11.0.2&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.1&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:15:34 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:15:35 -  - TIME GetUpdatesList(request) 1.428 sec
+2012-03-22 12:15:35 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:15:38 -  - exec CUpdateClient::RegisterVersion
+2012-03-22 12:15:38 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:15:38 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.3&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.3&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.1&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.1&bitm_sale=11.0.3&bitm_search=11.0.2&bitm_security=11.0.2&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.1&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=&query_type=register
+2012-03-22 12:15:38 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:15:39 -  - TIME RegisterVersion(request) 0.771 sec
+2012-03-22 12:15:39 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:15:39 -  - TIME UnGzipArchive 0.013 sec
+2012-03-22 12:15:39 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:15:39 - CURV - Product registered successfully!
+2012-03-22 12:15:39 - UPD_SUCCESS - Registered
+2012-03-22 12:15:51 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:15:51 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:15:51 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.3&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.3&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.1&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.1&bitm_sale=11.0.3&bitm_search=11.0.2&bitm_security=11.0.2&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.1&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:15:51 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:15:51 -  - TIME LoadModulesUpdates(request) 0.255 sec
+2012-03-22 12:15:51 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:15:51 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:15:51 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:15:51 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:15:52 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:15:54 - DOWNLOAD - Time - 2.0518219470978 sec
+2012-03-22 12:15:54 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:15:54 -  - TIME UnGzipArchive 0.967 sec
+2012-03-22 12:15:55 - CSURUS1 - Run updater '/bitrix/updates/update_m1332404154/main/updater11.0.4.php'
+2012-03-22 12:15:55 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404154/main/updater11.0.4.php': CopyFiles(install/components, components)
+2012-03-22 12:15:55 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404154/main/updater11.0.4.php': CopyFiles(install/gadgets, gadgets)
+2012-03-22 12:15:55 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404154/main/updater11.0.4.php': CopyFiles(install/images, images)
+2012-03-22 12:15:56 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404154/main/updater11.0.4.php': CopyFiles(install/js, js)
+2012-03-22 12:15:56 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404154/main/updater11.0.4.php': CopyFiles(install/themes, themes)
+2012-03-22 12:15:57 -  - TIME UpdateStepModules 2.216 sec
+2012-03-22 12:15:57 - UPD_SUCCESS - Updated: main (11.0.4)<br><li>Доработана страница контроля качества. <li>Исправлен ряд ошибок. 
+2012-03-22 12:15:58 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:15:58 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:15:58 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.4&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.4&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.1&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.1&bitm_sale=11.0.3&bitm_search=11.0.2&bitm_security=11.0.2&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.1&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:15:58 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:15:58 -  - TIME LoadModulesUpdates(request) 0.224 sec
+2012-03-22 12:15:58 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:15:58 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:15:58 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:15:58 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:15:59 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:00 - DOWNLOAD - Time - 1.0721018314362 sec
+2012-03-22 12:16:00 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:16:00 -  - TIME UnGzipArchive 0.526 sec
+2012-03-22 12:16:00 - CSURUS1 - Run updater '/bitrix/updates/update_m1332404160/main/updater11.0.5.php'
+2012-03-22 12:16:00 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404160/main/updater11.0.5.php': CopyFiles(install/components, components)
+2012-03-22 12:16:01 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404160/main/updater11.0.5.php': CopyFiles(install/images, images)
+2012-03-22 12:16:01 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404160/main/updater11.0.5.php': CopyFiles(install/js, js)
+2012-03-22 12:16:01 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404160/main/updater11.0.5.php': CopyFiles(install/gadgets, gadgets)
+2012-03-22 12:16:01 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404160/main/updater11.0.5.php': CopyFiles(install/themes, themes)
+2012-03-22 12:16:01 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1332404160/main/updater11.0.5.php': Query(Array, )
+2012-03-22 12:16:02 -  - TIME UpdateStepModules 1.436 sec
+2012-03-22 12:16:02 - UPD_SUCCESS - Updated: main (11.0.5)<br><li>Гаджет заметок переведен на BB-коды. <li>� ейтинги: добавлена возможность голосовать за свой контент. <li>� ейтинги: добавлена возможность централизованного включения и выключения голосования. <li>� ейтинги: добавлена возможность централизованного выбора шаблона голосования. <li>Для разработчиков: добавлены два события OnAddRatingVote и OnCancelRatingVote. 
+2012-03-22 12:16:02 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:02 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:02 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.5&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.5&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.1&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.1&bitm_sale=11.0.3&bitm_search=11.0.2&bitm_security=11.0.2&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.1&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:16:02 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:16:03 -  - TIME LoadModulesUpdates(request) 0.274 sec
+2012-03-22 12:16:03 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:03 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:16:03 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:03 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:03 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:04 - DOWNLOAD - Time - 0.71343278884888 sec
+2012-03-22 12:16:04 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:16:04 -  - TIME UnGzipArchive 0.195 sec
+2012-03-22 12:16:04 - CSURUS1 - Run updater '/bitrix/updates/update_m1332404164/main/updater11.0.6.php'
+2012-03-22 12:16:04 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404164/main/updater11.0.6.php': CopyFiles(install/components, components)
+2012-03-22 12:16:04 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404164/main/updater11.0.6.php': CopyFiles(install/gadgets, gadgets)
+2012-03-22 12:16:04 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404164/main/updater11.0.6.php': CopyFiles(install/js, js)
+2012-03-22 12:16:05 -  - TIME UpdateStepModules 0.525 sec
+2012-03-22 12:16:05 - UPD_SUCCESS - Updated: main (11.0.6)<br><li>Добавлена поддержка модуля intranet для расчета рейтингов. <li>Незначительные улучшения и исправления. 
+2012-03-22 12:16:05 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:05 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:05 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.6&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.6&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.1&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.1&bitm_sale=11.0.3&bitm_search=11.0.2&bitm_security=11.0.2&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.1&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:16:05 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:16:05 -  - TIME LoadModulesUpdates(request) 0.235 sec
+2012-03-22 12:16:05 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:05 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:16:06 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:06 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:06 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:07 - DOWNLOAD - Time - 1.3010749816895 sec
+2012-03-22 12:16:07 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:16:08 -  - TIME UnGzipArchive 0.464 sec
+2012-03-22 12:16:08 - CSURUS1 - Run updater '/bitrix/updates/update_m1332404167/main/updater11.0.7/index.php'
+2012-03-22 12:16:08 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404167/main/updater11.0.7/index.php': CopyFiles(install/components, components)
+2012-03-22 12:16:08 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404167/main/updater11.0.7/index.php': CopyFiles(install/images, images)
+2012-03-22 12:16:08 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404167/main/updater11.0.7/index.php': CopyFiles(install/js, js)
+2012-03-22 12:16:08 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404167/main/updater11.0.7/index.php': CopyFiles(install/themes, themes)
+2012-03-22 12:16:08 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404167/main/updater11.0.7/index.php': CopyFiles(install/tools, tools)
+2012-03-22 12:16:08 - CRUPDCDF3 - Run updater '/bitrix/updates/update_m1332404167/main/updater11.0.7/index.php': QueryBatch(/bitrix/updates/update_m1332404167/main/updater11.0.7/mysql.sql, )
+2012-03-22 12:16:10 -  - TIME UpdateStepModules 1.822 sec
+2012-03-22 12:16:10 - UPD_SUCCESS - Updated: main (11.0.7)<br><li>Добавлен механизм расширенных прав доступа. <li>Добавлен диалог выбора категории пользователей для расширенных прав доступа. 
+2012-03-22 12:16:10 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:10 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:10 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.7&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.7&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.1&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.1&bitm_sale=11.0.3&bitm_search=11.0.2&bitm_security=11.0.2&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.1&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:16:10 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:16:11 -  - TIME LoadModulesUpdates(request) 0.27 sec
+2012-03-22 12:16:11 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:11 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:16:11 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:11 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:11 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:12 - DOWNLOAD - Time - 1.1026060581207 sec
+2012-03-22 12:16:12 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:16:12 -  - TIME UnGzipArchive 0.215 sec
+2012-03-22 12:16:12 - CSURUS1 - Run updater '/bitrix/updates/update_m1332404172/main/updater11.0.8.php'
+2012-03-22 12:16:12 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404172/main/updater11.0.8.php': CopyFiles(install/js, js)
+2012-03-22 12:16:12 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404172/main/updater11.0.8.php': CopyFiles(install/components, components)
+2012-03-22 12:16:13 -  - TIME UpdateStepModules 0.345 sec
+2012-03-22 12:16:13 - UPD_SUCCESS - Updated: main (11.0.8)<br><li>Незначительные исправления. 
+2012-03-22 12:16:13 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:13 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:13 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.8&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.8&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.1&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.1&bitm_sale=11.0.3&bitm_search=11.0.2&bitm_security=11.0.2&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.1&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:16:13 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:16:13 -  - TIME LoadModulesUpdates(request) 0.262 sec
+2012-03-22 12:16:13 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:13 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:16:14 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:14 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:14 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:16 - DOWNLOAD - Time - 2.0038909912109 sec
+2012-03-22 12:16:16 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:16:16 -  - TIME UnGzipArchive 0.428 sec
+2012-03-22 12:16:16 - CSURUS1 - Run updater '/bitrix/updates/update_m1332404176/main/updater11.0.9/index.php'
+2012-03-22 12:16:16 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404176/main/updater11.0.9/index.php': CopyFiles(install/components, components)
+2012-03-22 12:16:16 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404176/main/updater11.0.9/index.php': CopyFiles(install/js, js)
+2012-03-22 12:16:17 - CRUPDCDF3 - Run updater '/bitrix/updates/update_m1332404176/main/updater11.0.9/index.php': QueryBatch(/bitrix/updates/update_m1332404176/main/updater11.0.9/mysql.sql, )
+2012-03-22 12:16:17 -  - TIME UpdateStepModules 1.013 sec
+2012-03-22 12:16:17 - UPD_SUCCESS - Updated: main (11.0.9)<br><li>Незначительные изменения и исправления. 
+2012-03-22 12:16:18 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:18 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:18 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.9&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.9&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.1&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.1&bitm_sale=11.0.3&bitm_search=11.0.2&bitm_security=11.0.2&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.1&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:16:18 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:16:18 -  - TIME LoadModulesUpdates(request) 0.283 sec
+2012-03-22 12:16:18 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:18 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:16:18 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:18 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:19 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:20 - DOWNLOAD - Time - 1.651095867157 sec
+2012-03-22 12:16:20 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:16:21 -  - TIME UnGzipArchive 0.642 sec
+2012-03-22 12:16:21 - CSURUS1 - Run updater '/bitrix/updates/update_m1332404180/main/updater11.0.10.php'
+2012-03-22 12:16:21 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404180/main/updater11.0.10.php': CopyFiles(install/components, components)
+2012-03-22 12:16:21 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404180/main/updater11.0.10.php': CopyFiles(install/js, js)
+2012-03-22 12:16:22 -  - TIME UpdateStepModules 0.983 sec
+2012-03-22 12:16:22 - UPD_SUCCESS - Updated: main (11.0.10)<br><li>� еализован механизм расширенных прав доступа к файлам. Теперь права можно назначать на группы пользователей, конкретных пользователей, группы соцсети, структуру компании (для КП). <li>В настроки модуля добавлен параметр \"Всегда показывать панель для пользователей\" с выбором категорий пользователей. <li>Автоматический перевод теперь использует сервис Bing вместо Google. Требуется указать ключ приложения Bing в настройках главного модуля. <li>Новый параметр журнала событий \"Записывать редактирование пользователя\". <li>Доработан парсер (ссылка в конце сообщения, цитирование). <li>� азработчикам: в класс CModule добавлены методы для управления операциями и уровнями доступа (GetModuleTasks, InstallTasks, UnInstallTasks). <li>� азработчикам: в CPageCache добавлена поддержка разных видов хранения. 
+2012-03-22 12:16:22 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:22 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:22 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.10&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.10&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.1&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.1&bitm_sale=11.0.3&bitm_search=11.0.2&bitm_security=11.0.2&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.1&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:16:22 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:16:23 -  - TIME LoadModulesUpdates(request) 0.371 sec
+2012-03-22 12:16:23 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:23 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:16:23 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:23 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:23 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:24 - DOWNLOAD - Time - 1.2396531105042 sec
+2012-03-22 12:16:24 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:16:25 -  - TIME UnGzipArchive 0.283 sec
+2012-03-22 12:16:25 - CSURUS1 - Run updater '/bitrix/updates/update_m1332404184/main/updater11.0.11.php'
+2012-03-22 12:16:25 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404184/main/updater11.0.11.php': CopyFiles(install/components, components)
+2012-03-22 12:16:25 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404184/main/updater11.0.11.php': CopyFiles(install/js, js)
+2012-03-22 12:16:25 -  - TIME UpdateStepModules 0.607 sec
+2012-03-22 12:16:26 - UPD_SUCCESS - Updated: main (11.0.11)<br><li>� ейтинги: добавлена возможность голосовать сразу после регистрации. <li>Незначительные изменения и исправления. <li>� азработчикам: метод CTempFile::GetDirectoryName теперь может вернуть фиксированное (не случайное) имя. 
+2012-03-22 12:16:26 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:26 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:26 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.1&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.1&bitm_sale=11.0.3&bitm_search=11.0.2&bitm_security=11.0.2&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.1&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:16:26 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:16:26 -  - TIME LoadModulesUpdates(request) 0.246 sec
+2012-03-22 12:16:26 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:26 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:16:27 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:27 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:27 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:29 - DOWNLOAD - Time - 2.0022950172424 sec
+2012-03-22 12:16:29 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:16:29 -  - TIME UnGzipArchive 0.298 sec
+2012-03-22 12:16:29 - CSURUS1 - Run updater '/bitrix/updates/update_m1332404189/fileman/updater11.0.2.php'
+2012-03-22 12:16:29 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404189/fileman/updater11.0.2.php': CopyFiles(install/admin, admin)
+2012-03-22 12:16:29 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404189/fileman/updater11.0.2.php': CopyFiles(install/components, components)
+2012-03-22 12:16:29 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404189/fileman/updater11.0.2.php': CopyFiles(install/js, js)
+2012-03-22 12:16:29 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404189/fileman/updater11.0.2.php': CopyFiles(install/images, images)
+2012-03-22 12:16:30 -  - TIME UpdateStepModules 0.614 sec
+2012-03-22 12:16:30 - UPD_SUCCESS - Updated: fileman (11.0.2)<br><li>Исправлены незначительные ошибки. 
+2012-03-22 12:16:30 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:30 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:30 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.2&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.1&bitm_sale=11.0.3&bitm_search=11.0.2&bitm_security=11.0.2&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.1&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:16:30 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:16:31 -  - TIME LoadModulesUpdates(request) 0.489 sec
+2012-03-22 12:16:31 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:31 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:16:31 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:31 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:31 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:32 - DOWNLOAD - Time - 0.47739386558533 sec
+2012-03-22 12:16:32 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:16:32 -  - TIME UnGzipArchive 0.032 sec
+2012-03-22 12:16:32 - CSURUS1 - Run updater '/bitrix/updates/update_m1332404192/fileman/updater11.0.3.php'
+2012-03-22 12:16:32 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404192/fileman/updater11.0.3.php': CopyFiles(install/js, js)
+2012-03-22 12:16:32 -  - TIME UpdateStepModules 0.052 sec
+2012-03-22 12:16:32 - UPD_SUCCESS - Updated: fileman (11.0.3)<br><li>Интерфейсные изменения. 
+2012-03-22 12:16:32 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:32 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:32 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.3&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.1&bitm_sale=11.0.3&bitm_search=11.0.2&bitm_security=11.0.2&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.1&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:16:32 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:16:32 -  - TIME LoadModulesUpdates(request) 0.309 sec
+2012-03-22 12:16:32 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:32 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:16:33 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:33 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:33 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:35 - DOWNLOAD - Time - 2.1529009342194 sec
+2012-03-22 12:16:35 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:16:35 -  - TIME UnGzipArchive 0.164 sec
+2012-03-22 12:16:35 - CSURUS1 - Run updater '/bitrix/updates/update_m1332404195/fileman/updater11.0.4.php'
+2012-03-22 12:16:35 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404195/fileman/updater11.0.4.php': CopyFiles(install/admin, admin)
+2012-03-22 12:16:35 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404195/fileman/updater11.0.4.php': CopyFiles(install/components, components)
+2012-03-22 12:16:35 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404195/fileman/updater11.0.4.php': CopyFiles(install/js, js)
+2012-03-22 12:16:36 -  - TIME UpdateStepModules 0.315 sec
+2012-03-22 12:16:36 - UPD_SUCCESS - Updated: fileman (11.0.4)<br><li>Добавлена возможность выключить добавление стикеров по горячим клавишам. <li>Новая версия плеера. <li>Незначительные изменения. 
+2012-03-22 12:16:36 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:36 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:36 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.1&bitm_sale=11.0.3&bitm_search=11.0.2&bitm_security=11.0.2&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.1&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:16:36 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:16:36 -  - TIME LoadModulesUpdates(request) 0.253 sec
+2012-03-22 12:16:36 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:36 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:16:37 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:37 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:37 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:37 - DOWNLOAD - Time - 0.47442388534546 sec
+2012-03-22 12:16:37 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:16:37 -  - TIME UnGzipArchive 0.179 sec
+2012-03-22 12:16:37 - CSURUS1 - Run updater '/bitrix/updates/update_m1332404197/search/updater11.0.3.php'
+2012-03-22 12:16:37 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404197/search/updater11.0.3.php': CopyFiles(install/components, components)
+2012-03-22 12:16:38 -  - TIME UpdateStepModules 0.801 sec
+2012-03-22 12:16:38 - UPD_SUCCESS - Updated: search (11.0.3)<br><li>� ейтинги: поддержка централизованного включения голосования. 
+2012-03-22 12:16:39 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:39 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:39 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.1&bitm_sale=11.0.3&bitm_search=11.0.3&bitm_security=11.0.2&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.1&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:16:39 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:16:39 -  - TIME LoadModulesUpdates(request) 0.276 sec
+2012-03-22 12:16:39 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:39 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:16:39 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:39 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:39 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:40 - DOWNLOAD - Time - 0.45617985725403 sec
+2012-03-22 12:16:40 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:16:40 -  - TIME UnGzipArchive 0.047 sec
+2012-03-22 12:16:40 - CSURUS1 - Run updater '/bitrix/updates/update_m1332404200/search/updater11.0.4.php'
+2012-03-22 12:16:40 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404200/search/updater11.0.4.php': CopyFiles(install/components, components)
+2012-03-22 12:16:40 -  - TIME UpdateStepModules 0.073 sec
+2012-03-22 12:16:40 - UPD_SUCCESS - Updated: search (11.0.4)<br><li>Добавлена поддержка non-ASCII символов в URL в Google sitemap.
+2012-03-22 12:16:40 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:40 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:40 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.1&bitm_sale=11.0.3&bitm_search=11.0.4&bitm_security=11.0.2&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.1&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:16:40 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:16:41 -  - TIME LoadModulesUpdates(request) 0.365 sec
+2012-03-22 12:16:41 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:41 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:16:41 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:41 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:41 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:42 - DOWNLOAD - Time - 0.4208550453186 sec
+2012-03-22 12:16:42 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:16:42 -  - TIME UnGzipArchive 0.041 sec
+2012-03-22 12:16:42 - CSURUS1 - Run updater '/bitrix/updates/update_m1332404202/search/updater11.0.5.php'
+2012-03-22 12:16:42 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404202/search/updater11.0.5.php': CopyFiles(install/components, components)
+2012-03-22 12:16:42 -  - TIME UpdateStepModules 0.08 sec
+2012-03-22 12:16:42 - UPD_SUCCESS - Updated: search (11.0.5)<br><li>Исправления незначительных ошибок. <li>Улучшение алгоритма автоопределения языка. 
+2012-03-22 12:16:42 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:42 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:42 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.1&bitm_sale=11.0.3&bitm_search=11.0.5&bitm_security=11.0.2&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.1&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:16:42 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:16:43 -  - TIME LoadModulesUpdates(request) 0.333 sec
+2012-03-22 12:16:43 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:43 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:16:43 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:43 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:43 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:43 - DOWNLOAD - Time - 0.45424008369446 sec
+2012-03-22 12:16:43 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:16:43 -  - TIME UnGzipArchive 0.022 sec
+2012-03-22 12:16:43 -  - TIME UpdateStepModules 0.022 sec
+2012-03-22 12:16:43 - UPD_SUCCESS - Updated: search (11.0.6)<br><li>Оптимизация.
+2012-03-22 12:16:44 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:44 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:44 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.1&bitm_sale=11.0.3&bitm_search=11.0.6&bitm_security=11.0.2&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.1&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:16:44 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:16:44 -  - TIME LoadModulesUpdates(request) 0.302 sec
+2012-03-22 12:16:44 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:44 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:16:45 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:45 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:45 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:45 - DOWNLOAD - Time - 0.39070391654968 sec
+2012-03-22 12:16:45 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:16:45 -  - TIME UnGzipArchive 0.018 sec
+2012-03-22 12:16:45 - CSURUS1 - Run updater '/bitrix/updates/update_m1332404205/subscribe/updater11.0.2.php'
+2012-03-22 12:16:45 -  - TIME UpdateStepModules 0.205 sec
+2012-03-22 12:16:45 - UPD_SUCCESS - Updated: subscribe (11.0.2)<br><li>К ссылкам, начинающимся со слеша, в выпусках в формате html добавляется имя сервера из настроек главного модуля. 
+2012-03-22 12:16:46 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:46 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:46 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.1&bitm_sale=11.0.3&bitm_search=11.0.6&bitm_security=11.0.2&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.2&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:16:46 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:16:46 -  - TIME LoadModulesUpdates(request) 0.253 sec
+2012-03-22 12:16:46 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:46 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:16:46 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:46 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:46 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:47 - DOWNLOAD - Time - 0.37066102027893 sec
+2012-03-22 12:16:47 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:16:47 -  - TIME UnGzipArchive 0.02 sec
+2012-03-22 12:16:47 -  - TIME UpdateStepModules 0.02 sec
+2012-03-22 12:16:47 - UPD_SUCCESS - Updated: subscribe (11.0.3)<br><li>Исправлены вложения с кириллическими названиями. 
+2012-03-22 12:16:47 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:47 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:47 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.1&bitm_sale=11.0.3&bitm_search=11.0.6&bitm_security=11.0.2&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.3&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:16:47 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:16:47 -  - TIME LoadModulesUpdates(request) 0.248 sec
+2012-03-22 12:16:47 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:47 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:16:48 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:48 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:48 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:48 - DOWNLOAD - Time - 0.67910885810852 sec
+2012-03-22 12:16:48 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:16:49 -  - TIME UnGzipArchive 0.092 sec
+2012-03-22 12:16:49 - CSURUS1 - Run updater '/bitrix/updates/update_m1332404208/sale/updater11.0.4/index.php'
+2012-03-22 12:16:49 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404208/sale/updater11.0.4/index.php': CopyFiles(install/components, components)
+2012-03-22 12:16:49 - CRUPDCDF3 - Run updater '/bitrix/updates/update_m1332404208/sale/updater11.0.4/index.php': QueryBatch(/bitrix/updates/update_m1332404208/sale/updater11.0.4/mysql.sql, )
+2012-03-22 12:16:49 -  - TIME UpdateStepModules 0.318 sec
+2012-03-22 12:16:49 - UPD_SUCCESS - Updated: sale (11.0.4)<br><li>Добавлена привязка к группам в скидках на заказ. <li>� азработчикам: метод CSaleDiscount::GetByID возвращает даты в формате сайта, в фильтре метода CSaleDiscount::GetList добавлен ключ USER_GROUPS, содержащий перечень групп пользователей, на которые должна действовать скидка. 
+2012-03-22 12:16:49 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:49 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:49 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.1&bitm_sale=11.0.4&bitm_search=11.0.6&bitm_security=11.0.2&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.3&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:16:49 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:16:50 -  - TIME LoadModulesUpdates(request) 0.244 sec
+2012-03-22 12:16:50 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:50 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:16:50 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:50 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:50 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:51 - DOWNLOAD - Time - 0.46825790405273 sec
+2012-03-22 12:16:51 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:16:51 -  - TIME UnGzipArchive 0.055 sec
+2012-03-22 12:16:51 - CSURUS1 - Run updater '/bitrix/updates/update_m1332404211/sale/updater11.0.5.php'
+2012-03-22 12:16:51 -  - TIME UpdateStepModules 0.644 sec
+2012-03-22 12:16:51 - UPD_SUCCESS - Updated: sale (11.0.5)<br><li>Добавлен обработчик платежной системы LiqPay. <li>Обновлен обработчик платежной системы ROBOKASSA. 
+2012-03-22 12:16:52 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:52 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:52 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.1&bitm_sale=11.0.5&bitm_search=11.0.6&bitm_security=11.0.2&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.3&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:16:52 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:16:52 -  - TIME LoadModulesUpdates(request) 0.261 sec
+2012-03-22 12:16:52 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:52 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:16:53 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:53 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:53 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:53 - DOWNLOAD - Time - 0.64535188674927 sec
+2012-03-22 12:16:53 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:16:53 -  - TIME UnGzipArchive 0.173 sec
+2012-03-22 12:16:53 - CSURUS1 - Run updater '/bitrix/updates/update_m1332404213/sale/updater11.0.6.php'
+2012-03-22 12:16:53 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404213/sale/updater11.0.6.php': CopyFiles(install/components, components)
+2012-03-22 12:16:54 -  - TIME UpdateStepModules 0.359 sec
+2012-03-22 12:16:54 - UPD_SUCCESS - Updated: sale (11.0.6)<br><li>Обновлены обработчики платежных систем: Webmoney, RBKMoney, Qiwi, Money.Mail, Assist. <li>Исправлена ошибка нерассчета налога на доставку при НДС в товарах.
+2012-03-22 12:16:54 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:54 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:54 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.1&bitm_sale=11.0.6&bitm_search=11.0.6&bitm_security=11.0.2&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.3&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:16:54 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:16:55 -  - TIME LoadModulesUpdates(request) 0.246 sec
+2012-03-22 12:16:55 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:55 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:16:55 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:55 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:55 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:56 - DOWNLOAD - Time - 0.67097091674805 sec
+2012-03-22 12:16:56 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:16:56 -  - TIME UnGzipArchive 0.084 sec
+2012-03-22 12:16:56 -  - TIME UpdateStepModules 0.098 sec
+2012-03-22 12:16:56 - UPD_SUCCESS - Updated: perfmon (11.0.2)<br><li>Исправлена ошибка отображения рекомендаций для eAccelerator. <li>В панели производительности добавлено определение memcache в кластере. <li>Улучшения интерфейса просмотра таблиц. 
+2012-03-22 12:16:56 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:56 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:56 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.2&bitm_sale=11.0.6&bitm_search=11.0.6&bitm_security=11.0.2&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.3&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:16:56 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:16:57 -  - TIME LoadModulesUpdates(request) 0.28 sec
+2012-03-22 12:16:57 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:57 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:16:57 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:57 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:57 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:57 - DOWNLOAD - Time - 0.32124090194702 sec
+2012-03-22 12:16:57 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:16:57 -  - TIME UnGzipArchive 0.039 sec
+2012-03-22 12:16:57 -  - TIME UpdateStepModules 0.042 sec
+2012-03-22 12:16:57 - UPD_SUCCESS - Updated: perfmon (11.0.3)<br><li>Исправление незначительных ошибок административного интерфейса. 
+2012-03-22 12:16:58 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:58 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:58 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.3&bitm_sale=11.0.6&bitm_search=11.0.6&bitm_security=11.0.2&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.3&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:16:58 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:16:58 -  - TIME LoadModulesUpdates(request) 0.298 sec
+2012-03-22 12:16:58 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:58 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:16:58 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:16:58 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:16:59 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:16:59 - DOWNLOAD - Time - 0.47670197486877 sec
+2012-03-22 12:16:59 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:16:59 -  - TIME UnGzipArchive 0.052 sec
+2012-03-22 12:16:59 - CSURUS1 - Run updater '/bitrix/updates/update_m1332404219/security/updater11.0.3.php'
+2012-03-22 12:16:59 -  - TIME UpdateStepModules 0.065 sec
+2012-03-22 12:16:59 - UPD_SUCCESS - Updated: security (11.0.3)<br><li>Улучшения антивируса. <li>Улучшения проактивного фильтра. 
+2012-03-22 12:17:00 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:00 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:00 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.3&bitm_sale=11.0.6&bitm_search=11.0.6&bitm_security=11.0.3&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.3&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:17:00 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:17:00 -  - TIME LoadModulesUpdates(request) 0.263 sec
+2012-03-22 12:17:00 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:00 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:17:00 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:00 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:00 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:01 - DOWNLOAD - Time - 0.4955689907074 sec
+2012-03-22 12:17:01 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:17:01 -  - TIME UnGzipArchive 0.022 sec
+2012-03-22 12:17:01 -  - TIME UpdateStepModules 0.023 sec
+2012-03-22 12:17:01 - UPD_SUCCESS - Updated: security (11.0.4)<br><li>Улучшения антивируса. <li>Улучшения проактивного фильтра. 
+2012-03-22 12:17:01 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:01 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:01 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.3&bitm_sale=11.0.6&bitm_search=11.0.6&bitm_security=11.0.4&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.3&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:17:01 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:17:02 -  - TIME LoadModulesUpdates(request) 0.364 sec
+2012-03-22 12:17:02 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:02 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:17:02 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:02 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:02 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:02 - DOWNLOAD - Time - 0.46833992004395 sec
+2012-03-22 12:17:02 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:17:03 -  - TIME UnGzipArchive 0.038 sec
+2012-03-22 12:17:03 - CSURUS1 - Run updater '/bitrix/updates/update_m1332404222/security/updater11.0.5.php'
+2012-03-22 12:17:03 -  - TIME UpdateStepModules 0.056 sec
+2012-03-22 12:17:03 - UPD_SUCCESS - Updated: security (11.0.5)<br><li>Улучшения антивируса. <li>Улучшения проактивного фильтра. 
+2012-03-22 12:17:03 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:03 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:03 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.3&bitm_sale=11.0.6&bitm_search=11.0.6&bitm_security=11.0.5&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.3&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:17:03 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:17:04 -  - TIME LoadModulesUpdates(request) 0.518 sec
+2012-03-22 12:17:04 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:04 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:17:04 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:04 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:04 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:05 - DOWNLOAD - Time - 0.54759502410889 sec
+2012-03-22 12:17:05 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:17:05 -  - TIME UnGzipArchive 0.027 sec
+2012-03-22 12:17:05 -  - TIME UpdateStepModules 0.026 sec
+2012-03-22 12:17:05 - UPD_SUCCESS - Updated: security (11.0.6)<br><li>Улучшения антивируса. <li>Улучшения проактивного фильтра. 
+2012-03-22 12:17:06 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:06 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:06 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.3&bitm_sale=11.0.6&bitm_search=11.0.6&bitm_security=11.0.6&bitm_seo=11.0.0&bitm_socialservices=11.0.0&bitm_subscribe=11.0.3&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:17:06 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:17:07 -  - TIME LoadModulesUpdates(request) 0.787 sec
+2012-03-22 12:17:07 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:07 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:17:07 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:07 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:07 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:08 - DOWNLOAD - Time - 0.7984311580658 sec
+2012-03-22 12:17:08 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:17:08 -  - TIME UnGzipArchive 0.022 sec
+2012-03-22 12:17:08 -  - TIME UpdateStepModules 0.022 sec
+2012-03-22 12:17:08 - UPD_SUCCESS - Updated: socialservices (11.0.1)<br><li>Исправлена ошибка перекодирования имени при регистрации (Facebook, Google, Twitter). 
+2012-03-22 12:17:09 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:09 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:09 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.1&bitm_clouds=11.0.1&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.3&bitm_sale=11.0.6&bitm_search=11.0.6&bitm_security=11.0.6&bitm_seo=11.0.0&bitm_socialservices=11.0.1&bitm_subscribe=11.0.3&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:17:09 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:17:09 -  - TIME LoadModulesUpdates(request) 0.303 sec
+2012-03-22 12:17:09 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:09 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:17:10 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:10 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:10 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:10 - DOWNLOAD - Time - 0.54605102539062 sec
+2012-03-22 12:17:10 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:17:10 -  - TIME UnGzipArchive 0.106 sec
+2012-03-22 12:17:11 - CSURUS1 - Run updater '/bitrix/updates/update_m1332404230/clouds/updater11.0.2.php'
+2012-03-22 12:17:11 -  - TIME UpdateStepModules 0.134 sec
+2012-03-22 12:17:11 - UPD_SUCCESS - Updated: clouds (11.0.2)<br><li>Clodo.RU вынесен в отдельного облачного провайдера. <li>Исправлена обработка файлов с пробелами в имени. <li>Исправлена загрузка файлов в случае редиректа. <li>Счетчик файлов теперь уменьшается при удалении файла из облака через административный интерфейс. 
+2012-03-22 12:17:11 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:11 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:11 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.1&bitm_clouds=11.0.2&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.3&bitm_sale=11.0.6&bitm_search=11.0.6&bitm_security=11.0.6&bitm_seo=11.0.0&bitm_socialservices=11.0.1&bitm_subscribe=11.0.3&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:17:11 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:17:12 -  - TIME LoadModulesUpdates(request) 0.77 sec
+2012-03-22 12:17:12 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:12 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:17:12 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:12 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:12 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:13 - DOWNLOAD - Time - 0.74323987960815 sec
+2012-03-22 12:17:13 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:17:13 -  - TIME UnGzipArchive 0.031 sec
+2012-03-22 12:17:13 -  - TIME UpdateStepModules 0.034 sec
+2012-03-22 12:17:13 - UPD_SUCCESS - Updated: clouds (11.0.3)<br><li>Исправления ошибок и оптимизация. 
+2012-03-22 12:17:14 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:14 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:14 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.1&bitm_clouds=11.0.3&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.2&bitm_iblock=11.0.2&bitm_perfmon=11.0.3&bitm_sale=11.0.6&bitm_search=11.0.6&bitm_security=11.0.6&bitm_seo=11.0.0&bitm_socialservices=11.0.1&bitm_subscribe=11.0.3&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:17:14 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:17:14 -  - TIME LoadModulesUpdates(request) 0.661 sec
+2012-03-22 12:17:14 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:14 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:17:15 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:15 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:15 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:18 - DOWNLOAD - Time - 3.1893749237061 sec
+2012-03-22 12:17:18 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:17:20 -  - TIME UnGzipArchive 1.416 sec
+2012-03-22 12:17:22 - CSURUS1 - Run updater '/bitrix/updates/update_m1332404238/forum/updater11.0.3.php'
+2012-03-22 12:17:22 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404238/forum/updater11.0.3.php': CopyFiles(install/components, components)
+2012-03-22 12:17:23 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404238/forum/updater11.0.3.php': CopyFiles(install/js, js/forum)
+2012-03-22 12:17:25 - CSURUS1 - Run updater '/bitrix/updates/update_m1332404238/iblock/updater11.0.3.php'
+2012-03-22 12:17:25 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404238/iblock/updater11.0.3.php': CopyFiles(install/components, components)
+2012-03-22 12:17:29 -  - TIME UpdateStepModules 7.013 sec
+2012-03-22 12:17:29 - UPD_SUCCESS - Updated: forum (11.0.3)<br><li>Добавлена поддержка автосохранения. <li>Исправлена ошибка парсинга тега [CUT]. <li>Исправлена ошибка с кодировкой некоторых символов в почтовых уведомлениях. <li>Исправлены другие незначительные ошибки. 
+2012-03-22 12:17:29 - UPD_SUCCESS - Updated: iblock (11.0.3)<br><li>Свойство счетчика теперь инкрементится при копировании элемента. <li>В шаблоне компонента catalog.compare.result цена теперь выводится с учетом скидок. <li>� ейтинги: добавлена поддержка рейтингов в компонент support.faq. 
+2012-03-22 12:17:29 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:29 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:29 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.1&bitm_clouds=11.0.3&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.3&bitm_iblock=11.0.3&bitm_perfmon=11.0.3&bitm_sale=11.0.6&bitm_search=11.0.6&bitm_security=11.0.6&bitm_seo=11.0.0&bitm_socialservices=11.0.1&bitm_subscribe=11.0.3&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:17:29 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:17:30 -  - TIME LoadModulesUpdates(request) 0.621 sec
+2012-03-22 12:17:30 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:30 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:17:30 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:30 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:30 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:31 - DOWNLOAD - Time - 0.53861880302429 sec
+2012-03-22 12:17:31 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:17:31 -  - TIME UnGzipArchive 0.165 sec
+2012-03-22 12:17:31 - CSURUS1 - Run updater '/bitrix/updates/update_m1332404251/forum/updater11.0.4.php'
+2012-03-22 12:17:31 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404251/forum/updater11.0.4.php': CopyFiles(install/components, components)
+2012-03-22 12:17:31 -  - TIME UpdateStepModules 0.598 sec
+2012-03-22 12:17:31 - UPD_SUCCESS - Updated: forum (11.0.4)<br><li>Добавлена поддержка нового механизма прав в механизме Send&Save. <li>Изменено форматирование при записи и показе событий и комментариев в Живой ленте. <li>Добавлен компонент forum.comments, применяется для комментариев без привязки к инфоблокам. 
+2012-03-22 12:17:32 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:32 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:32 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.1&bitm_clouds=11.0.3&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.4&bitm_iblock=11.0.3&bitm_perfmon=11.0.3&bitm_sale=11.0.6&bitm_search=11.0.6&bitm_security=11.0.6&bitm_seo=11.0.0&bitm_socialservices=11.0.1&bitm_subscribe=11.0.3&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:17:32 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:17:32 -  - TIME LoadModulesUpdates(request) 0.24 sec
+2012-03-22 12:17:32 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:32 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:17:33 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:33 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:33 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:33 - DOWNLOAD - Time - 0.40723896026611 sec
+2012-03-22 12:17:33 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:17:33 -  - TIME UnGzipArchive 0.073 sec
+2012-03-22 12:17:33 - CSURUS1 - Run updater '/bitrix/updates/update_m1332404253/forum/updater11.0.5.php'
+2012-03-22 12:17:33 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404253/forum/updater11.0.5.php': CopyFiles(install/components, components)
+2012-03-22 12:17:33 -  - TIME UpdateStepModules 0.141 sec
+2012-03-22 12:17:33 - UPD_SUCCESS - Updated: forum (11.0.5)<br><li>Для изображений, прикрепленных к постам, загружается уменьшенная копия. Полноразмерное изображение доступно по клику на уменьшенной картинке. <li>Исправлены незначительные ошибки. 
+2012-03-22 12:17:34 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:34 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:34 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.1&bitm_clouds=11.0.3&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.5&bitm_iblock=11.0.3&bitm_perfmon=11.0.3&bitm_sale=11.0.6&bitm_search=11.0.6&bitm_security=11.0.6&bitm_seo=11.0.0&bitm_socialservices=11.0.1&bitm_subscribe=11.0.3&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:17:34 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:17:34 -  - TIME LoadModulesUpdates(request) 0.303 sec
+2012-03-22 12:17:34 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:34 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:17:34 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:34 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:34 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:35 - DOWNLOAD - Time - 0.79352784156799 sec
+2012-03-22 12:17:35 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:17:35 -  - TIME UnGzipArchive 0.301 sec
+2012-03-22 12:17:36 - CSURUS1 - Run updater '/bitrix/updates/update_m1332404255/forum/updater11.0.6.php'
+2012-03-22 12:17:36 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404255/forum/updater11.0.6.php': CopyFiles(install/components, components)
+2012-03-22 12:17:36 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404255/forum/updater11.0.6.php': CopyFiles(install/js, js/forum)
+2012-03-22 12:17:37 -  - TIME UpdateStepModules 1.042 sec
+2012-03-22 12:17:37 - UPD_SUCCESS - Updated: forum (11.0.6)<br><li>Исправлены ошибки в компоненте forum.comments. <li>Исправлена ошибка с уменьшенными копиями прикрепленных изображений. <li>Исправлена ошибка с добавлением rel=nofollow к ссылкам. <li>Исправлены другие незначительные ошибки. 
+2012-03-22 12:17:37 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:37 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:37 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.1&bitm_clouds=11.0.3&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.6&bitm_iblock=11.0.3&bitm_perfmon=11.0.3&bitm_sale=11.0.6&bitm_search=11.0.6&bitm_security=11.0.6&bitm_seo=11.0.0&bitm_socialservices=11.0.1&bitm_subscribe=11.0.3&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:17:37 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:17:37 -  - TIME LoadModulesUpdates(request) 0.246 sec
+2012-03-22 12:17:37 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:37 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:17:38 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:38 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:38 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:39 - DOWNLOAD - Time - 0.7090380191803 sec
+2012-03-22 12:17:39 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:17:39 -  - TIME UnGzipArchive 0.119 sec
+2012-03-22 12:17:39 - CSURUS1 - Run updater '/bitrix/updates/update_m1332404259/forum/updater11.0.7.php'
+2012-03-22 12:17:39 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1332404259/forum/updater11.0.7.php': Query(Array, )
+2012-03-22 12:17:39 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404259/forum/updater11.0.7.php': CopyFiles(install/components, components)
+2012-03-22 12:17:39 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404259/forum/updater11.0.7.php': CopyFiles(install/js, js/forum)
+2012-03-22 12:17:39 -  - TIME UpdateStepModules 0.408 sec
+2012-03-22 12:17:39 - UPD_SUCCESS - Updated: forum (11.0.7)<br><li>Улучшена производительность. <li>Исправлена ошибка с показом уменьшенных версий изображений. <li>Исправлены ошибки с предпросмотром комментариев с изображениями и видео. <li>Исправлена ошибка при использовании кеша в memcached. <li>Исправлены другие незначительные ошибки. 
+2012-03-22 12:17:40 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:40 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:40 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.1&bitm_clouds=11.0.3&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.7&bitm_iblock=11.0.3&bitm_perfmon=11.0.3&bitm_sale=11.0.6&bitm_search=11.0.6&bitm_security=11.0.6&bitm_seo=11.0.0&bitm_socialservices=11.0.1&bitm_subscribe=11.0.3&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:17:40 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:17:40 -  - TIME LoadModulesUpdates(request) 0.362 sec
+2012-03-22 12:17:40 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:40 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:17:40 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:40 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:40 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:41 - DOWNLOAD - Time - 0.46285200119019 sec
+2012-03-22 12:17:41 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:17:41 -  - TIME UnGzipArchive 0.037 sec
+2012-03-22 12:17:41 - CSURUS1 - Run updater '/bitrix/updates/update_m1332404261/iblock/updater11.0.4.php'
+2012-03-22 12:17:41 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404261/iblock/updater11.0.4.php': CopyFiles(install/gadgets, gadgets)
+2012-03-22 12:17:41 -  - TIME UpdateStepModules 0.052 sec
+2012-03-22 12:17:41 - UPD_SUCCESS - Updated: iblock (11.0.4)<br><li>Незначительные исправления. 
+2012-03-22 12:17:41 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:41 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:41 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.1&bitm_clouds=11.0.3&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.7&bitm_iblock=11.0.4&bitm_perfmon=11.0.3&bitm_sale=11.0.6&bitm_search=11.0.6&bitm_security=11.0.6&bitm_seo=11.0.0&bitm_socialservices=11.0.1&bitm_subscribe=11.0.3&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:17:41 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:17:42 -  - TIME LoadModulesUpdates(request) 0.28 sec
+2012-03-22 12:17:42 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:42 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:17:42 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:42 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:42 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:44 - DOWNLOAD - Time - 2.2201220989227 sec
+2012-03-22 12:17:44 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:17:45 -  - TIME UnGzipArchive 0.531 sec
+2012-03-22 12:17:45 - CSURUS1 - Run updater '/bitrix/updates/update_m1332404264/iblock/updater11.0.5/index.php'
+2012-03-22 12:17:45 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404264/iblock/updater11.0.5/index.php': CopyFiles(install/components, components)
+2012-03-22 12:17:45 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404264/iblock/updater11.0.5/index.php': CopyFiles(install/gadgets, gadgets)
+2012-03-22 12:17:45 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404264/iblock/updater11.0.5/index.php': CopyFiles(install/js, js/iblock)
+2012-03-22 12:17:45 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404264/iblock/updater11.0.5/index.php': CopyFiles(install/themes, themes)
+2012-03-22 12:17:45 - CRUPDCDF3 - Run updater '/bitrix/updates/update_m1332404264/iblock/updater11.0.5/index.php': QueryBatch(/bitrix/updates/update_m1332404264/iblock/updater11.0.5/mysql.sql, )
+2012-03-22 12:17:46 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1332404264/iblock/updater11.0.5/index.php': Query(Array, )
+2012-03-22 12:17:47 -  - TIME UpdateStepModules 1.768 sec
+2012-03-22 12:17:47 - UPD_SUCCESS - Updated: iblock (11.0.5)<br><li>Добавлено расширенное управление правами доступа к разделам и элементам инфоблоков. 
+2012-03-22 12:17:47 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:47 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:47 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.1&bitm_clouds=11.0.3&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.7&bitm_iblock=11.0.5&bitm_perfmon=11.0.3&bitm_sale=11.0.6&bitm_search=11.0.6&bitm_security=11.0.6&bitm_seo=11.0.0&bitm_socialservices=11.0.1&bitm_subscribe=11.0.3&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:17:47 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:17:48 -  - TIME LoadModulesUpdates(request) 0.391 sec
+2012-03-22 12:17:48 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:48 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:17:48 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:48 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:48 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:49 - DOWNLOAD - Time - 0.65196299552917 sec
+2012-03-22 12:17:49 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:17:49 -  - TIME UnGzipArchive 0.093 sec
+2012-03-22 12:17:49 - CSURUS1 - Run updater '/bitrix/updates/update_m1332404269/iblock/updater11.0.6.php'
+2012-03-22 12:17:49 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404269/iblock/updater11.0.6.php': CopyFiles(install/js, js/iblock)
+2012-03-22 12:17:49 -  - TIME UpdateStepModules 0.113 sec
+2012-03-22 12:17:49 - UPD_SUCCESS - Updated: iblock (11.0.6)<br><li>Исправления ошибок административного интерфейса. 
+2012-03-22 12:17:49 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:49 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:49 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.1&bitm_clouds=11.0.3&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.7&bitm_iblock=11.0.6&bitm_perfmon=11.0.3&bitm_sale=11.0.6&bitm_search=11.0.6&bitm_security=11.0.6&bitm_seo=11.0.0&bitm_socialservices=11.0.1&bitm_subscribe=11.0.3&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:17:49 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:17:50 -  - TIME LoadModulesUpdates(request) 0.632 sec
+2012-03-22 12:17:50 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:50 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:17:50 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:50 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:50 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:51 - DOWNLOAD - Time - 0.74270105361938 sec
+2012-03-22 12:17:51 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:17:51 -  - TIME UnGzipArchive 0.135 sec
+2012-03-22 12:17:51 - CSURUS1 - Run updater '/bitrix/updates/update_m1332404271/catalog/updater11.0.2/index.php'
+2012-03-22 12:17:52 -  - TIME UpdateStepModules 0.181 sec
+2012-03-22 12:17:52 - UPD_SUCCESS - Updated: catalog (11.0.2)<br><li>Скидки товара теперь действуют и на торговые предложения. <li>Доработан экспорт в Яндекс.Товары торговых предложений и товаров, не имеющих разделов. <li>Исправлен ряд ошибок. <li>Внимание! Для корректной работы ссылок на торговые предложения в корзине и заказах необходимо использовать ключ #PRODUCT_URL# в шаблоне детальной ссылки инфоблоков торговых предложений <li>Внимание! Скидки, действующие на инфоблок, необходимо пересохранить <li>� азработчикам: в методе CCatalogDiscount::GetDiscount добавлено два необязательных параметра - поддержка SKU и тип кеширования информации о скидках (полная информация либо ID скидки). <li>� азработчикам: добавлен класс CCatalogSKU, содержащий набор методов для работы с торговыми предложениями. 
+2012-03-22 12:17:52 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:52 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:52 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.2&bitm_clouds=11.0.3&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.7&bitm_iblock=11.0.6&bitm_perfmon=11.0.3&bitm_sale=11.0.6&bitm_search=11.0.6&bitm_security=11.0.6&bitm_seo=11.0.0&bitm_socialservices=11.0.1&bitm_subscribe=11.0.3&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:17:52 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:17:52 -  - TIME LoadModulesUpdates(request) 0.332 sec
+2012-03-22 12:17:52 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:52 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:17:53 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:53 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:53 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:54 - DOWNLOAD - Time - 1.2545251846313 sec
+2012-03-22 12:17:54 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:17:54 -  - TIME UnGzipArchive 0.336 sec
+2012-03-22 12:17:54 - CSURUS1 - Run updater '/bitrix/updates/update_m1332404274/iblock/updater11.0.7.php'
+2012-03-22 12:17:54 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404274/iblock/updater11.0.7.php': CopyFiles(install/components, components)
+2012-03-22 12:17:55 -  - TIME UpdateStepModules 0.797 sec
+2012-03-22 12:17:55 - UPD_SUCCESS - Updated: iblock (11.0.7)<br><li>Исправлена ошибка редактирования расширенных прав при настроенной форме редактирования элемента. <li>Исправлена ошибка удаления разделов. <li>Исправлен экспорт списка элементов в Excel. <li>В компоненте iblock.element.add.form исправлена проверка заполненности пользовательских свойств. 
+2012-03-22 12:17:55 - UPD_SUCCESS - Updated: catalog (11.0.3)<br><li>Свойство привязки торговых предложений больше не является обязательным. <li>Незначительные исправления. <li>� азработчикам: добавлена возможность фильтрации по полю CATALOG_WEIGHT в методе CIBlockElement::GetList().
+2012-03-22 12:17:56 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:56 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:56 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.3&bitm_clouds=11.0.3&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.7&bitm_iblock=11.0.7&bitm_perfmon=11.0.3&bitm_sale=11.0.6&bitm_search=11.0.6&bitm_security=11.0.6&bitm_seo=11.0.0&bitm_socialservices=11.0.1&bitm_subscribe=11.0.3&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:17:56 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:17:56 -  - TIME LoadModulesUpdates(request) 0.26 sec
+2012-03-22 12:17:56 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:56 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:17:56 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:56 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:56 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:57 - DOWNLOAD - Time - 0.70451498031616 sec
+2012-03-22 12:17:57 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:17:57 -  - TIME UnGzipArchive 0.094 sec
+2012-03-22 12:17:57 -  - TIME UpdateStepModules 0.098 sec
+2012-03-22 12:17:57 - UPD_SUCCESS - Updated: iblock (11.0.8)<br><li>Незначительные исправления административного интерфейса. 
+2012-03-22 12:17:58 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:58 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:58 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.3&bitm_clouds=11.0.3&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.7&bitm_iblock=11.0.8&bitm_perfmon=11.0.3&bitm_sale=11.0.6&bitm_search=11.0.6&bitm_security=11.0.6&bitm_seo=11.0.0&bitm_socialservices=11.0.1&bitm_subscribe=11.0.3&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:17:58 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:17:58 -  - TIME LoadModulesUpdates(request) 0.411 sec
+2012-03-22 12:17:58 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:17:58 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:17:58 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:17:58 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:17:58 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:18:00 - DOWNLOAD - Time - 1.300096988678 sec
+2012-03-22 12:18:00 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:18:00 -  - TIME UnGzipArchive 0.363 sec
+2012-03-22 12:18:00 - CSURUS1 - Run updater '/bitrix/updates/update_m1332404280/iblock/updater11.0.9.php'
+2012-03-22 12:18:00 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404280/iblock/updater11.0.9.php': CopyFiles(install/components, components)
+2012-03-22 12:18:01 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404280/iblock/updater11.0.9.php': CopyFiles(install/themes, themes)
+2012-03-22 12:18:01 -  - TIME UpdateStepModules 0.957 sec
+2012-03-22 12:18:01 - UPD_SUCCESS - Updated: iblock (11.0.9)<br><li>Добавлена поддержка нового XML в обмене с 1С. <li>В компоненте news.calendar исправлена навигация в AJAX режиме. <li>Исправлено копирование расширенных прав доступа при создании версии элемента. <li>Исправлено создание картинки анонса при xml импорте. <li>� азработчикам: в метод CIBlockSection::GetList добавлено предупреждение (PHP Warning) в случае использования пользовательских полей без указания идентификатора инфоблока. <li>� азработчикам: в метод CIBLockElement::Getlist добавлена поддержка рейтингов. <li>� азработчикам: из метода CIBlockProperty::GetList убрана проверка прав. 
+2012-03-22 12:18:02 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:18:02 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:18:02 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.3&bitm_clouds=11.0.3&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.7&bitm_iblock=11.0.9&bitm_perfmon=11.0.3&bitm_sale=11.0.6&bitm_search=11.0.6&bitm_security=11.0.6&bitm_seo=11.0.0&bitm_socialservices=11.0.1&bitm_subscribe=11.0.3&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:18:02 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:18:02 -  - TIME LoadModulesUpdates(request) 0.331 sec
+2012-03-22 12:18:02 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:18:02 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:18:02 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:18:02 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:18:02 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:18:03 - DOWNLOAD - Time - 0.84298706054688 sec
+2012-03-22 12:18:03 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:18:03 -  - TIME UnGzipArchive 0.141 sec
+2012-03-22 12:18:04 -  - TIME UpdateStepModules 0.152 sec
+2012-03-22 12:18:04 - UPD_SUCCESS - Updated: iblock (11.0.10)<br><li>Изменение в обработке CML, теперь тег \"ОписаниеВФорматеHTML\" затирает тег \"Описание\". <li>Исправлена ошибка проверки доступа в форме редактирования элемента. 
+2012-03-22 12:18:04 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:18:04 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:18:04 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.3&bitm_clouds=11.0.3&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.7&bitm_iblock=11.0.10&bitm_perfmon=11.0.3&bitm_sale=11.0.6&bitm_search=11.0.6&bitm_security=11.0.6&bitm_seo=11.0.0&bitm_socialservices=11.0.1&bitm_subscribe=11.0.3&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:18:04 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:18:05 -  - TIME LoadModulesUpdates(request) 0.501 sec
+2012-03-22 12:18:05 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:18:05 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:18:05 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:18:05 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:18:05 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:18:05 - DOWNLOAD - Time - 0.35963416099548 sec
+2012-03-22 12:18:05 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:18:05 -  - TIME UnGzipArchive 0.03 sec
+2012-03-22 12:18:05 -  - TIME UpdateStepModules 0.024 sec
+2012-03-22 12:18:05 - UPD_SUCCESS - Updated: catalog (11.0.4)<br><li>Исправлены ошибки сохранения ограничений скидок. 
+2012-03-22 12:18:06 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:18:06 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:18:06 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.4&bitm_clouds=11.0.3&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.7&bitm_iblock=11.0.10&bitm_perfmon=11.0.3&bitm_sale=11.0.6&bitm_search=11.0.6&bitm_security=11.0.6&bitm_seo=11.0.0&bitm_socialservices=11.0.1&bitm_subscribe=11.0.3&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:18:06 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:18:06 -  - TIME LoadModulesUpdates(request) 0.376 sec
+2012-03-22 12:18:06 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:18:06 - LMU01 - LoadModulesUpdates-Step
+2012-03-22 12:18:07 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:18:07 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:18:07 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:18:07 - DOWNLOAD - Time - 0.54747796058655 sec
+2012-03-22 12:18:07 -  - exec CUpdateClient::UnGzipArchive
+2012-03-22 12:18:07 -  - TIME UnGzipArchive 0.124 sec
+2012-03-22 12:18:07 - CSURUS1 - Run updater '/bitrix/updates/update_m1332404287/catalog/updater11.0.5/index.php'
+2012-03-22 12:18:07 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1332404287/catalog/updater11.0.5/index.php': Query(Array, )
+2012-03-22 12:18:07 - CRUPDCDF3 - Run updater '/bitrix/updates/update_m1332404287/catalog/updater11.0.5/index.php': QueryBatch(Array, )
+2012-03-22 12:18:07 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1332404287/catalog/updater11.0.5/index.php': CopyFiles(install/tools, tools)
+2012-03-22 12:18:08 -  - TIME UpdateStepModules 0.272 sec
+2012-03-22 12:18:08 - UPD_SUCCESS - Updated: catalog (11.0.5)<br><li>Небольшие исправления административного интерфейса. <li>Небольшое увеличение производительности. <li>Исправлены ошибки метода CCatalogProduct::GetList и CCatalogProduct::GetListEx для Oracle и MS SQL. <li>Исправлена ошибка экспорта в Яндекс.Товары, проявляющаяся при выборе определенного типа цены для выгрузки. <li>Улучшена работа метода CCatalogProduct::GetOptimalPrice. <li>� азработчикам: добавлены события в методы CCatalogDiscount::Add - OnDiscountAdd, CCatalogDiscount::Update - OnDiscountUpdate, CCatalogDiscount::Delete - OnDiscountDelete, CCatalogProduct::Add - OnBeforeProductAdd, CCatalogProduct::GetOptimalPrice - OnGetOptimalPrice и OnGetOptimalPriceResult, CCatalogProduct::GetNearestQuantityPrice - OnGetNearestQuantityPrice и OnGetNearestQuantityPriceResult, CCatalogProduct::CountPriceWithDiscount - OnCountPriceWithDiscount и OnCountPriceWithDiscountResult. <li>� азработчикам: функция CatalogGenerateCoupon перенесена в include.php модуля. Событие OnGenerateCoupon позволяет менять генерацию купонов на всех страницах админки. 
+2012-03-22 12:18:08 -  - exec CUpdateClient::LoadModulesUpdates
+2012-03-22 12:18:08 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 12:18:08 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.5&bitm_clouds=11.0.3&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.7&bitm_iblock=11.0.10&bitm_perfmon=11.0.3&bitm_sale=11.0.6&bitm_search=11.0.6&bitm_security=11.0.6&bitm_seo=11.0.0&bitm_socialservices=11.0.1&bitm_subscribe=11.0.3&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 12:18:08 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 12:18:08 -  - TIME LoadModulesUpdates(request) 0.259 sec
+2012-03-22 12:18:08 -  - exec CUpdateClient::ParseServerData
+2012-03-22 12:18:08 - STEP - Finish - NOUPDATES
+2012-03-22 12:18:08 - STEP - Finish - NOUPDATES
+2012-03-22 14:04:21 -  - exec CUpdateClient::GetUpdatesList
+2012-03-22 14:04:21 -  - exec CUpdateClient::CollectRequestData
+2012-03-22 14:04:21 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=2&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=localhost&CANGZIP=Y&CLIENT_PHPVER=5.2.9-2&stable=Y&bitm_main=11.0.11&bitm_catalog=11.0.5&bitm_clouds=11.0.3&bitm_compression=11.0.0&bitm_currency=11.0.0&bitm_fileman=11.0.4&bitm_forum=11.0.7&bitm_iblock=11.0.10&bitm_perfmon=11.0.3&bitm_sale=11.0.6&bitm_search=11.0.6&bitm_security=11.0.6&bitm_seo=11.0.0&bitm_socialservices=11.0.1&bitm_subscribe=11.0.3&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-03-22 14:04:21 -  - exec CUpdateClient::GetHTTPPage
+2012-03-22 14:04:22 -  - TIME GetUpdatesList(request) 0.773 sec
+2012-03-22 14:04:22 -  - exec CUpdateClient::ParseServerData
+2012-04-26 12:12:35 -  - exec CUpdateClient::GetUpdatesList
+2012-04-26 12:12:35 -  - exec CUpdateClient::CollectRequestData
+2012-04-26 12:12:35 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=11&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=www.linzprofy.ru&CANGZIP=Y&CLIENT_PHPVER=5.2.10&stable=Y&bitm_main=11.0.11&bitm_iblock=11.0.10&bitm_security=11.0.6&bitm_subscribe=11.0.3&bitm_fileman=11.0.4&bitm_perfmon=11.0.3&bitm_socialservices=11.0.1&bitm_seo=11.0.0&bitm_compression=11.0.0&bitm_catalog=11.0.5&bitm_clouds=11.0.3&bitm_forum=11.0.7&bitm_search=11.0.6&bitm_currency=11.0.0&bitm_sale=11.0.6&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-04-26 12:12:35 -  - exec CUpdateClient::GetHTTPPage
+2012-04-26 12:12:36 -  - TIME GetUpdatesList(request) 0.919 sec
+2012-04-26 12:12:36 -  - exec CUpdateClient::ParseServerData
+2012-06-13 12:29:21 -  - exec CUpdateClient::GetUpdatesList
+2012-06-13 12:29:21 -  - exec CUpdateClient::CollectRequestData
+2012-06-13 12:29:21 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=39&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=lensprofi.ru&CANGZIP=Y&CLIENT_PHPVER=5.2.10&stable=Y&bitm_main=11.0.11&bitm_iblock=11.0.10&bitm_security=11.0.6&bitm_subscribe=11.0.3&bitm_fileman=11.0.4&bitm_perfmon=11.0.3&bitm_socialservices=11.0.1&bitm_seo=11.0.0&bitm_compression=11.0.0&bitm_catalog=11.0.5&bitm_clouds=11.0.3&bitm_forum=11.0.7&bitm_search=11.0.6&bitm_currency=11.0.0&bitm_sale=11.0.6&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-06-13 12:29:21 -  - exec CUpdateClient::GetHTTPPage
+2012-06-13 12:29:22 -  - TIME GetUpdatesList(request) 1.042 sec
+2012-06-13 12:29:22 -  - exec CUpdateClient::ParseServerData
+2012-09-15 12:44:34 -  - exec CUpdateClient::GetUpdatesList
+2012-09-15 12:44:34 -  - exec CUpdateClient::CollectRequestData
+2012-09-15 12:44:34 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=58&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=lensprofi.ru&CANGZIP=Y&CLIENT_PHPVER=5.2.10&stable=Y&bitm_main=11.0.11&bitm_iblock=11.0.10&bitm_security=11.0.6&bitm_subscribe=11.0.3&bitm_fileman=11.0.4&bitm_perfmon=11.0.3&bitm_socialservices=11.0.1&bitm_seo=11.0.0&bitm_compression=11.0.0&bitm_catalog=11.0.5&bitm_clouds=11.0.3&bitm_forum=11.0.7&bitm_search=11.0.6&bitm_currency=11.0.0&bitm_sale=11.0.6&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2012-09-15 12:44:34 -  - exec CUpdateClient::GetHTTPPage
+2012-09-15 12:44:35 -  - TIME GetUpdatesList(request) 1.607 sec
+2012-09-15 12:44:35 -  - exec CUpdateClient::ParseServerData
+2014-02-03 00:24:30 -  - exec CUpdateClient::GetUpdatesList
+2014-02-03 00:24:30 -  - exec CUpdateClient::CollectRequestData
+2014-02-03 00:24:30 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=11.0.12&VERSION=11.0.11&TYPENC=E&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=799&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=lensprofi.ru&CANGZIP=Y&CLIENT_PHPVER=5.3.3&stable=Y&bitm_main=11.0.11&bitm_compression=11.0.0&bitm_catalog=11.0.5&bitm_currency=11.0.0&bitm_security=11.0.6&bitm_fileman=11.0.4&bitm_iblock=11.0.10&bitm_forum=11.0.7&bitm_perfmon=11.0.3&bitm_seo=11.0.0&bitm_sale=11.0.6&bitm_clouds=11.0.3&bitm_subscribe=11.0.3&bitm_search=11.0.6&bitm_socialservices=11.0.1&bitl_en=20070905&bitl_ru=&bith_ru=&bith_en=
+2014-02-03 00:24:30 -  - exec CUpdateClient::GetHTTPPage
+2014-02-03 00:24:30 -  - TIME GetUpdatesList(request) 0.219 sec
+2014-02-03 00:24:30 -  - exec CUpdateClient::ParseServerData

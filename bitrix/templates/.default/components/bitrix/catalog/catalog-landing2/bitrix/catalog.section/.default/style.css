@@ -1,0 +1,57 @@
+.catalog-price {
+	 color:red;
+}
+
+ div.landing-page-2 table {
+	 width: 100%;
+ }
+
+ div.landing-page-2 table td {
+	padding-right:10px;
+	padding-top:10px;
+}
+
+ div.landing-page-2 table td {
+ }
+
+.landing-page-2 tr td table tr td {
+	text-align: left !important;
+}
+
+ div.landing-page-2 tr td table tr td:first-child {
+ 	padding-left: 55px;
+ }
+
+ div.landing-page-2 tr td table tr td:last-child {
+ 	width: 500px !important;
+ 	text-align: left;
+ 	font-size: 16px;
+ 	font-weight: bold;
+ }
+
+.landing-page-2 tr td table tr td img {
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
+
+.landing-price-catalogue {
+	width:100% !important;
+	display: block;
+}
+
+.landing-price-catalogue .catalog-price {
+	font-size: 15px;
+	font-weight: bold;
+	margin: 10px 0px 10px 0px;
+	display: block;
+}
+
+.landing-page-2 .buy-button-block {
+	display: block;
+	text-align: left !important;
+}
+
+.landing-page-2 .catalog-price {
+	display: block;
+	text-align: left !important;
+}

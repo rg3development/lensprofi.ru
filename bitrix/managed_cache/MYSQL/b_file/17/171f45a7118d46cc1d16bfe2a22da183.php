@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001393154273';
+$dateexpire = '001393157873';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:3:{i:1915;a:13:{s:2:"ID";s:4:"1915";s:11:"TIMESTAMP_X";s:19:"17.12.2012 00:02:56";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:3:"130";s:5:"WIDTH";s:3:"173";s:9:"FILE_SIZE";s:5:"12929";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/a27";s:9:"FILE_NAME";s:36:"a27f218615b4bdbf9ace68058c9ac2f3.jpg";s:13:"ORIGINAL_NAME";s:19:"74 - копия.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}i:1916;a:13:{s:2:"ID";s:4:"1916";s:11:"TIMESTAMP_X";s:19:"20.12.2012 00:57:21";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:2:"99";s:5:"WIDTH";s:3:"121";s:9:"FILE_SIZE";s:4:"4658";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/90d";s:9:"FILE_NAME";s:36:"90d87353b127bdd686959ea80064fca9.jpg";s:13:"ORIGINAL_NAME";s:69:"PROCLEAR (6 линз)_Cooper Vision (Hydron)_Оптические.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}i:1917;a:13:{s:2:"ID";s:4:"1917";s:11:"TIMESTAMP_X";s:19:"20.12.2012 00:57:21";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:3:"368";s:5:"WIDTH";s:3:"450";s:9:"FILE_SIZE";s:5:"32340";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/d2c";s:9:"FILE_NAME";s:36:"d2cdab89a8c7ecdb5b88a0b44e8a6218.jpg";s:13:"ORIGINAL_NAME";s:69:"PROCLEAR (6 линз)_Cooper Vision (Hydron)_Оптические.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}}}';
+return true;
+?>

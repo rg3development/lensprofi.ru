@@ -1,0 +1,13 @@
+User-agent: * 
+Disallow: /bitrix/ 
+Disallow: /search/ 
+Disallow: /auth/ 
+Disallow: /personal/ 
+Disallow: /upload/
+Disallow: /*sort
+Disallow: /*utm_
+Disallow: /*_openstat
+Disallow: /*/basket.php
+
+Host: lensprofi.ru 
+Sitemap: http://lensprofi.ru/sitemap.xml

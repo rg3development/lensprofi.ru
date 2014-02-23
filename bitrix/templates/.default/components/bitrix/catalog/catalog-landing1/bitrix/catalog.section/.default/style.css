@@ -1,0 +1,35 @@
+.catalog-price {
+	 color:red;
+}
+div.catalog-section table td {
+	padding-right:10px;
+	padding-top:10px;
+}
+
+.catalog-section tr td table tr td {
+	display: block;
+	text-align: center !important;
+}
+
+.catalog-section tr td table tr td img {
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
+
+.landing-price-catalogue {
+	width:100% !important;
+	text-align: center !important;
+	display: block;
+}
+
+.landing-price-catalogue .catalog-price {
+	font-size: 15px;
+	font-weight: bold;
+	margin: 10px 0px 10px 0px;
+	display: block;
+}
+
+.buy-button-block {
+	display: block;
+	text-align: center;
+}

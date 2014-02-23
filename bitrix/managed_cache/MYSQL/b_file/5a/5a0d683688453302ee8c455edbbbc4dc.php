@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001393154273';
+$dateexpire = '001393157873';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:3:{i:975;a:13:{s:2:"ID";s:3:"975";s:11:"TIMESTAMP_X";s:19:"28.04.2012 21:18:48";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:2:"98";s:5:"WIDTH";s:3:"121";s:9:"FILE_SIZE";s:4:"5424";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/f5a";s:9:"FILE_NAME";s:36:"f5a6803f657508a126e75f941db4b40c.jpg";s:13:"ORIGINAL_NAME";s:66:"MAXIMA 38 FW (4 линзы)_Maxima Optics_Оптические.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}i:976;a:13:{s:2:"ID";s:3:"976";s:11:"TIMESTAMP_X";s:19:"28.04.2012 21:18:48";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:3:"354";s:5:"WIDTH";s:3:"433";s:9:"FILE_SIZE";s:6:"100220";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/b96";s:9:"FILE_NAME";s:36:"b9667c4ab3d181c8167dd525cc622df7.jpg";s:13:"ORIGINAL_NAME";s:66:"MAXIMA 38 FW (4 линзы)_Maxima Optics_Оптические.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}i:979;a:13:{s:2:"ID";s:3:"979";s:11:"TIMESTAMP_X";s:19:"28.04.2012 21:22:01";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:2:"98";s:5:"WIDTH";s:3:"121";s:9:"FILE_SIZE";s:4:"5357";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/587";s:9:"FILE_NAME";s:36:"587d70c1be80ab92fb69b273ccb83b89.jpg";s:13:"ORIGINAL_NAME";s:57:"CLEAR 55 A (6 линз)_ClearLab_Оптические.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}}}';
+return true;
+?>

@@ -1,0 +1,50 @@
+<ul class="list273 noBrd">
+	<li>
+		<table>
+			<tr>
+				<td><a href="#"><img src="/img/pic71a.jpg" alt="" /></a></td>
+				<td><p><a href="#">Приведите друга<br />и получите скидку</a></p></td>
+			</tr>
+		</table>
+	</li>
+	<li>
+		<table>
+			<tr>
+				<td><a href="#"><img src="/img/pic71b.jpg" alt="" /></a></td>
+				<td><p><a href="#">Повторный<br />заказ</a></p></td>
+			</tr>
+		</table>
+	</li>
+	<li>
+		<table>
+			<tr>
+				<td><a href="#"><img src="/img/pic71c.jpg" alt="" /></a></td>
+				<td><p><a href="#">Покупайте больше<br />- платите меньше</a></p></td>
+			</tr>
+		</table>
+	</li>
+	<li>
+		<table>
+			<tr>
+				<td><a href="#"><img src="/img/pic71d.jpg" alt="" /></a></td>
+				<td><p><a href="#">Вопрос<br />офтальмологу</a></p></td>
+			</tr>
+		</table>
+	</li>
+</ul>
+<div style="clear: both;"></div>
+<?$APPLICATION->IncludeComponent("bitrix:sale.basket.basket", "lenses", array(
+	"COUNT_DISCOUNT_4_ALL_QUANTITY" => "Y",
+	"COLUMNS_LIST" => array(
+		0 => "NAME",
+		1 => "QUANTITY",
+		2 => "DELETE",
+	),
+	"PATH_TO_ORDER" => "/personal/order.php",
+	"HIDE_COUPON" => "Y",
+	"QUANTITY_FLOAT" => "N",
+	"PRICE_VAT_SHOW_VALUE" => "Y",
+	"SET_TITLE" => "N"
+	),
+	false
+);?>

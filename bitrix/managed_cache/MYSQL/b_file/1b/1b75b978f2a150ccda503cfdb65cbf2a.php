@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001393154273';
+$dateexpire = '001393157873';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:3:{i:1035;a:13:{s:2:"ID";s:4:"1035";s:11:"TIMESTAMP_X";s:19:"28.04.2012 22:20:59";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:2:"99";s:5:"WIDTH";s:3:"121";s:9:"FILE_SIZE";s:4:"5788";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/fbf";s:9:"FILE_NAME";s:36:"fbfcb2c7c8ef2255b2e218db8cf47305.jpg";s:13:"ORIGINAL_NAME";s:59:"OKVISION FUSION  (2 линзы)_OKVision_Цветные.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}i:1036;a:13:{s:2:"ID";s:4:"1036";s:11:"TIMESTAMP_X";s:19:"28.04.2012 22:20:59";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:3:"368";s:5:"WIDTH";s:3:"450";s:9:"FILE_SIZE";s:5:"42597";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/8e9";s:9:"FILE_NAME";s:36:"8e90dcb5baf756168e7ebcbdf35b4999.jpg";s:13:"ORIGINAL_NAME";s:59:"OKVISION FUSION  (2 линзы)_OKVision_Цветные.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}i:1039;a:13:{s:2:"ID";s:4:"1039";s:11:"TIMESTAMP_X";s:19:"28.04.2012 22:24:25";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:2:"99";s:5:"WIDTH";s:3:"121";s:9:"FILE_SIZE";s:4:"5212";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/f49";s:9:"FILE_NAME";s:36:"f4965859f89179227f379e56535bf9c0.jpg";s:13:"ORIGINAL_NAME";s:140:"ОФТАЛЬМИКС BUTTERFLY COLORS однотоновые  (2 линзы)_ОФТАльмикс (Polytouch Contactlens)_Цветные.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}}}';
+return true;
+?>

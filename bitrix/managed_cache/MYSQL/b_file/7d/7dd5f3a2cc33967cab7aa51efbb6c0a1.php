@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001393154273';
+$dateexpire = '001393157873';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:3:{i:1275;a:13:{s:2:"ID";s:4:"1275";s:11:"TIMESTAMP_X";s:19:"03.05.2012 01:33:37";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:2:"98";s:5:"WIDTH";s:3:"121";s:9:"FILE_SIZE";s:4:"4141";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/417";s:9:"FILE_NAME";s:36:"417bc02a5a974a990979bae4e6bd4248.jpg";s:13:"ORIGINAL_NAME";s:84:"ОФТАЛЬМИКС PREMIUM PLUS, 60 мл_ОФТАльмикс_Растворы.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}i:1276;a:13:{s:2:"ID";s:4:"1276";s:11:"TIMESTAMP_X";s:19:"03.05.2012 01:33:37";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:3:"309";s:5:"WIDTH";s:3:"380";s:9:"FILE_SIZE";s:5:"50846";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/71c";s:9:"FILE_NAME";s:36:"71cb4ded1c3acf74eb79df87eb03e817.jpg";s:13:"ORIGINAL_NAME";s:84:"ОФТАЛЬМИКС PREMIUM PLUS, 60 мл_ОФТАльмикс_Растворы.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}i:1279;a:13:{s:2:"ID";s:4:"1279";s:11:"TIMESTAMP_X";s:19:"03.05.2012 01:34:27";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:2:"96";s:5:"WIDTH";s:3:"121";s:9:"FILE_SIZE";s:4:"5020";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/281";s:9:"FILE_NAME";s:36:"281732bb57e0444957e4dae2db04be33.jpg";s:13:"ORIGINAL_NAME";s:79:"ОФТАЛЬМИКС БИО, 270 мл_ОФТАльмикс_Растворы.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}}}';
+return true;
+?>

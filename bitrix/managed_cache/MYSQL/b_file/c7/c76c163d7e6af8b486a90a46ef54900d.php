@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001393154273';
+$dateexpire = '001393157873';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:3:{i:740;a:13:{s:2:"ID";s:3:"740";s:11:"TIMESTAMP_X";s:19:"20.03.2012 13:07:39";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:3:"369";s:5:"WIDTH";s:3:"450";s:9:"FILE_SIZE";s:5:"33965";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/952";s:9:"FILE_NAME";s:36:"9524ea609c18c270ee118954680d0040.jpg";s:13:"ORIGINAL_NAME";s:61:"AQUA SOFT COMFORT+, 250 мл_Avizor Int._Растворы.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}i:741;a:13:{s:2:"ID";s:3:"741";s:11:"TIMESTAMP_X";s:19:"20.03.2012 13:07:39";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:3:"792";s:5:"WIDTH";s:3:"600";s:9:"FILE_SIZE";s:6:"193165";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/b1b";s:9:"FILE_NAME";s:36:"b1b0737ebca227b85126d4f36c40f86c.jpg";s:13:"ORIGINAL_NAME";s:73:"AQUA SOFT COMFORT+, 250 мл_Avizor Int._Растворы_certificate.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}i:744;a:13:{s:2:"ID";s:3:"744";s:11:"TIMESTAMP_X";s:19:"20.03.2012 13:07:39";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:3:"792";s:5:"WIDTH";s:3:"600";s:9:"FILE_SIZE";s:6:"193165";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/dc2";s:9:"FILE_NAME";s:36:"dc245063e81c135a6d4de93eecfc2c1a.jpg";s:13:"ORIGINAL_NAME";s:73:"AQUA SOFT COMFORT+, 350 мл_Avizor Int._Растворы_certificate.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}}}';
+return true;
+?>

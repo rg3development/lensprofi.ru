@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001393154273';
+$dateexpire = '001393157873';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:3:{i:1260;a:13:{s:2:"ID";s:4:"1260";s:11:"TIMESTAMP_X";s:19:"03.05.2012 01:29:22";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:3:"285";s:5:"WIDTH";s:3:"350";s:9:"FILE_SIZE";s:5:"90473";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/dd4";s:9:"FILE_NAME";s:36:"dd4e24c772b0fc847afe7d396e25c09e.jpg";s:13:"ORIGINAL_NAME";s:95:"ОПТИ-ФРИ РЕПЛЕНИШ с контейнером, 300 мл_Alcon_Растворы.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}i:1261;a:13:{s:2:"ID";s:4:"1261";s:11:"TIMESTAMP_X";s:19:"03.05.2012 01:29:47";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:2:"98";s:5:"WIDTH";s:3:"121";s:9:"FILE_SIZE";s:4:"6086";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/d69";s:9:"FILE_NAME";s:36:"d6982c835a330da18b5f5a9091db0587.jpg";s:13:"ORIGINAL_NAME";s:94:"ОПТИ-ФРИ РЕПЛЕНИШ с контейнером, 90 мл_Alcon_Растворы.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}i:1262;a:13:{s:2:"ID";s:4:"1262";s:11:"TIMESTAMP_X";s:19:"03.05.2012 01:29:47";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:3:"285";s:5:"WIDTH";s:3:"350";s:9:"FILE_SIZE";s:5:"90473";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/31e";s:9:"FILE_NAME";s:36:"31eb4facb8cf758ce780923e4971adb9.jpg";s:13:"ORIGINAL_NAME";s:94:"ОПТИ-ФРИ РЕПЛЕНИШ с контейнером, 90 мл_Alcon_Растворы.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}}}';
+return true;
+?>

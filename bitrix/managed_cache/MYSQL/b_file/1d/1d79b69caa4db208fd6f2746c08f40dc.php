@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001393154273';
+$dateexpire = '001393157873';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:3:{i:2557;a:13:{s:2:"ID";s:4:"2557";s:11:"TIMESTAMP_X";s:19:"17.12.2013 17:24:10";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:3:"215";s:5:"WIDTH";s:3:"343";s:9:"FILE_SIZE";s:5:"70182";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/094";s:9:"FILE_NAME";s:36:"09472987d08e181366f215da7684c61a.jpg";s:13:"ORIGINAL_NAME";s:34:"20131206-Yarmarka - копия.jpg";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}i:2558;a:13:{s:2:"ID";s:4:"2558";s:11:"TIMESTAMP_X";s:19:"09.01.2014 15:10:48";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:2:"98";s:5:"WIDTH";s:3:"121";s:9:"FILE_SIZE";s:4:"5088";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/215";s:9:"FILE_NAME";s:36:"215351c0ea201d9d9ed66acb22cbaa71.JPG";s:13:"ORIGINAL_NAME";s:85:"ACUVUE OASYS for ASTIGMATISM (6 линз)_Johnson & Johnson _Торические.JPG";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}i:2559;a:13:{s:2:"ID";s:4:"2559";s:11:"TIMESTAMP_X";s:19:"09.01.2014 15:10:48";s:9:"MODULE_ID";s:6:"iblock";s:6:"HEIGHT";s:3:"368";s:5:"WIDTH";s:3:"450";s:9:"FILE_SIZE";s:5:"38426";s:12:"CONTENT_TYPE";s:10:"image/jpeg";s:6:"SUBDIR";s:10:"iblock/e01";s:9:"FILE_NAME";s:36:"e01379bf1647223205256472e0794e27.JPG";s:13:"ORIGINAL_NAME";s:85:"ACUVUE OASYS for ASTIGMATISM (6 линз)_Johnson & Johnson _Торические.JPG";s:11:"DESCRIPTION";s:0:"";s:10:"HANDLER_ID";N;s:4:"~src";b:0;}}}';
+return true;
+?>

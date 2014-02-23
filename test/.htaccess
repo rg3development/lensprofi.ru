@@ -1,0 +1,75 @@
+Options -Indexes 
+ErrorDocument 404 /404.php
+
+
+#php_flag display_errors on
+#php_value error_reporting 2047
+
+#php_value mbstring.func_overload 0
+
+php_value mbstring.func_overload 2
+php_value mbstring.internal_encoding UTF-8
+
+<IfModule mod_php5.c>
+  php_flag allow_call_time_pass_reference 1
+  php_flag session.use_trans_sid off
+</IfModule>
+
+<IfModule mod_rewrite.c>
+  Options +FollowSymLinks
+  RewriteEngine On
+  
+  RewriteCond %{REQUEST_FILENAME} !-f	
+	RewriteCond %{REQUEST_URI} !(.*)/$
+	RewriteRule ^(.*)$ /$1/ [R=301,L]
+  
+  
+  RewriteCond %{HTTP_HOST} ^www.lensprofi.ru(.*)
+  RewriteRule ^(.*)$ http://lensprofi.ru/$1 [R=301,L]
+  
+  RewriteCond %{HTTP_HOST} ^www.lensprofy.ru(.*)
+  RewriteRule ^(.*)$ http://lensprofi.ru/$1 [R=301,L]
+  
+  RewriteCond %{HTTP_HOST} ^lensprofy.ru(.*)
+  RewriteRule ^(.*)$ http://lensprofi.ru/$1 [R=301,L]
+  
+  RewriteCond %{HTTP_HOST} ^linzprofy.ru(.*)
+  RewriteRule ^(.*)$ http://lensprofi.ru/$1 [R=301,L]
+
+  RewriteCond %{HTTP_HOST} ^www.linzprofy.ru(.*)
+  RewriteRule ^(.*)$ http://lensprofi.ru/$1 [R=301,L]
+  
+  RewriteCond %{HTTP_HOST} ^xn--g1abbjlhgi1b.xn--p1ai(.*)
+  RewriteRule ^(.*)$ http://lensprofi.ru/$1 [R=301,L]
+
+  RewriteCond %{HTTP_HOST} ^www.xn--g1abbjlhgi1b.xn--p1ai(.*)
+  RewriteRule ^(.*)$ http://lensprofi.ru/$1 [R=301,L]
+  
+  RewriteCond %{HTTP_HOST} ^linzprofy.nichost.ru(.*)
+  RewriteRule ^(.*)$ http://lensprofi.ru/$1 [R=301,L]
+
+  RewriteCond %{HTTP_HOST} ^www.linzprofy.nichost.ru(.*)
+  RewriteRule ^(.*)$ http://lensprofi.ru/$1 [R=301,L]
+  
+  
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-l
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME} !/bitrix/urlrewrite.php$
+  RewriteRule ^(.*)$ /bitrix/urlrewrite.php [L]
+  RewriteRule .* - [E=REMOTE_USER:%{HTTP:Authorization}]
+  
+	
+  
+  
+</IfModule>
+
+<IfModule mod_dir.c>
+  DirectoryIndex index.php index.html
+</IfModule>
+
+<IfModule mod_expires.c>
+  ExpiresActive on
+  ExpiresByType image/jpeg "access plus 3 day"
+  ExpiresByType image/gif "access plus 3 day"
+</IfModule>
