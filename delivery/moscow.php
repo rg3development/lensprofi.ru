@@ -1,6 +1,7 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetPageProperty("keywords", "курьерская доставка, контактные линзы");
+$APPLICATION->SetPageProperty("title", "Условия доставки заказов по Москве в интернет магазине LensProfi.");
+$APPLICATION->SetPageProperty("keywords", "курьерская доставка контактные линзы интернет магазин");
 $APPLICATION->SetPageProperty("description", "ЛинзПрофи доставляет контактные линзы по Москве в день заказа.");
 $APPLICATION->SetTitle("Доставка по Москве");
 ?><img src="/upload/medialibrary/79a/79ac830e93a9c550f8dbd2b4b8df6ffd.png" border="0" align="left" width="152" height="150"  /> <font size="5">Москва</font>  
@@ -48,7 +49,7 @@ $APPLICATION->SetTitle("Доставка по Москве");
        
         <tr><td><b><font size="2">Сроки: </font></b><font size="2">1 рабочий день. При заказе до 13.00 возможна доставка в тот же день.</font></td></tr>
        
-        <tr><td><b><font size="2">Оплата:</font></b><font size="2"> наличными курьеру, банковским переводом или электронными деньгами</font></td></tr>
+        <tr><td><b><font size="2">Оплата:</font></b><font size="2"> наличными курьеру, пластиковой картой, банковским переводом или электронными деньгами</font></td></tr>
        
         <tr><td colspan="1"><a href="http://lensprofi.ru/help/how_to_pay.php" title="как оплатить заказ" target="_blank" ><i><b><font color="#ee1d24">Узнайте, как оплатить</font></b></i></a></td></tr>
        </tbody>
@@ -86,7 +87,7 @@ $APPLICATION->SetTitle("Доставка по Москве");
            
             <tr><td><font size="2"><b>Сроки: </b>забрать заказ можно на следующий рабочий день после его подтверждения, начиная с 15.00</font></td></tr>
            
-            <tr><td><b><font size="2">Оплата:</font></b><font size="2"> наличными при получении заказа, банковским переводом или электронными деньгами</font></td></tr>
+            <tr><td><b><font size="2">Оплата:</font></b><font size="2"> наличными при получении заказа, </font><span style="font-size: small;">пластиковой картой, </span><span style="font-size: small;">банковским переводом или электронными деньгами</span></td></tr>
            
             <tr><td><a href="http://lensprofi.ru/help/how_to_pay.php" title="как оплатить заказ" target="_blank" ><i><b><font color="#ee1d24">Узнайте, как оплатить</font></b></i></a></td></tr>
            
@@ -117,7 +118,7 @@ $APPLICATION->SetTitle("Доставка по Москве");
                 <br />
                </span></td></tr>
          
-          <tr><td><span style="font-size: small;">Доставка в выходные возможна при оформлении заказа до 14:00 в пятницу. Заказы, оформленные в пятницу после 14:00 или в выходные и праздничные дни, будут доставлены в первый рабочий день. Самовывоз возможен только в рабочие дни.
+          <tr><td><span style="font-size: small;">Доставка в выходные возможна при оформлении заказа до 14:00 в пятницу. Заказы, оформленные в пятницу после 14:00 или в выходные и праздничные дни, будут доставлены в первый рабочий день. Самовывоз возможен только в рабочие дни. 
                 <br />
                
                 <br />
@@ -164,15 +165,9 @@ $APPLICATION->SetTitle("Доставка по Москве");
        </table>
      </p>
    
-    <p> 
-      <br />
-     </p>
-   
-    <p> </p>
-   
     <br />
    
-    <p></p>
+    <br />
    </div>
  </div>
  
@@ -193,7 +188,12 @@ a.zingaya_button:active {
 background-position: 0 -60px;
 }
 </style>
- <noindex><a href="http://zingaya.com/widget/f46c122a108cca9553ebfc97598c2b7f" rel="nofollow" onclick="window.open(this.href+'?referrer='+escape(window.location.href)+'', '_blank', 'width=236,height=220,resizable=no,toolbar=no,menubar=no,location=no,status=no'); return false" class="zingaya_button" ></a></noindex> </td> <td style="text-align: center;"><img src="http://mystatus.skype.com/smallicon/lensprofi.ru?<?=rand();?>"  /></td><td> <span style="position: relative; top: -1px;"> <noindex><a href="skype:lensprofi.ru?call" rel="nofollow" >lensprofi.ru</a></noindex></span> </td> </tr>
+ <noindex><a href="http://zingaya.com/widget/f46c122a108cca9553ebfc97598c2b7f" rel="nofollow" onclick="window.open(this.href+'?referrer='+escape(window.location.href)+'', '_blank', 'width=236,height=220,resizable=no,toolbar=no,menubar=no,location=no,status=no'); return false" class="zingaya_button" ></a></noindex> </td> <td style="text-align: center;"><img src="http://mystatus.skype.com/smallicon/lensprofi.ru?<?=rand();?>"  /></td><td> <span style="position: relative; top: -1px;"> <noindex><a href="skype:lensprofi.ru?call" rel="nofollow" >lensprofi.ru</a></noindex></span> </td> <td width="220px"></td></tr>
    </tbody>
  </table>
+
+  <br />
+
+ 
+<p style="font-size: 12px;"><a href="http://lensprofi.ru" >Интернет магазин контактных линз</a> &gt; <a href="http://lensprofi.ru/delivery/" >Доставка</a> &gt; Доставка по Москве </p>
  <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

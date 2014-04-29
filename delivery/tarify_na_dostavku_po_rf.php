@@ -158,7 +158,7 @@ $APPLICATION->SetTitle("Тарифы на доставку по РФ");
       <tr> <td style="text-align: left;">Батайск, Ростовская обл.<hr/></td> <td style="text-align: center;">3-6</td> <td style="text-align: center;">640</td> </tr>
      
       <tr><td colspan="1" style="text-align: left;">Белая Речка, Кабардино-Балкарская респ. (предоплата)<hr/></td><td colspan="1">2-5</td><td colspan="1">600</td></tr>
-    
+     
       <tr> <td style="text-align: left;">Бежецк, Тверская обл.<hr/></td> <td style="text-align: center;">3-6</td> <td style="text-align: center;">630</td> </tr>
      
       <tr> <td style="text-align: left;">Бекешевская станица, Ставропольский край<hr/></td> <td style="text-align: center;">3-7</td> <td style="text-align: center;">840</td> </tr>
@@ -258,11 +258,11 @@ $APPLICATION->SetTitle("Тарифы на доставку по РФ");
       <tr> <td style="text-align: left;"><b><font color="#ee1d24">В</font></b>ад, Нижегородская обл.<hr/></td> <td style="text-align: center;">4-7</td> <td style="text-align: center;">980</td> </tr>
      
       <tr><td colspan="1" style="text-align: left;">Вайя, Гатчинский р-н, Ленинградская обл. <hr/></td><td colspan="1">4-8</td><td colspan="1">630</td></tr>
-    
+     
       <tr><td colspan="1" style="text-align: left;">Вайялово, Гатчинский р-н, Ленинградская обл. <hr/></td><td colspan="1">4-8</td><td colspan="1">630</td></tr>
-    
+     
       <tr><td colspan="1" style="text-align: left;">Ванюки, Пермский край<hr/></td><td colspan="1">4-7</td><td colspan="1">610</td></tr>
-    
+     
       <tr> <td style="text-align: left;">Вардане, Краснодарский край<hr/></td> <td style="text-align: center;">3-6</td> <td style="text-align: center;">530</td> </tr>
      
       <tr> <td style="text-align: left;">Васильевка, Самарская обл.<hr/></td> <td style="text-align: center;">3-6</td> <td style="text-align: center;">660</td> </tr>
@@ -276,11 +276,11 @@ $APPLICATION->SetTitle("Тарифы на доставку по РФ");
       <tr> <td style="text-align: left;">Венев, Тульская обл.<hr/></td> <td style="text-align: center;">3-6</td> <td style="text-align: center;">820</td> </tr>
      
       <tr><td colspan="1" style="text-align: left;">Верево, Гатчинский р-н, Ленинградская обл. <hr/></td><td colspan="1">4-8</td><td colspan="1">630</td></tr>
-    
+     
       <tr> <td style="text-align: left;">Верхнезареченский, Волгоградская обл.<hr/></td> <td style="text-align: center;">4-7</td> <td style="text-align: center;">570</td> </tr>
      
       <tr><td colspan="1" style="text-align: left;">Верхние Муллы, Пермский край<hr/></td><td colspan="1">4-7</td><td colspan="1">610</td></tr>
-    
+     
       <tr> <td style="text-align: left;">Верхний Карбуш, Омская обл.<hr/></td> <td style="text-align: center;">3-6</td> <td style="text-align: center;">600</td> </tr>
      
       <tr> <td style="text-align: left;">Верхний Тагил, Свердловская обл.<hr/></td> <td style="text-align: center;">2-5</td> <td style="text-align: center;">840</td> </tr>
@@ -318,7 +318,7 @@ $APPLICATION->SetTitle("Тарифы на доставку по РФ");
       <tr> <td style="text-align: left;">Водстрой, Волгоградская обл.<hr/></td> <td style="text-align: center;">4-7</td> <td style="text-align: center;">570</td> </tr>
      
       <tr><td colspan="1" style="text-align: left;">Войсковицы, Ленинградская обл. (предоплата)<hr/></td><td colspan="1">4-8</td><td colspan="1">630</td></tr>
-    
+     
       <tr> <td style="text-align: left;">Волгоград<hr/></td> <td style="text-align: center;">1-3</td> <td style="text-align: center;">300</td> </tr>
      
       <tr><td colspan="1" style="text-align: left;">Волгодонск<hr/></td><td colspan="1">1-3</td><td colspan="1">320</td></tr>
@@ -360,9 +360,9 @@ $APPLICATION->SetTitle("Тарифы на доставку по РФ");
       <tr> <td style="text-align: left;">Выльгорт, Коми респ.<hr/></td> <td style="text-align: center;">3-9</td> <td style="text-align: center;">650</td> </tr>
      
       <tr><td colspan="1" style="text-align: left;">Выра, Гатчинский р-н, Ленинградская обл. <hr/></td><td colspan="1">4-8</td><td colspan="1">630</td></tr>
-    
+     
       <tr><td colspan="1" style="text-align: left;">Вырица, Гатчинский р-н, Ленинградская обл. <hr/></td><td colspan="1">4-8</td><td colspan="1">630</td></tr>
-    
+     
       <tr> <td style="text-align: left;">Высокий, Ханты-Мансийский авт. округ (предоплата)<hr/></td> <td style="text-align: center;">3-7</td> <td style="text-align: center;">960</td> </tr>
      
       <tr> <td style="text-align: left;">Вышний Волочек, Тверская обл.<hr/></td> <td style="text-align: center;">3-6</td> <td style="text-align: center;">630</td> </tr>
@@ -382,9 +382,9 @@ $APPLICATION->SetTitle("Тарифы на доставку по РФ");
       <tr> <td style="text-align: left;">Георгиевская, Ставропольский край<hr/></td> <td style="text-align: center;">3-7</td> <td style="text-align: center;">770</td> </tr>
      
       <tr><td colspan="1" style="text-align: left;">Герменчик, Кабардино-Балкарская респ. (предоплата)<hr/></td><td colspan="1">2-5</td><td colspan="1">600</td></tr>
-    
+     
       <tr><td colspan="1" style="text-align: left;">Герпегеж, Кабардино-Балкарская респ. (предоплата)<hr/></td><td colspan="1">2-5</td><td colspan="1">600</td></tr>
-    
+     
       <tr> <td style="text-align: left;">Гидроторф, Нижегородская обл.<hr/></td> <td style="text-align: center;">3-6</td> <td style="text-align: center;">650</td> </tr>
      
       <tr> <td style="text-align: left;">Глазов, Удмуртия респ.<hr/></td> <td style="text-align: center;">3-6</td> <td style="text-align: center;">650</td> </tr>
@@ -414,7 +414,7 @@ $APPLICATION->SetTitle("Тарифы на доставку по РФ");
       <tr> <td style="text-align: left;">Гражданское, Ставропольский край<hr/></td> <td style="text-align: center;">3-7</td> <td style="text-align: center;">690</td> </tr>
      
       <tr><td colspan="1" style="text-align: left;">Грязно, Гатчинский р-н, Ленинградская обл. <hr/></td><td colspan="1">4-8</td><td colspan="1">630</td></tr>
-    
+     
       <tr> <td style="text-align: left;">Гули Королевой, Волгоградская обл.<hr/></td> <td style="text-align: center;">4-7</td> <td style="text-align: center;">570</td> </tr>
      
       <tr> <td style="text-align: left;">Гумрак, Волгоградская обл.<hr/></td> <td style="text-align: center;">4-7</td> <td style="text-align: center;">570</td> </tr>
@@ -452,11 +452,11 @@ $APPLICATION->SetTitle("Тарифы на доставку по РФ");
       <tr> <td style="text-align: left;">Добрунь, Брянская обл.<hr/></td> <td style="text-align: center;">3-6</td> <td style="text-align: center;">630</td> </tr>
      
       <tr><td colspan="1" style="text-align: left;">Добрянка, Пермский край<hr/></td><td colspan="1">4-7</td><td colspan="1">650</td></tr>
-    
+     
       <tr> <td style="text-align: left;">Долиновка, Камчатский край<hr/></td> <td style="text-align: center;">3-7</td> <td style="text-align: center;">970</td> </tr>
      
       <tr><td colspan="1" style="text-align: left;">Дони, Гатчинский р-н, Ленинградская обл. <hr/></td><td colspan="1">4-8</td><td colspan="1">630</td></tr>
-    
+     
       <tr> <td style="text-align: left;">Донской, Тульская обл.<hr/></td> <td style="text-align: center;">3-6</td> <td style="text-align: center;">820</td> </tr>
      
       <tr> <td style="text-align: left;">Дружелюбный, Краснодарский край<hr/></td> <td style="text-align: center;">4-7</td> <td style="text-align: center;">570</td> </tr>
@@ -476,7 +476,7 @@ $APPLICATION->SetTitle("Тарифы на доставку по РФ");
       <tr> <td style="text-align: left;"><b><font color="#ee1d24">Е</font></b>катеринбург<hr/></td> <td style="text-align: center;">3-5</td> <td style="text-align: center;">320</td> </tr>
      
       <tr><td colspan="1" style="text-align: left;">Елизаветино, Гатчинский р-н, Ленинградская обл. <hr/></td><td colspan="1">4-8</td><td colspan="1">630</td></tr>
-    
+     
       <tr> <td style="text-align: left;">Елизаветинская, Краснодарский край<hr/></td> <td style="text-align: center;">4-7</td> <td style="text-align: center;">570</td> </tr>
      
       <tr> <td style="text-align: left;">Елизово, Камчатский край<hr/></td> <td style="text-align: center;">3-7</td> <td style="text-align: center;">970</td> </tr>
@@ -701,6 +701,8 @@ $APPLICATION->SetTitle("Тарифы на доставку по РФ");
      
       <tr> <td style="text-align: left;">Курасково, Башкортостан респ.<hr/></td> <td style="text-align: center;">2-5</td> <td style="text-align: center;">650</td> </tr>
      
+      <tr><td colspan="1" style="text-align: left;">Курган<hr/></td><td colspan="1">2-4</td><td colspan="1">320</td></tr>
+    
       <tr> <td style="text-align: left;">Куркино, Тульская обл.<hr/></td> <td style="text-align: center;">3-6</td> <td style="text-align: center;">660</td> </tr>
      
       <tr> <td style="text-align: left;">Курск<hr/></td> <td style="text-align: center;">1-3</td> <td style="text-align: center;">300</td> </tr>

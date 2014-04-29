@@ -92,7 +92,7 @@ $APPLICATION->SetTitle("Карнавальные линзы на любой вк
  
   <p><font size="2"><b><font color="#ee1d24">К</font></b><b><font color="#ee1d24">ликните на рисунок, чтобы купить!</font></b></font></p>
  
-  <p style="font-size: 14px;"><a href="http://lensprofi.ru/catalog/adria_neon_2_linzy/" target="_blank" ><img src="/upload/medialibrary/590/590f52dd54939d800c939e99e926f4b1.jpg" title="Adria Neon глаза4.jpg" border="0" alt="Adria Neon глаза4.jpg" width="620" height="297"  /></a></p>
+  <p style="font-size: 14px;"><a href="http://lensprofi.ru/catalog/adria_neon_2_linzy/" target="_blank" ><img src="/upload/medialibrary/817/817b014b4ca16237cf99bde609e677e0.jpg" title="Adria Neon цвета" border="0" alt="Final.jpg" width="700" height="270"  /></a></p>
  
   <p style="font-size: 14px;"><b><i>1200 рублей за пару </i></b><b><i> + скидки при покупке более 1 пары</i></b></p>
  

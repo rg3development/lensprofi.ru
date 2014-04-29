@@ -68,11 +68,11 @@ $APPLICATION->SetTitle("Тарифы на доставку до ПВЗ по РФ
        
         <tr> <td style="text-align: left;">Артем<hr/></td> <td style="text-align: center;">ул. Ключевая, д. 1/1, оф. 1</td> <td style="text-align: center;">3-6</td> <td style="text-align: center;">470</td> </tr>
        
-        <tr><td colspan="1">Архангельск<hr/></td><td colspan="1" style="text-align: center;">ул. Выучейского, д. 25</td><td colspan="1" style="text-align: center;">2-3</td><td colspan="1" style="text-align: center;">470</td></tr>
+        <tr><td colspan="1">Архангельск<hr/></td><td colspan="1" style="text-align: center;">пр-т Советских космонавтов, д. 126 оф. 22 </td><td colspan="1" style="text-align: center;">2-3</td><td colspan="1" style="text-align: center;">470</td></tr>
        
         <tr><td colspan="1">Астрахань<hr/></td><td colspan="1" style="text-align: center;">ул. Богдана Хмельницкого, д. 43</td><td colspan="1" style="text-align: center;">1-3</td><td colspan="1" style="text-align: center;">220</td></tr>
        
-        <tr><td colspan="1">Ачинск<hr/></td><td colspan="1" style="text-align: center;">ул.Декабристов, д. 55, офис 1-6</td><td colspan="1" style="text-align: center;">2-4</td><td colspan="1" style="text-align: center;">360</td></tr>
+        <tr><td colspan="1">Ачинск<hr/></td><td colspan="1" style="text-align: center;">1-й Микрорайон д. 34</td><td colspan="1" style="text-align: center;">2-4</td><td colspan="1" style="text-align: center;">360</td></tr>
        
         <tr><td colspan="1"><b><font color="#ee1d24">Б</font></b>алаково<hr/></td><td colspan="1" style="text-align: center;">ул. Проспект Героев, д. 41, оф. 301</td><td colspan="1" style="text-align: center;">1-3</td><td colspan="1" style="text-align: center;">220</td></tr>
        
@@ -92,7 +92,9 @@ $APPLICATION->SetTitle("Тарифы на доставку до ПВЗ по РФ
        
         <tr> <td style="text-align: left;"><b><font size="4" color="#ee1d24">В</font></b>еликий Новгород<hr/></td> <td style="text-align: center;">ул. Б. Санкт-петербургская, д. 39 стр. 14, оф. 1</td> <td style="text-align: center;">1-3</td> <td style="text-align: center;">210</td> </tr>
        
-        <tr> <td style="text-align: left;">Владивосток<hr/></td> <td style="text-align: center;">ул. Давыдова, д. 22а</td> <td style="text-align: center;">3-6</td> <td style="text-align: center;">470</td> </tr>
+        <tr> <td style="text-align: left;">Владивосток<hr/></td> <td style="text-align: center;">1) ул. Пушкинская, д. 52 
+            <br />
+           2) ул. Давыдова, д. 22а</td> <td style="text-align: center;">3-6</td> <td style="text-align: center;">470</td> </tr>
        
         <tr> <td style="text-align: left;">Владимир<hr/></td> <td style="text-align: center;">пр-т Ленина, д. 15а, оф. 119</td> <td style="text-align: center;">1-3</td> <td style="text-align: center;">210</td> </tr>
        
@@ -116,7 +118,7 @@ $APPLICATION->SetTitle("Тарифы на доставку до ПВЗ по РФ
        
         <tr> <td style="text-align: left;">Златоуст<hr/></td> <td style="text-align: center;">ул. Южно-Есаульская, д. 8</td> <td style="text-align: center;">3-6</td> <td style="text-align: center;">240</td> </tr>
        
-        <tr> <td style="text-align: left;"><b><font size="4" color="#ee1d24">И</font></b>ваново<hr/></td> <td style="text-align: center;">ул. Станко, д. 36</td> <td style="text-align: center;">1-3</td> <td style="text-align: center;">210</td> </tr>
+        <tr> <td style="text-align: left;"><b><font size="4" color="#ee1d24">И</font></b>ваново<hr/></td> <td style="text-align: center;">ул. Лежневская, д. 109</td> <td style="text-align: center;">1-3</td> <td style="text-align: center;">210</td> </tr>
        
         <tr> <td style="text-align: left;">Ижевск<hr/></td> <td style="text-align: center;">ул. 10 лет Октября, д. 32</td> <td style="text-align: center;">2-4</td> <td style="text-align: center;">240</td> </tr>
        
@@ -128,11 +130,13 @@ $APPLICATION->SetTitle("Тарифы на доставку до ПВЗ по РФ
        
         <tr> <td style="text-align: left;">Калининград<hr/></td> <td style="text-align: center;">Ганзейский пер., д. 6</td> <td style="text-align: center;">1-3</td> <td style="text-align: center;">470</td> </tr>
        
-        <tr> <td style="text-align: left;">Калуга<hr/></td> <td style="text-align: center;">ул. Тульская, д. 13б</td> <td style="text-align: center;">1-3</td> <td style="text-align: center;">210</td> </tr>
+        <tr> <td style="text-align: left;">Калуга<hr/></td> <td style="text-align: center;">1) ул. Тульская, д. 13б 
+            <br />
+           2) ул. Салтыкова-Щедрина, д. 76</td> <td style="text-align: center;">1-3</td> <td style="text-align: center;">210</td> </tr>
        
         <tr> <td style="text-align: left;">Кемерово<hr/></td> <td style="text-align: center;">ул. Пролетарская, д. 24</td> <td style="text-align: center;">2-4</td> <td style="text-align: center;">360</td> </tr>
        
-        <tr> <td style="text-align: left;">Киров, Кировская обл.<hr/></td> <td style="text-align: center;">ул. Попова, д. 4</td> <td style="text-align: center;">2-4</td> <td style="text-align: center;">240</td> </tr>
+        <tr> <td style="text-align: left;">Киров, Кировская обл.<hr/></td> <td style="text-align: center;">пр-т Октябрьский, д. 114 </td> <td style="text-align: center;">2-4</td> <td style="text-align: center;">240</td> </tr>
        
         <tr> <td style="text-align: left;">Кисловодск<hr/></td> <td style="text-align: center;">ул. Есенина, д. 16</td> <td style="text-align: center;">2-4</td> <td style="text-align: center;">240</td> </tr>
        
@@ -148,7 +152,7 @@ $APPLICATION->SetTitle("Тарифы на доставку до ПВЗ по РФ
             <br />
            2) ул. Осыпная, д. 4, оф. 23</td> <td style="text-align: center;">1-3</td> <td style="text-align: center;">210</td> </tr>
        
-        <tr> <td style="text-align: left;">Краснодар<hr/></td> <td style="text-align: center;">Плановый пер, д. 3</td> <td style="text-align: center;">1-3</td> <td style="text-align: center;">220</td> </tr>
+        <tr> <td style="text-align: left;">Краснодар<hr/></td> <td style="text-align: center;">ул. Новороссийская, д. 174</td> <td style="text-align: center;">1-3</td> <td style="text-align: center;">220</td> </tr>
        
         <tr> <td style="text-align: left;">Красноярск 
             <br />
@@ -158,7 +162,7 @@ $APPLICATION->SetTitle("Тарифы на доставку до ПВЗ по РФ
             <br />
            2) ул. Сурикова, д. 12</td> <td style="text-align: center;">2-4</td> <td style="text-align: center;">360</td> </tr>
        
-        <tr><td colspan="1">Курган<hr/></td><td colspan="1" style="text-align: center;">ул. Клары Цеткин, д. 2</td><td colspan="1" style="text-align: center;">2-4</td><td colspan="1" style="text-align: center;">240</td></tr>
+        <tr><td colspan="1">Курган<hr/></td><td colspan="1" style="text-align: center;">ул. Сибирская, д. 8 стр. 1, оф. 21</td><td colspan="1" style="text-align: center;">2-4</td><td colspan="1" style="text-align: center;">240</td></tr>
        
         <tr> <td style="text-align: left;">Курск<hr/></td> <td style="text-align: center;">ул. Запольная, д. 56</td> <td style="text-align: center;">1-3</td> <td style="text-align: center;">210</td> </tr>
        
@@ -170,15 +174,17 @@ $APPLICATION->SetTitle("Тарифы на доставку до ПВЗ по РФ
        
         <tr><td colspan="1">Междуреченск<hr/></td><td colspan="1" style="text-align: center;">ул. Юности, д. 10, оф. 220</td><td colspan="1" style="text-align: center;">3-5</td><td colspan="1" style="text-align: center;">370</td></tr>
        
-        <tr> <td style="text-align: left;">Миасс<hr/></td> <td style="text-align: center;">ул. Ильмен-Тау, д. 8, оф. 3</td> <td style="text-align: center;">2-4</td> <td style="text-align: center;">240</td> </tr>
+        <tr> <td style="text-align: left;">Миасс<hr/></td> <td style="text-align: center;"> ул. Лихачева, д. 31, оф. 11 </td> <td style="text-align: center;">2-4</td> <td style="text-align: center;">240</td> </tr>
        
         <tr><td colspan="1">Минеральные воды<hr/></td><td colspan="1" style="text-align: center;">ул. 50 лет Октября, д. 67</td><td colspan="1" style="text-align: center;">3-5</td><td colspan="1" style="text-align: center;">240</td></tr>
        
-        <tr> <td style="text-align: left;">Мурманск<hr/></td> <td style="text-align: center;">пр-т Ленина, д. 3, оф. 13</td> <td style="text-align: center;">2-4</td> <td style="text-align: center;">250</td> </tr>
+        <tr> <td style="text-align: left;">Мурманск<hr/></td> <td style="text-align: center;">ул. Володарского, д. 7 </td> <td style="text-align: center;">2-4</td> <td style="text-align: center;">250</td> </tr>
        
         <tr> <td style="text-align: left;"><b><font size="4" color="#ee1d24">Н</font></b>абережные Челны<hr/></td> <td style="text-align: center;">ул. Ахметшина, д. 108</td> <td style="text-align: center;">2-4</td> <td style="text-align: center;">240</td> </tr>
        
-        <tr> <td style="text-align: left;">Надым<hr/></td> <td style="text-align: center;">13-ый Проезд (промзона, оф. 20)</td> <td style="text-align: center;">4-7</td> <td style="text-align: center;">470</td> </tr>
+        <tr> <td style="text-align: left;">Надым<hr/></td> <td style="text-align: center;">1) 13-ый Проезд (промзона, оф. 20)  
+            <br />
+           2) ул. Полярная, д. 2а</td> <td style="text-align: center;">4-7</td> <td style="text-align: center;">470</td> </tr>
        
         <tr> <td style="text-align: left;">Нальчик<hr/></td> <td style="text-align: center;">ул. Темрюка Идарова, д. 129</td> <td style="text-align: center;">2-4</td> <td style="text-align: center;">240</td> </tr>
        
@@ -206,13 +212,19 @@ $APPLICATION->SetTitle("Тарифы на доставку до ПВЗ по РФ
             <br />
            <hr/></td> <td style="text-align: center;">1) ул. Кривощековская, д. 15 к. 5 
             <br />
-           2) ул. Ленина, д.1, ТЦ &quot;Аркада&quot;</td> <td style="text-align: center;">1-3</td> <td style="text-align: center;">360</td> </tr>
+           2) ул. Ленина, д.1, ТЦ &quot;Аркада&quot; 
+            <br />
+           </td> <td style="text-align: center;">1-3</td> <td style="text-align: center;">360</td> </tr>
        
         <tr><td colspan="1">Новочеркасск<hr/></td><td colspan="1" style="text-align: center;">Площадь Левски, д. 5</td><td colspan="1" style="text-align: center;">1-3</td><td colspan="1" style="text-align: center;">230</td></tr>
        
         <tr><td colspan="1">Новый Уренгой<hr/></td><td colspan="1" style="text-align: center;"> мкр. Оптимистов, д. 4/3, оф. 85</td><td colspan="1" style="text-align: center;">4-7</td><td colspan="1" style="text-align: center;">470</td></tr>
        
-        <tr> <td style="text-align: left;"><b><font size="4" color="#ee1d24">О</font></b>мск<hr/></td> <td style="text-align: center;">ул. Сенная, д. 34</td> <td style="text-align: center;">1-3</td> <td style="text-align: center;">360</td> </tr>
+        <tr><td colspan="1"><b><font color="#ee1d24" size="4">О</font></b>бнинск<hr/></td><td colspan="1" style="text-align: center;">ул. Королева, д. 17 
+            <br />
+           </td><td colspan="1" style="text-align: center;">1-3</td><td colspan="1" style="text-align: center;">240</td></tr>
+       
+        <tr> <td style="text-align: left;">Омск<hr/></td> <td style="text-align: center;">ул. Сенная, д. 34</td> <td style="text-align: center;">1-3</td> <td style="text-align: center;">360</td> </tr>
        
         <tr> <td style="text-align: left;">Орел<hr/></td> <td style="text-align: center;">ул. Степана Разина, д. 12, оф. 12</td> <td style="text-align: center;">1-3</td> <td style="text-align: center;">210</td> </tr>
        
@@ -226,11 +238,11 @@ $APPLICATION->SetTitle("Тарифы на доставку до ПВЗ по РФ
        
         <tr> <td style="text-align: left;">Петрозаводск<hr/></td> <td style="text-align: center;">ул. Дзержинского, д. 3, оф. 15</td> <td style="text-align: center;">2-4</td> <td style="text-align: center;">230</td> </tr>
        
-        <tr> <td style="text-align: left;">Петропавловск-Камчатский<hr/></td> <td style="text-align: center;">пр-т 50 лет Октября, д. 22, оф. 1</td> <td style="text-align: center;">2-5</td> <td style="text-align: center;">610</td> </tr>
+        <tr> <td style="text-align: left;">Петропавловск-Камчатский<hr/></td> <td style="text-align: center;">ул. Бохняка, д. 18 </td> <td style="text-align: center;">2-5</td> <td style="text-align: center;">610</td> </tr>
        
         <tr><td colspan="1">Прокопьевск<hr/></td><td colspan="1" style="text-align: center;">ул. Институтская, д. 9а, оф. 21</td><td colspan="1" style="text-align: center;">2-4</td><td colspan="1" style="text-align: center;">360</td></tr>
        
-        <tr> <td style="text-align: left;">Псков<hr/></td> <td style="text-align: center;">Ольгинская наб, д. 5а, оф. 1-6</td> <td style="text-align: center;">2-5</td> <td style="text-align: center;">210</td> </tr>
+        <tr> <td style="text-align: left;">Псков<hr/></td> <td style="text-align: center;"> ул. Льва Толстого, д. 3, оф. 1014</td> <td style="text-align: center;">2-5</td> <td style="text-align: center;">210</td> </tr>
        
         <tr> <td style="text-align: left;">Пятигорск<hr/></td> <td style="text-align: center;">ул. Московская, д.68а</td> <td style="text-align: center;">1-3</td> <td style="text-align: center;">240</td> </tr>
        
@@ -238,7 +250,7 @@ $APPLICATION->SetTitle("Тарифы на доставку до ПВЗ по РФ
        
         <tr><td colspan="1">Рыбинск<hr/></td><td colspan="1" style="text-align: center;">пр-т Серова, д. 1</td><td colspan="1" style="text-align: center;">1-3</td><td colspan="1" style="text-align: center;">220</td></tr>
        
-        <tr><td colspan="1">Рязань<hr/></td><td colspan="1" style="text-align: center;">ул. Затинная, д. 31</td><td colspan="1" style="text-align: center;">1-3</td><td colspan="1" style="text-align: center;">210</td></tr>
+        <tr><td colspan="1">Рязань<hr/></td><td colspan="1" style="text-align: center;">ул. Татарская, д. 13 </td><td colspan="1" style="text-align: center;">1-3</td><td colspan="1" style="text-align: center;">210</td></tr>
        
         <tr><td colspan="1"><font color="#ee1d24" size="4"><b>С</b></font>алават<hr/></td><td colspan="1" style="text-align: center;">ул. Нуриманова, д. 20л</td><td colspan="1" style="text-align: center;">3-6</td><td colspan="1" style="text-align: center;">240</td></tr>
        
@@ -272,29 +284,35 @@ $APPLICATION->SetTitle("Тарифы на доставку до ПВЗ по РФ
        
         <tr> <td style="text-align: left;"><b><font size="4" color="#ee1d24">Т</font></b>аганрог<hr/></td> <td style="text-align: center;">ул. Чехова, д. 96</td> <td style="text-align: center;">1-3</td><td style="text-align: center;">220</td> </tr>
        
-        <tr> <td style="text-align: left;">Тамбов<hr/></td> <td style="text-align: center;">ул. Чичканова, д. 75, оф. 4</td> <td style="text-align: center;">1-3</td> <td style="text-align: center;">210</td> </tr>
+        <tr> <td style="text-align: left;">Тамбов<hr/></td> <td style="text-align: center;">1) ул. Чичканова, д. 75, оф. 4 
+            <br />
+           2) Моршанское Шоссе, д. 17г</td> <td style="text-align: center;">1-3</td> <td style="text-align: center;">210</td> </tr>
        
-        <tr> <td style="text-align: left;">Тверь<hr/></td> <td style="text-align: center;">ул. Жигарева, д. 7</td> <td style="text-align: center;">1-3</td> <td style="text-align: center;">210</td> </tr>
+        <tr> <td style="text-align: left;">Тверь<hr/></td> <td style="text-align: center;">1) ул. Жигарева, д. 7 
+            <br />
+           2) наб. Афанасия Никитина, д. 72, оф. 105</td> <td style="text-align: center;">1-3</td> <td style="text-align: center;">210</td> </tr>
        
         <tr> <td style="text-align: left;">Тольятти<hr/></td> <td style="text-align: center;">ул. Тополиная, д. 18а</td> <td style="text-align: center;">2-4</td> <td style="text-align: center;">220</td> </tr>
        
         <tr> <td style="text-align: left;">Томск<hr/></td> <td style="text-align: center;">ул. Енисейская, д. 37, оф. 104,105</td> <td style="text-align: center;">2-4</td> <td style="text-align: center;">360</td> </tr>
        
-        <tr> <td style="text-align: left;">Тула<hr/></td> <td style="text-align: center;">ул. Тургеневская, д. 48а</td> <td style="text-align: center;">1-3</td> <td style="text-align: center;">210</td> </tr>
+        <tr> <td style="text-align: left;">Тула<hr/></td> <td style="text-align: center;">ул. Первомайская, д. 2 </td> <td style="text-align: center;">1-3</td> <td style="text-align: center;">210</td> </tr>
        
         <tr> <td style="text-align: left;">Тюмень<hr/></td> <td style="text-align: center;">ул. Дзержинского, д. 15, оф. 101 (1 этаж)</td> <td style="text-align: center;">2-4</td> <td style="text-align: center;">240</td> </tr>
        
         <tr> <td style="text-align: left;"><b><font color="#ee1d24" size="4">У</font></b>лан-Удэ<hr/></td> <td style="text-align: center;">ул. Советская, д. 28, оф. 233</td> <td style="text-align: center;">2-5</td> <td style="text-align: center;">470</td> </tr>
        
-        <tr> <td style="text-align: left;">Ульяновск<hr/></td> <td style="text-align: center;">ул. Садовая, д. 2, оф. 23А (вход с правого торца) 
+        <tr> <td style="text-align: left;">Ульяновск<hr/></td> <td style="text-align: center;">1) ул. Садовая, д. 2, оф. 23А (вход с правого торца) 
             <br />
-           </td> <td style="text-align: center;">2-4</td> <td style="text-align: center;">220</td> </tr>
+           2) ул. Карла Маркса, д. 20, оф. 1 </td> <td style="text-align: center;">2-4</td> <td style="text-align: center;">220</td> </tr>
        
-        <tr> <td style="text-align: left;">Уссурийск<hr/></td> <td style="text-align: center;">ул. Краснознаменная, д. 178б, оф. 8</td> <td style="text-align: center;">3-6</td> <td style="text-align: center;">470</td> </tr>
+        <tr> <td style="text-align: left;">Уссурийск<hr/></td> <td style="text-align: center;">1) ул. Краснознаменная, д. 178б, оф. 8 
+            <br />
+           2) ул. Калинина, д. 43, 2 этаж </td> <td style="text-align: center;">3-6</td> <td style="text-align: center;">470</td> </tr>
        
-        <tr> <td style="text-align: left;">Уфа<hr/></td> <td style="text-align: center;">ул. Кирова, д. 107</td> <td style="text-align: center;">2-4</td> <td style="text-align: center;">240</td> </tr>
+        <tr> <td style="text-align: left;">Уфа<hr/></td> <td style="text-align: center;">ул. Менделеева, д. 140/1 (мкр. Зеленая роща)</td> <td style="text-align: center;">2-4</td> <td style="text-align: center;">240</td> </tr>
        
-        <tr> <td style="text-align: left;"><b><font size="4" color="#ee1d24">Х</font></b>абаровск<hr/></td> <td style="text-align: center;">ул. Промышленная, д. 20д/1</td> <td style="text-align: center;">2-4</td> <td style="text-align: center;">470</td> </tr>
+        <tr> <td style="text-align: left;"><b><font size="4" color="#ee1d24">Х</font></b>абаровск<hr/></td> <td style="text-align: center;">ул. Карла Маркса, д. 158а </td> <td style="text-align: center;">2-4</td> <td style="text-align: center;">470</td> </tr>
        
         <tr> <td style="text-align: left;">Ханты-Мансийск<hr/></td> <td style="text-align: center;">ул. Мира, д. 51, оф. 1022</td> <td style="text-align: center;">3-5</td> <td style="text-align: center;">470</td> </tr>
        
@@ -316,7 +334,9 @@ $APPLICATION->SetTitle("Тарифы на доставку до ПВЗ по РФ
        
         <tr> <td style="text-align: left;"><b><font size="4" color="#ee1d24">Я</font></b>кутск<hr/></td> <td style="text-align: center;">ул. Курашова, д. 19, оф. 4 </td> <td style="text-align: center;">3-6</td> <td style="text-align: center;">470</td> </tr>
        
-        <tr> <td style="text-align: left;">Ярославль<hr/></td><td style="text-align: center;">ул. Карабулина, д. 33/72, оф. 105</td> <td style="text-align: center;">1-3</td> <td style="text-align: center;">210</td> </tr>
+        <tr> <td style="text-align: left;">Ярославль<hr/></td><td style="text-align: center;">1) ул. Карабулина, д. 33/72, оф. 105 
+            <br />
+           2) ул. Большая Октябрьская, д. 39/2</td> <td style="text-align: center;">1-3</td> <td style="text-align: center;">210</td> </tr>
        </tbody>
      </table>
    </div>

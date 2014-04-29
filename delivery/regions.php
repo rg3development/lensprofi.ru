@@ -1,16 +1,15 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetPageProperty("keywords", "курьерская доставка, самовывоз, почта, контактные линзы");
-$APPLICATION->SetPageProperty("description", "Быстрая доставка контактных линз по всей России");
+$APPLICATION->SetPageProperty("title", "Условия доставки заказов по всей России в интернет магазине LensProfi.");
+$APPLICATION->SetPageProperty("keywords", "курьерская доставка, самовывоз, почта, контактные линзы россия");
+$APPLICATION->SetPageProperty("description", "Быстрая доставка контактных линз по всей России. Короткие сроки доставки, высокий сервис обслуживания.");
 $APPLICATION->SetTitle("Доставка в регионы РФ");
 ?> 
 <div><img src="/upload/medialibrary/79d/79d9db2690651341416148795be3ee7e.png" border="0" align="left" width="125" height="150"  /><font size="5">   Другие регионы РФ</font></div>
  
 <div><font size="2">      К доставке по России принимаются заказы от 1000 рублей. </font></div>
  
-<div> 
-  <br />
- </div>
+<br />
  
 <div><span style="font-size: large;">    &rarr; </span><font size="4"><a href="#SDEK" >Курьерская доставка &laquo;до двери&raquo;. Быстро и удобно!</a>  </font> 
   <br />
@@ -20,21 +19,15 @@ $APPLICATION->SetTitle("Доставка в регионы РФ");
    
     <div><span style="font-size: large;">    → </span><a href="#russian_post" ><font size="4">Доставка «Почтой России». Одна цена по всей стране! </font></a></div>
    
-    <div><font size="4"> 
-        <br />
-       </font></div>
+    <br />
    
-    <div>
-      <br />
-    </div>
+    <br />
    
     <div> 
 <a name="SDEK"></a>
  </div>
    
-    <div> 
-      <br />
-     </div>
+    <br />
    
     <div> 
       <table border="0" cellpadding="1" cellspacing="1" style="border-collapse: collapse;"> 
@@ -55,27 +48,27 @@ $APPLICATION->SetTitle("Доставка в регионы РФ");
                 <br />
                </font></td></tr>
          
-          <tr><td><span style="font-size: small;">Если его нет в таблице, мы можем отправить Ваш заказ по стандартным тарифам курьерской службы CDEK или EMS: 
+          <tr><td><span style="font-size: small;">Если его нет в таблице, мы можем отправить Ваш заказ по стандартным тарифам курьерской службы CDEK: 
                 <br />
                </span><span style="font-size: small;">- Калькулятор стоимости CDEK </span><a href="http://cdek.ru/tarif/" title="калькулятор CDEK" target="_blank" ><i><b><font color="#ee1d24">здесь</font></b></i></a><span style="font-size: small;"> (услуга «экспресс-лайт дверь-дверь») 
                 <br />
-               </span><span style="font-size: small;">- Калькулятор стоимости EMS </span><a href="http://www.emspost.ru/ru/calc/" title="калькулятор EMS" target="_blank" ><i><b><font color="#ee1d24">здесь </font></b></i></a><i style="font-size: small;"> </i><img src="/upload/medialibrary/31d/31d23f9fe7ff4fbfac1d7306f7e774ae.png" title="ems_logo.png" border="0" alt="ems_logo.png" width="130" height="16"  /><i style="font-size: small;"> 
-                <br />
-               
+               </span><i style="font-size: small;"> 
                 <br />
                </i></td></tr>
          
-          <tr><td><b style="font-size: small;">Оплата:</b><span style="font-size: small;"> Наличными курьеру (+4% от суммы заказа за страхование и наложенный платеж) или по предоплате (+1% от суммы заказа за страхование) банковским переводом или электронными деньгами. </span><a href="http://lensprofi.ru/help/how_to_pay.php" title="как оплатить заказ" target="_blank" ><b><font color="#ee1d24"><i>Узнайте, как оплатить</i></font></b></a><i style="font-size: small;"> 
+          <tr><td><b style="font-size: small;">Оплата:</b><span style="font-size: small;"> Наличными курьеру (+4% от суммы заказа за страхование и наложенный платеж) или по предоплате (+1% от суммы заказа за страхование) банковским переводом, </span><span style="font-size: small;">пластиковой картой </span><span style="font-size: small;">или электронными деньгами.  
+                <br />
+               <a href="http://lensprofi.ru/help/how_to_pay.php" title="как оплатить заказ" target="_blank" ><b><font color="#ee1d24"><i>Узнайте, как оплатить</i></font></b></a> 
                 <br />
                
                 <br />
-               </i></td></tr>
+               </span></td></tr>
          
           <tr><td><b style="font-size: small;">Статус заказа:</b><span style="font-size: small;"> После отправки Вы получите идентификатор посылки, который позволит Вам самостоятельно отслеживать ее путь на сайте Курьерской службы. Сотрудник курьерской службы свяжется с Вами за 30-60 минут до приезда курьера.  
                 <br />
-              </span>
+               </span> 
               <br />
-            </td></tr>
+             </td></tr>
          
           <tr><td colspan="1"> 
 <a name="Samovyvoz"></a>
@@ -114,7 +107,7 @@ $APPLICATION->SetTitle("Доставка в регионы РФ");
        </table>
      
       <br />
-    </div>
+     </div>
    
     <div><font size="2"> 
         <p> </p>
@@ -133,17 +126,11 @@ $APPLICATION->SetTitle("Доставка в регионы РФ");
             <br />
            </font></p>
        
-        <p><font size="4">      Доставка «Почтой России»: обычная и ускоренная </font></p>
+        <p><font size="4">      Доставка «Почтой России»: ускоренная 1-м классом</font></p>
        
-        <p><font size="4"> 
-            <br />
-           </font></p>
+        <br />
        
-        <p><font size="4"> 
-            <br />
-           </font></p>
-       
-        <p> </p>
+        <br />
        
         <table width="550" border="1"> 
           <tbody> 
@@ -156,27 +143,13 @@ $APPLICATION->SetTitle("Доставка в регионы РФ");
                <font size="2"> </font></td> </tr>
            
             <tr> <td> 
-                <p style="text-align: center;"><font size="2">Обычная посылка </font></p>
-               <font size="2"> </font></td> <td> 
-                <p align="center"><font size="2">Зависят от удаленности,</font></p>
-               <font size="2"> 
-                  <p align="center"><font size="2">составляют от нескольких дней до 4-х недель </font></p>
-                 <font size="2"><i> </i> 
-                    <p align="center"><a href="http://www.russianpost.ru/rp/servise/ru/home/postuslug/termsdelivery/termsdeliv_parcel" title="сроки_обычная посылка" target="_blank" ><i>Контрольные сроки</i></a></p>
-                   <font size="2"> </font></font></font></td> <td> 
-                <p align="center"><font size="2">200 рублей </font></p>
-               <font size="2"> </font></td> </tr>
-           
-            <tr> <td> 
                 <p style="text-align: center;"><font size="2">Бандероль 1-го класса </font></p>
                <font size="2"> </font></td> <td> 
-                <p align="center"><font size="2">Короче стандартных сроков, </font></p>
-               <font size="2"> 
-                  <p align="center"><font size="2">до административных центров от 3 до 6 дней </font></p>
-                 <font size="2"><i> </i> 
+                <p align="center"><span style="font-size: small;">До административных центров от 3 до 6 дней</span></p>
+               <font size="2"> <font size="2"><i> </i> 
                     <p align="center"><a href="http://www.russianpost.ru/rp/servise/ru/home/postuslug/1class/1class_deadline" title="сроки_1-ый класс" target="_blank" ><i>Контрольные сроки</i></a></p>
                    <font size="2"> </font></font></font></td> <td> 
-                <p align="center"><font size="2">250 рублей </font></p>
+                <p align="center"><font size="2">300 рублей </font></p>
                </td> </tr>
            </tbody>
          </table>
@@ -186,7 +159,9 @@ $APPLICATION->SetTitle("Доставка в регионы РФ");
             <tbody> 
               <tr><td><b style="font-size: small;"> 
                     <br />
-                   Оплата:</b><font size="2" style="font-size: small;"> при получении заказа в отделении почты (+4% от суммы заказа за страхование + комиссия за наложенный платеж) или по предоплате банковским переводом или электронными деньгами. </font><a href="http://lensprofi.ru/help/how_to_pay.php" title="как оплатить заказ" target="_blank" ><b><font color="#ee1d24"><i>Узнайте, как оплатить</i></font></b></a><i style="font-size: small;"> </i>  
+                   Оплата:</b><font size="2" style="font-size: small;"> при получении заказа в отделении почты (+4% от суммы заказа за страхование + комиссия за наложенный платеж) или по предоплате банковским переводом, </font><span style="font-size: small;">пластиковой картой</span><font size="2" style="font-size: small;"> или электронными деньгами.  
+                    <br />
+                   </font><a href="http://lensprofi.ru/help/how_to_pay.php" title="как оплатить заказ" target="_blank" ><b><font color="#ee1d24"><i>Узнайте, как оплатить</i></font></b></a> 
                   <br />
                  
                   <br />
@@ -211,21 +186,13 @@ $APPLICATION->SetTitle("Доставка в регионы РФ");
            </table>
          </p>
        <font size="2"> 
-          <p> </p>
+          <br />
          
-          <p> </p>
+          <br />
          
-          <p>
-            <br />
-          </p>
+          <p><i>Если у Вас возникают вопросы по оформлению заказа, ознакомьтесь с подробным алгоритмом в разделе «</i><a href="http://lensprofi.ru/help/" title="Помощь" ><i>Помощь</i></a><i>».</i></p>
          
-          <p><i> 
-              <br />
-             </i></p>
-         
-          <p><i>Если у Вас возникают вопросы по оформлению заказа, ознакомьтесь с подробным алгоритмом в разделе «</i><a href="http://lensprofi.ru/help/" title="Помощь" ><i>Помощь</i></a><i>».  
-              <br />
-             </i></p>
+          <br />
          </font> </font></div>
    </div>
  </div>
@@ -247,7 +214,11 @@ a.zingaya_button:active {
 background-position: 0 -60px;
 }
 </style>
- <noindex><a href="http://zingaya.com/widget/f46c122a108cca9553ebfc97598c2b7f" rel="nofollow" onclick="window.open(this.href+'?referrer='+escape(window.location.href)+'', '_blank', 'width=236,height=220,resizable=no,toolbar=no,menubar=no,location=no,status=no'); return false" class="zingaya_button" ></a></noindex> </td> <td style="text-align: center;"><img src="http://mystatus.skype.com/smallicon/lensprofi.ru?<?=rand();?>"  /></td><td> <span style="position: relative; top: -1px;"> <noindex><a href="skype:lensprofi.ru?call" rel="nofollow" >lensprofi.ru</a></noindex></span> </td> </tr>
+ <noindex><a href="http://zingaya.com/widget/f46c122a108cca9553ebfc97598c2b7f" rel="nofollow" onclick="window.open(this.href+'?referrer='+escape(window.location.href)+'', '_blank', 'width=236,height=220,resizable=no,toolbar=no,menubar=no,location=no,status=no'); return false" class="zingaya_button" ></a></noindex> </td> <td style="text-align: center;"><img src="http://mystatus.skype.com/smallicon/lensprofi.ru?<?=rand();?>"  /></td><td> <span style="position: relative; top: -1px;"> <noindex><a href="skype:lensprofi.ru?call" rel="nofollow" >lensprofi.ru</a></noindex></span> </td> <td width="220px"></td></tr>
    </tbody>
  </table>
+ 
+<br />
+ 
+<p style="font-size: 12px;"><a href="http://lensprofi.ru" >Интернет магазин контактных линз</a> &gt; <a href="http://lensprofi.ru/delivery/" >Доставка</a> &gt; Доставка по России</p>
  <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

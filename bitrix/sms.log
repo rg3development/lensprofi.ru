@@ -2902,3 +2902,523 @@ insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,C
 SELECT GUID FROM b_sms4b WHERE GUID = '0754A667-DF2C-1216-FF8D-05D1570A9D55' 
 ==============
 insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('0754A667-DF2C-1216-FF8D-05D1570A9D55','LensProfi','79645256445','2014-02-17 11:00:02','2014-02-17 11:00:02',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '16B9E6DF-9F4C-03A5-5C4E-96E3055B6AFE' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('16B9E6DF-9F4C-03A5-5C4E-96E3055B6AFE','LensProfi','79067567298','2014-02-18 11:00:07','2014-02-18 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '24C32953-06AC-0E77-0E74-56E2C8D2AB30' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('24C32953-06AC-0E77-0E74-56E2C8D2AB30','LensProfi','79162522887','2014-02-18 11:00:07','2014-02-18 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '3052C438-51D5-1E57-41B2-46FA13E7406B' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('3052C438-51D5-1E57-41B2-46FA13E7406B','LensProfi','79265717866','2014-02-19 11:00:07','2014-02-19 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '038F9AF2-A287-718A-A21A-46D7D3F8B898' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('038F9AF2-A287-718A-A21A-46D7D3F8B898','LensProfi','79647022887','2014-02-21 11:00:07','2014-02-21 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '45510279-5660-AF30-30CE-EAFF11F6CE97' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('45510279-5660-AF30-30CE-EAFF11F6CE97','LensProfi','79036261304','2014-02-22 11:00:07','2014-02-22 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '1B13F9BC-C396-C403-7AA0-137A30065B83' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('1B13F9BC-C396-C403-7AA0-137A30065B83','LensProfi','79165566671','2014-02-23 11:00:08','2014-02-23 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '7E7F3D06-0E2B-1D17-B308-1FE10E943517' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('7E7F3D06-0E2B-1D17-B308-1FE10E943517','LensProfi','79145385752','2014-02-23 11:00:08','2014-02-23 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '3DAB52F4-09DB-C74D-37A7-65600B2D570B' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('3DAB52F4-09DB-C74D-37A7-65600B2D570B','LensProfi','79057008844','2014-02-24 11:00:08','2014-02-24 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '1A411216-638B-979E-9002-17A041EE7873' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('1A411216-638B-979E-9002-17A041EE7873','LensProfi','79517122668','2014-02-24 11:00:08','2014-02-24 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'D3337D13-B391-4906-7D66-71ECA5D1DADB' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('D3337D13-B391-4906-7D66-71ECA5D1DADB','LensProfi','79104667926','2014-02-27 11:00:10','2014-02-27 11:00:10',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '69BB1BE7-E16D-309E-9CC6-990545B01D56' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('69BB1BE7-E16D-309E-9CC6-990545B01D56','LensProfi','79150746472','2014-02-28 11:00:07','2014-02-28 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'E9AFDFF1-524C-4EA8-5D79-96D8566CFCE4' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('E9AFDFF1-524C-4EA8-5D79-96D8566CFCE4','LensProfi','79169134323','2014-02-28 11:00:07','2014-02-28 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'A29DF949-B0E6-8C64-633D-650E3E6C8FAA' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('A29DF949-B0E6-8C64-633D-650E3E6C8FAA','LensProfi','79857886699','2014-03-01 11:00:08','2014-03-01 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '90969297-64CB-D419-8248-8E9257529346' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('90969297-64CB-D419-8248-8E9257529346','LensProfi','79206145009','2014-03-01 11:00:08','2014-03-01 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '8B2F1B39-8048-D86B-ECD4-D3A6F9FA6211' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('8B2F1B39-8048-D86B-ECD4-D3A6F9FA6211','LensProfi','79104710693','2014-03-01 11:00:09','2014-03-01 11:00:09',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '7B9A79B6-459E-89BE-8B84-2565E1E96381' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('7B9A79B6-459E-89BE-8B84-2565E1E96381','LensProfi','79624028725','2014-03-02 11:00:07','2014-03-02 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '700D35A5-AAAE-0FCD-C997-A7551B6D07BB' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('700D35A5-AAAE-0FCD-C997-A7551B6D07BB','LensProfi','79168780130','2014-03-02 11:00:08','2014-03-02 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '24B769F5-2A50-8F70-671F-C5543C4D27AB' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('24B769F5-2A50-8F70-671F-C5543C4D27AB','LensProfi','79153998410','2014-03-03 11:00:07','2014-03-03 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '5878770F-FD80-B48E-8160-E7BC02B956F3' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('5878770F-FD80-B48E-8160-E7BC02B956F3','LensProfi','79153998410','2014-03-03 11:00:08','2014-03-03 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '711FAB70-911A-7DF0-26B8-D23BDE0FE679' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('711FAB70-911A-7DF0-26B8-D23BDE0FE679','LensProfi','79605618767','2014-03-03 11:00:08','2014-03-03 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '99008502-CEBB-9AFA-9598-94E09BBF5D35' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('99008502-CEBB-9AFA-9598-94E09BBF5D35','LensProfi','79064052228','2014-03-03 11:00:08','2014-03-03 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'E0324E2B-341A-BA5A-D3C9-33377AA8E8A0' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('E0324E2B-341A-BA5A-D3C9-33377AA8E8A0','LensProfi','79260489934','2014-03-04 11:00:09','2014-03-04 11:00:09',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'D590F5E3-A27B-ABAB-B77D-A168B4FD2ACB' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('D590F5E3-A27B-ABAB-B77D-A168B4FD2ACB','LensProfi','79851250260','2014-03-04 11:00:09','2014-03-04 11:00:09',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '57D1BD19-83C3-57DA-9053-373782282D39' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('57D1BD19-83C3-57DA-9053-373782282D39','LensProfi','79265363005','2014-03-04 11:00:10','2014-03-04 11:00:10',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'CA67EAD7-7453-CD99-3123-759869CD38E0' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('CA67EAD7-7453-CD99-3123-759869CD38E0','LensProfi','79629751355','2014-03-04 11:00:10','2014-03-04 11:00:10',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '756B3A8E-1581-C1FA-D6E1-4022B9F823B6' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('756B3A8E-1581-C1FA-D6E1-4022B9F823B6','LensProfi','79163098646','2014-03-05 11:00:07','2014-03-05 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '5017DF50-1B39-52D7-F792-5FAC9C20233E' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('5017DF50-1B39-52D7-F792-5FAC9C20233E','LensProfi','79166896264','2014-03-05 11:00:07','2014-03-05 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'EB4D5CB1-C167-823B-F01B-6C0B9D2E4666' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('EB4D5CB1-C167-823B-F01B-6C0B9D2E4666','LensProfi','79263752531','2014-03-05 11:00:07','2014-03-05 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'A029B8FB-1393-BE94-72D8-2C575FFB6126' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('A029B8FB-1393-BE94-72D8-2C575FFB6126','LensProfi','79265717866','2014-03-05 11:00:08','2014-03-05 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'F4925447-9DE0-3D3C-D27C-D3660B38645A' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('F4925447-9DE0-3D3C-D27C-D3660B38645A','LensProfi','79637508446','2014-03-06 11:00:08','2014-03-06 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '9941908B-2281-0D1E-85B7-ED5104683248' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('9941908B-2281-0D1E-85B7-ED5104683248','LensProfi','79296788289','2014-03-08 11:00:07','2014-03-08 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'C9DF60CA-DB33-6C96-03DF-7DF25DF792D3' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('C9DF60CA-DB33-6C96-03DF-7DF25DF792D3','LensProfi','79015993177','2014-03-08 11:00:08','2014-03-08 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '43C36E53-4E6F-499D-1584-8F58B6990B31' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('43C36E53-4E6F-499D-1584-8F58B6990B31','LensProfi','79104368442','2014-03-09 11:00:07','2014-03-09 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '634E55DD-91C4-9D6E-0726-D3FF6909EFC8' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('634E55DD-91C4-9D6E-0726-D3FF6909EFC8','LensProfi','79161144910','2014-03-09 11:00:08','2014-03-09 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'C147C66C-7AA1-1CDA-E694-A33E7DC0304A' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('C147C66C-7AA1-1CDA-E694-A33E7DC0304A','LensProfi','79036810791','2014-03-09 11:00:08','2014-03-09 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '961C7A6A-02D9-5B67-66C3-8386E9F1141B' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('961C7A6A-02D9-5B67-66C3-8386E9F1141B','LensProfi','79805105600','2014-03-10 11:00:08','2014-03-10 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '36EF76BC-8949-A1C9-A8F4-C38337F7131B' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('36EF76BC-8949-A1C9-A8F4-C38337F7131B','LensProfi','79167406059','2014-03-11 11:00:07','2014-03-11 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '5E003ACD-C4E5-95D6-9BE7-0B3C9DC5CD1E' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('5E003ACD-C4E5-95D6-9BE7-0B3C9DC5CD1E','LensProfi','79296448121','2014-03-13 11:00:07','2014-03-13 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '9BBADA59-BDC5-DF4A-6B31-AFCB26F5C068' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('9BBADA59-BDC5-DF4A-6B31-AFCB26F5C068','LensProfi','79108631333','2014-03-14 11:00:09','2014-03-14 11:00:09',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'CB3F598F-26B8-5C86-2CA6-3AE2C8EDC93C' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('CB3F598F-26B8-5C86-2CA6-3AE2C8EDC93C','LensProfi','79652641496','2014-03-15 11:01:01','2014-03-15 11:01:01',5,0,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'D8748952-3092-0E83-79DE-5704A8A9F860' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('D8748952-3092-0E83-79DE-5704A8A9F860','LensProfi','79639620004','2014-03-17 11:00:08','2014-03-17 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '1575D7B4-0B83-C3B6-9F4A-38E93FAB5FEE' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('1575D7B4-0B83-C3B6-9F4A-38E93FAB5FEE','LensProfi','79265758651','2014-03-18 11:00:08','2014-03-18 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '526728B8-4C42-A0E8-291F-2DBE8A5AFA8D' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('526728B8-4C42-A0E8-291F-2DBE8A5AFA8D','LensProfi','79032375866','2014-03-19 11:00:02','2014-03-19 11:00:02',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '166368AC-B203-A17E-4145-40E84CEA874F' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('166368AC-B203-A17E-4145-40E84CEA874F','LensProfi','79085867257','2014-03-19 11:00:03','2014-03-19 11:00:03',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '0A287977-8F3E-48EF-C2F9-460145E42D03' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('0A287977-8F3E-48EF-C2F9-460145E42D03','LensProfi','79269170828','2014-03-20 11:00:07','2014-03-20 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '631D2061-2A05-215A-216B-A631E40F9F18' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('631D2061-2A05-215A-216B-A631E40F9F18','LensProfi','79672605143','2014-03-20 11:00:08','2014-03-20 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'A702687C-BD65-08BB-246D-66CA964D4950' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('A702687C-BD65-08BB-246D-66CA964D4950','LensProfi','79265255919','2014-03-20 11:00:08','2014-03-20 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'BD7D0100-E368-2D2D-CF4B-62934FD1E124' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('BD7D0100-E368-2D2D-CF4B-62934FD1E124','LensProfi','79160704188','2014-03-20 11:00:08','2014-03-20 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '6FF4420D-6D35-798D-7267-F66F636BC45E' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('6FF4420D-6D35-798D-7267-F66F636BC45E','LensProfi','79031002570','2014-03-21 11:00:07','2014-03-21 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '0EFF7023-2578-7203-BEA6-5FBA37C0B307' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('0EFF7023-2578-7203-BEA6-5FBA37C0B307','LensProfi','79037247166','2014-03-21 11:00:08','2014-03-21 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '446A88C2-C118-088E-35B4-2F4DF4BFECA2' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('446A88C2-C118-088E-35B4-2F4DF4BFECA2','LensProfi','79262258597','2014-03-22 11:00:08','2014-03-22 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'B6104597-E715-C291-0592-5130AC0CE65C' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('B6104597-E715-C291-0592-5130AC0CE65C','LensProfi','79651592405','2014-03-22 11:00:08','2014-03-22 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '094BEBD9-689F-A121-2B65-519272A5A1F7' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('094BEBD9-689F-A121-2B65-519272A5A1F7','LensProfi','79031174883','2014-03-22 11:00:08','2014-03-22 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '2A653310-432F-C165-956A-36B7F9F55406' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('2A653310-432F-C165-956A-36B7F9F55406','LensProfi','79859921834','2014-03-22 11:00:08','2014-03-22 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '5062576F-5A69-F482-B476-F7E70A9A32B8' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('5062576F-5A69-F482-B476-F7E70A9A32B8','LensProfi','79052287888','2014-03-23 11:00:08','2014-03-23 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '46B8F3D5-0377-7A48-F86C-F309AA89C793' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('46B8F3D5-0377-7A48-F86C-F309AA89C793','LensProfi','79091558245','2014-03-23 11:00:08','2014-03-23 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '3D674E63-B541-248C-A36D-28F790223B58' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('3D674E63-B541-248C-A36D-28F790223B58','LensProfi','79265990981','2014-03-23 11:00:09','2014-03-23 11:00:09',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '99438FE3-00A2-1926-8B02-F7E4A59D5509' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('99438FE3-00A2-1926-8B02-F7E4A59D5509','LensProfi','79050540935','2014-03-23 11:00:09','2014-03-23 11:00:09',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '46BCD4D8-2A9D-AB52-1597-76071FC12CFB' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('46BCD4D8-2A9D-AB52-1597-76071FC12CFB','LensProfi','79104019325','2014-03-23 11:00:09','2014-03-23 11:00:09',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '42A4CC69-4E4D-4CC4-CEE6-C4430D6B2108' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('42A4CC69-4E4D-4CC4-CEE6-C4430D6B2108','LensProfi','79877474172','2014-03-23 11:00:10','2014-03-23 11:00:10',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '935CD9EF-7614-36C6-558D-7D5FACF71D26' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('935CD9EF-7614-36C6-558D-7D5FACF71D26','LensProfi','79261746531','2014-03-23 11:00:10','2014-03-23 11:00:10',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'DD014471-18E7-73FF-F42F-F4837823611F' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('DD014471-18E7-73FF-F42F-F4837823611F','LensProfi','79689454925','2014-03-25 11:00:07','2014-03-25 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '24C15C8F-4029-1767-FF44-F1E2F2A9FED2' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('24C15C8F-4029-1767-FF44-F1E2F2A9FED2','LensProfi','79032154669','2014-03-26 11:00:08','2014-03-26 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '1428DCF4-EEB5-A240-B0F6-E6B6044F3EC2' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('1428DCF4-EEB5-A240-B0F6-E6B6044F3EC2','LensProfi','79161804735','2014-03-26 11:00:08','2014-03-26 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'F54A9D3F-779C-CFE4-320B-3019EDA43D67' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('F54A9D3F-779C-CFE4-320B-3019EDA43D67','LensProfi','79035854688','2014-03-26 11:00:08','2014-03-26 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '2407B3F7-9473-C97E-6D49-358E38A60DC9' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('2407B3F7-9473-C97E-6D49-358E38A60DC9','LensProfi','79101322859','2014-03-27 11:00:08','2014-03-27 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '613C49FB-E5C7-46FD-BC3E-712DECB93DA6' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('613C49FB-E5C7-46FD-BC3E-712DECB93DA6','LensProfi','79853198409','2014-03-27 11:00:08','2014-03-27 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '9D6F4EFC-68EF-7E56-21E1-B4CEADC0C0DA' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('9D6F4EFC-68EF-7E56-21E1-B4CEADC0C0DA','LensProfi','79165075105','2014-03-27 11:00:08','2014-03-27 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'F6D4E6EA-881B-7F76-655A-7952C2587E6A' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('F6D4E6EA-881B-7F76-655A-7952C2587E6A','LensProfi','79257777002','2014-03-28 11:00:07','2014-03-28 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '3999CFB3-59C0-8737-DEB0-8E1D3CABA3E7' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('3999CFB3-59C0-8737-DEB0-8E1D3CABA3E7','LensProfi','79153530550','2014-03-28 11:00:07','2014-03-28 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'C88BA46D-FEEF-7CFF-53F9-D4E6E0BA23C2' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('C88BA46D-FEEF-7CFF-53F9-D4E6E0BA23C2','LensProfi','79262473358','2014-03-28 11:00:08','2014-03-28 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '817F092B-87C2-E110-18E1-66BF812CF633' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('817F092B-87C2-E110-18E1-66BF812CF633','LensProfi','79162903056','2014-03-29 11:00:07','2014-03-29 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '60CAF398-7338-3CAF-93D4-239892BAF15B' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('60CAF398-7338-3CAF-93D4-239892BAF15B','LensProfi','79162949603','2014-03-29 11:00:08','2014-03-29 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '888DF144-9245-5953-8485-3CF46C4D1DE8' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('888DF144-9245-5953-8485-3CF46C4D1DE8','LensProfi','79169473473','2014-03-30 11:00:07','2014-03-30 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'FCAC34CB-103D-C55C-F42B-DD079BA2E395' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('FCAC34CB-103D-C55C-F42B-DD079BA2E395','LensProfi','79296392414','2014-03-30 11:00:07','2014-03-30 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'DF940E5F-1900-3A44-9E72-2DEAE2E57A21' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('DF940E5F-1900-3A44-9E72-2DEAE2E57A21','LensProfi','79099340101','2014-03-31 11:00:08','2014-03-31 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'E6263D38-2AEF-B1B2-23AD-4EB28167C39B' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('E6263D38-2AEF-B1B2-23AD-4EB28167C39B','LensProfi','79099711119','2014-03-31 11:00:08','2014-03-31 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'A6E5BEDE-BF6C-D060-15F0-BF0F4BE838B8' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('A6E5BEDE-BF6C-D060-15F0-BF0F4BE838B8','LensProfi','79175580779','2014-04-02 11:00:08','2014-04-02 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '0C285C1D-EF89-3DC1-4FC5-10C45B55158C' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('0C285C1D-EF89-3DC1-4FC5-10C45B55158C','LensProfi','79857886699','2014-04-02 11:00:08','2014-04-02 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '0911712B-DE39-D2B7-388F-F297933B4018' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('0911712B-DE39-D2B7-388F-F297933B4018','LensProfi','79055377861','2014-04-03 11:00:07','2014-04-03 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '32876980-F713-F945-1D73-A89C234F9408' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('32876980-F713-F945-1D73-A89C234F9408','LensProfi','79265938863','2014-04-03 11:00:08','2014-04-03 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '18DB87F9-C62B-CF13-0EEF-4EFB3F8C0E86' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('18DB87F9-C62B-CF13-0EEF-4EFB3F8C0E86','LensProfi','79030161383','2014-04-03 11:00:08','2014-04-03 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '25F4FE55-C643-1B93-AAA1-B184E08907C7' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('25F4FE55-C643-1B93-AAA1-B184E08907C7','LensProfi','79299012523','2014-04-04 11:00:02','2014-04-04 11:00:02',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '460106F4-9B6C-5C57-1841-8C03BF5A520B' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('460106F4-9B6C-5C57-1841-8C03BF5A520B','LensProfi','79652641496','2014-04-04 11:00:02','2014-04-04 11:00:02',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '7D72CE10-F0AF-EACB-853B-573459BC5378' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('7D72CE10-F0AF-EACB-853B-573459BC5378','LensProfi','79258507252','2014-04-05 11:00:08','2014-04-05 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'EA766CFA-7F8A-8783-47F8-5973639AC53F' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('EA766CFA-7F8A-8783-47F8-5973639AC53F','LensProfi','79037936610','2014-04-07 11:00:07','2014-04-07 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '0568D557-0000-C0B9-56A8-340CA3F49CD5' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('0568D557-0000-C0B9-56A8-340CA3F49CD5','LensProfi','79261723616','2014-04-07 11:00:07','2014-04-07 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'CD78377B-43BE-52AE-1A15-01239E041D31' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('CD78377B-43BE-52AE-1A15-01239E041D31','LensProfi','79653255560','2014-04-08 11:00:07','2014-04-08 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '95204E46-A3E7-5035-9143-6962BBB8D749' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('95204E46-A3E7-5035-9143-6962BBB8D749','LensProfi','79198621510','2014-04-08 11:00:08','2014-04-08 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '77EA830E-B99C-BE4C-654B-C1467DF2D7EF' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('77EA830E-B99C-BE4C-654B-C1467DF2D7EF','LensProfi','79645332032','2014-04-09 11:00:07','2014-04-09 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '2F98BB2F-A672-2E2D-33DD-5C76D92DCF8A' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('2F98BB2F-A672-2E2D-33DD-5C76D92DCF8A','LensProfi','79165566671','2014-04-10 11:00:07','2014-04-10 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'A142CD9C-067C-933E-C756-04500AF0FEA0' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('A142CD9C-067C-933E-C756-04500AF0FEA0','LensProfi','79037936610','2014-04-11 11:00:07','2014-04-11 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'A8653160-F500-2F58-CCA7-C0544863A457' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('A8653160-F500-2F58-CCA7-C0544863A457','LensProfi','79266830563','2014-04-11 11:00:08','2014-04-11 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'B647CA8E-31C2-215C-053C-5942897F2664' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('B647CA8E-31C2-215C-053C-5942897F2664','LensProfi','79153893227','2014-04-12 11:00:08','2014-04-12 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'C7E47890-024C-291F-3AE5-FBD317D79732' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('C7E47890-024C-291F-3AE5-FBD317D79732','LensProfi','79096721817','2014-04-13 11:00:07','2014-04-13 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'F99A0308-A65E-CC02-0053-EC432B945AAF' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('F99A0308-A65E-CC02-0053-EC432B945AAF','LensProfi','79651252411','2014-04-13 11:00:07','2014-04-13 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '6AFC2C46-8DC5-3F65-A607-76757B5C4914' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('6AFC2C46-8DC5-3F65-A607-76757B5C4914','LensProfi','79296788289','2014-04-14 11:00:07','2014-04-14 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '6F60C6CE-1C9A-16B9-1FB2-FC6287484EE0' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('6F60C6CE-1C9A-16B9-1FB2-FC6287484EE0','LensProfi','79652776065','2014-04-14 11:00:07','2014-04-14 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '886B7ED7-DC40-F200-67D8-13801AB9BD0F' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('886B7ED7-DC40-F200-67D8-13801AB9BD0F','LensProfi','79031902542','2014-04-14 11:00:07','2014-04-14 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'F313FA81-595D-5486-9E4F-C5BCF92A9FB4' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('F313FA81-595D-5486-9E4F-C5BCF92A9FB4','LensProfi','79254285035','2014-04-15 11:00:08','2014-04-15 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '647F478F-6AA0-C168-33CD-5764A194F572' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('647F478F-6AA0-C168-33CD-5764A194F572','LensProfi','79265363005','2014-04-15 11:00:08','2014-04-15 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '1B308FA3-8100-5662-88FE-7632C9144D69' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('1B308FA3-8100-5662-88FE-7632C9144D69','LensProfi','79261552323','2014-04-15 11:00:08','2014-04-15 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '8F4B0343-28FA-51B7-3A39-E414C3733AC4' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('8F4B0343-28FA-51B7-3A39-E414C3733AC4','LensProfi','79140278461','2014-04-15 11:00:09','2014-04-15 11:00:09',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '2C54E89A-1052-3609-8295-F31DBD60C7BB' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('2C54E89A-1052-3609-8295-F31DBD60C7BB','LensProfi','79055377861','2014-04-17 11:00:08','2014-04-17 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'B72742A6-1596-14FC-EF3E-578CC587ECFF' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('B72742A6-1596-14FC-EF3E-578CC587ECFF','LensProfi','79269222221','2014-04-18 11:00:07','2014-04-18 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '0495D500-0B20-CAC6-7023-3B2332C305A2' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('0495D500-0B20-CAC6-7023-3B2332C305A2','LensProfi','79160129693','2014-04-18 11:00:08','2014-04-18 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'D717AB71-1356-D801-DFF5-37C9B08F8199' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('D717AB71-1356-D801-DFF5-37C9B08F8199','LensProfi','79169263010','2014-04-19 11:00:10','2014-04-19 11:00:10',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'F6407750-FFA7-2D9A-2B82-41B55B1AA219' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('F6407750-FFA7-2D9A-2B82-41B55B1AA219','LensProfi','79175852444','2014-04-19 11:00:14','2014-04-19 11:00:14',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '798F35FB-7DCC-9A0C-6ADA-54BA19F633B1' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('798F35FB-7DCC-9A0C-6ADA-54BA19F633B1','LensProfi','79067567298','2014-04-20 11:00:07','2014-04-20 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '0A0F9E51-03EB-8722-A579-30BBD2BC6995' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('0A0F9E51-03EB-8722-A579-30BBD2BC6995','LensProfi','79269660009','2014-04-21 11:00:03','2014-04-21 11:00:03',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'D4ED0C03-A37A-4885-ADC7-3B4550FAA904' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('D4ED0C03-A37A-4885-ADC7-3B4550FAA904','LensProfi','79611491513','2014-04-21 11:00:04','2014-04-21 11:00:04',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '28336D06-D05B-02A9-7CCB-EC7453D4AFB3' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('28336D06-D05B-02A9-7CCB-EC7453D4AFB3','LensProfi','79671130069','2014-04-21 11:00:04','2014-04-21 11:00:04',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'DDC05D1E-99D5-3B1C-AEA8-C739763A0E5B' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('DDC05D1E-99D5-3B1C-AEA8-C739763A0E5B','LensProfi','79197683116','2014-04-21 11:00:04','2014-04-21 11:00:04',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '7D1AFB06-BFF1-11CD-CA7E-8BDFDC63C915' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('7D1AFB06-BFF1-11CD-CA7E-8BDFDC63C915','LensProfi','79066436409','2014-04-21 11:00:05','2014-04-21 11:00:05',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '14C40415-9B7A-A298-FAC0-5EA3787CF82B' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('14C40415-9B7A-A298-FAC0-5EA3787CF82B','LensProfi','79263881053','2014-04-22 11:00:07','2014-04-22 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'F1DF1978-74B0-4826-A087-20C7BB7A0484' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('F1DF1978-74B0-4826-A087-20C7BB7A0484','LensProfi','79265255919','2014-04-22 11:00:07','2014-04-22 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'FF8D95C5-1DBE-6789-D2B5-74451C9BA4E8' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('FF8D95C5-1DBE-6789-D2B5-74451C9BA4E8','LensProfi','74955370235','2014-04-23 11:00:08','2014-04-23 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '552D96EC-AAF0-365B-E68D-C7BCCC54A849' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('552D96EC-AAF0-365B-E68D-C7BCCC54A849','LensProfi','79169671615','2014-04-24 11:00:07','2014-04-24 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'CF1D8BE1-8AF5-2B3D-B5A8-3D2F7151D47B' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('CF1D8BE1-8AF5-2B3D-B5A8-3D2F7151D47B','LensProfi','79140927745','2014-04-24 11:00:07','2014-04-24 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '27BE3EB9-8436-CF5E-0588-9DD3023A7F2F' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('27BE3EB9-8436-CF5E-0588-9DD3023A7F2F','LensProfi','79175853697','2014-04-24 11:00:08','2014-04-24 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'E41165CE-D014-6D7F-170B-5E62239415D3' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('E41165CE-D014-6D7F-170B-5E62239415D3','LensProfi','79296689291','2014-04-24 11:00:08','2014-04-24 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '1E8EF5C9-831A-C700-C973-3CD4932B0374' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('1E8EF5C9-831A-C700-C973-3CD4932B0374','LensProfi','79150555040','2014-04-25 11:00:02','2014-04-25 11:00:02',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'E751B8FB-CFA7-5456-67D4-CEA474261186' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('E751B8FB-CFA7-5456-67D4-CEA474261186','LensProfi','79037247166','2014-04-26 11:00:02','2014-04-26 11:00:02',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'B0D6D373-89BC-5713-A4AC-A1FAC6A04BD5' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('B0D6D373-89BC-5713-A4AC-A1FAC6A04BD5','LensProfi','79292215225','2014-04-26 11:00:02','2014-04-26 11:00:02',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '5C621D4F-CB4E-73E3-D11B-4F166F7FD348' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('5C621D4F-CB4E-73E3-D11B-4F166F7FD348','LensProfi','79129533030','2014-04-26 11:00:03','2014-04-26 11:00:03',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '71E267C6-5D25-C76D-0B33-627FCCAC8F1B' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('71E267C6-5D25-C76D-0B33-627FCCAC8F1B','LensProfi','79153530550','2014-04-27 11:00:07','2014-04-27 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '01898212-3EDE-A77A-5437-7C97C4CC3C18' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('01898212-3EDE-A77A-5437-7C97C4CC3C18','LensProfi','79154326942','2014-04-28 11:00:07','2014-04-28 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'A12536A9-F87D-4169-F8E3-83029E0C1756' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('A12536A9-F87D-4169-F8E3-83029E0C1756','LensProfi','79150923416','2014-04-28 11:00:07','2014-04-28 11:00:07',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = 'EFAE83EA-C3E8-85A4-7161-4A6B5B60E96F' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('EFAE83EA-C3E8-85A4-7161-4A6B5B60E96F','LensProfi','79612442085','2014-04-28 11:00:08','2014-04-28 11:00:08',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')
+==============
+SELECT GUID FROM b_sms4b WHERE GUID = '4F68A1DA-289A-01FB-B886-C8B06A4B9DD3' 
+==============
+insert into b_sms4b (GUID,SenderName,Destination,StartSend,LastModified,Status,CountPart,SendPart,CodeType,TextMessage,Sale_Order,Posting,Events) values ('4F68A1DA-289A-01FB-B886-C8B06A4B9DD3','LensProfi','79156550640','2014-04-29 11:00:02','2014-04-29 11:00:02',5,3,0,1,'Добрый день, срок использования Ваших контактных линз подходит к концу. Повторный заказ Вы можете оформить на LensProfi.ru или по телефону +74997097790',0,0,'')

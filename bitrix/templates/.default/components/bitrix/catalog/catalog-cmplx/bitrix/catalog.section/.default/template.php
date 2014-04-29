@@ -54,7 +54,7 @@
 						<?						
 						if(mb_strlen($arElement["PREVIEW_TEXT"])>210)
 						{
-							echo mb_substr($arElement["PREVIEW_TEXT"], 0, 210).'...';
+							echo mb_substr($arElement["PREVIEW_TEXT"],0,180,"UTF-8").'...';
 						}
 						else
 						{

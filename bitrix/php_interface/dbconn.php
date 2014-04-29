@@ -19,7 +19,9 @@ $DBHost = "localhost";
 #$DBLogin = "linzprofy_mysql";
 #$DBLogin = "root";
 #$DBLogin = "linzprofy_mysql";
+#$DBLogin = "bitrix_user";
 $DBLogin = "root";
+
 
 
 
@@ -32,7 +34,9 @@ $DBLogin = "root";
 #$DBPassword = "48l3hzzg";
 #$DBPassword = "root";
 #$DBPassword = "48l3hzzg";
+#$DBPassword = "MRT11_erhh154";
 $DBPassword = "Rb9Ls64";
+
 
 
 
@@ -45,7 +49,9 @@ $DBPassword = "Rb9Ls64";
 #$DBName = "linzprofy_db";
 #$DBName = "linzi";
 #$DBName = "linzprofy_db";
-$DBName = "lensprofi.rg3.su";
+#$DBName = "main_bitrix";
+$DBName = "lensprofi.ru";
+
 
 
 

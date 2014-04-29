@@ -15,8 +15,8 @@ $aMenuLinks = Array(
 		"" 
 	),
 	Array(
-		"Гарантии", 
-		"/warranty/", 
+		"Оплата", 
+		"/help/how_to_pay.php", 
 		Array(), 
 		Array(), 
 		"" 
@@ -24,13 +24,6 @@ $aMenuLinks = Array(
 	Array(
 		"Скидки", 
 		"/discount/", 
-		Array(), 
-		Array(), 
-		"" 
-	),
-	Array(
-		"Помощь", 
-		"/help/", 
 		Array(), 
 		Array(), 
 		"" 

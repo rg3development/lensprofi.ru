@@ -1,1 +1,2 @@
-<a href="/discount/" ><img src="/upload/medialibrary/911/911954b6de2c256fc9d4617af9be5663.jpg" title="Оптические промо.jpg" border="0" alt="Оптические промо.jpg" width="340" height="212" align="right"  /></a>
+
+<div style="text-align: left;"><a href="/catalog/?prod=l&amp;type=type0&amp;producer=producer615&amp;period=time0" ><img src="/upload/medialibrary/003/00378d7241529b9c39717035f4451eb4.jpg" title="Adria" border="0" alt="Adria" width="339" height="215"  /></a></div>
